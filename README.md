@@ -1,44 +1,120 @@
-# awesome-machine-learning-on-source-code
-Interesting links &amp; research papers related to Machine Learning applied to source code
+# Awesome Machine Learning On Source Code [Awesome](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
-Andrychowicz, Marcin, and Karol Kurach. “Learning Efficient Algorithms with Hierarchical Attentive Memory.” arXiv:1602.03218 [Cs], February 9, 2016. http://arxiv.org/abs/1602.03218.
+A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/src-d/awesome-machine-learning-on-code)
 
-Balog, Matej, Alexander L. Gaunt, Marc Brockschmidt, Sebastian Nowozin, and Daniel Tarlow. “DeepCoder: Learning to Write Programs.” arXiv:1611.01989 [Cs], November 7, 2016. http://arxiv.org/abs/1611.01989.
+If you want to contribute to this list (please do), send a pull request or contact source{d} [@srcd_](https://twitter.com/srcd_)
+Also, a listed repository should be deprecated if:
 
-Bošnjak, Matko, Tim Rocktäschel, Jason Naradowsky, and Sebastian Riedel. “Programming with a Differentiable Forth Interpreter.” arXiv:1605.06640 [Cs], May 21, 2016. http://arxiv.org/abs/1605.06640.
+* Repository's owner explicitly say that "this library is not maintained".
+* Not committed for long time (2~3 years).
 
-Bottou, Leon. “From Machine Learning to Machine Reasoning.” arXiv:1102.1808 [Cs], February 9, 2011. http://arxiv.org/abs/1102.1808.
+## Table of Contents
 
-Bunel, Rudy, Alban Desmaison, M. Pawan Kumar, Philip H. S. Torr, and Pushmeet Kohli. “Learning to Superoptimize Programs - Workshop Version.” arXiv:1612.01094 [Cs], December 4, 2016. http://arxiv.org/abs/1612.01094.
+<!-- MarkdownTOC depth=4 -->
 
-Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio. “Learning Latent Multiscale Structure Using Recurrent Neural Networks.” https://uclmr.github.io/nampi/extended_abstracts/chung.pdf.
+- [Articles](#articles)
+    - [Machine learning](#articles-ML)
+- [Frameworks](#frameworks)
+    - [Machine Learning](#frameworks-ML)
+    - [Utilities](#frameworks-utilities)
+- [Datasets](#datasets)
+    - [Datasets](#dataset-)
+- [Credits](#credits)
 
-Cropper, Andrew, and Stephen H. Muggleton. “Meta-Interpretive Learning of Efficient Logic Programs.” https://uclmr.github.io/nampi/extended_abstracts/cropper.pdf.
+<!-- /MarkdownTOC -->
 
-Deleu, Tristan, and Joseph Dureau. “Learning Operations on a Stack with Neural Turing Machines.” arXiv:1612.00827 [Cs], December 2, 2016. http://arxiv.org/abs/1612.00827.
+<a name="articles"></a>
+## Articles
 
-Feser, John K., Marc Brockschmidt, Alexander L. Gaunt, and Daniel Tarlow. “Neural Functional Programming.” arXiv:1611.01988 [Cs], November 7, 2016. http://arxiv.org/abs/1611.01988.
+<a name="articles-ML"></a>
+#### Machine learning articles about processing source code 
+* [Topic modeling of public repositories at scale using names in source code](https://arxiv.org/abs/1704.00135)
+* [Topic Modeling of GitHub Repositories](https://blog.sourced.tech//post/github_topic_modeling/)
+* [Similarity of GitHub Repositories by Source Code Identifiers](http://vmarkovtsev.github.io/techtalks-2017-moscow/)
+* [Using deep RNN to model source code](http://vmarkovtsev.github.io/re-work-2016-london/)
+* [Source code abstracts classification using CNN (1)](http://vmarkovtsev.github.io/re-work-2016-berlin/)
+* [Source code abstracts classification using CNN (2)](http://vmarkovtsev.github.io/data-natives-2016/)
+* [Source code abstracts classification using CNN (3)](http://vmarkovtsev.github.io/slush-2016/)
+* [Embedding the GitHub contribution graph](https://egorbu.github.io/techtalks-2017-moscow)
+* [Weighted MinHash on GPU helps to find duplicate GitHub repositories.](https://blog.sourced.tech//post/minhashcuda/)
+* [Parameter-Free Probabilistic API Mining across GitHub](http://homepages.inf.ed.ac.uk/csutton/publications/fse2016.pdf)
+* [A Subsequence Interleaving Model for Sequential Pattern Mining](http://homepages.inf.ed.ac.uk/csutton/publications/kdd2016-subsequence-interleaving.pdf)
+* [A Convolutional Attention Network for Extreme Summarization of Source Code](http://arxiv.org/abs/1602.03001)
+* [Parameter-Free Probabilistic API Mining across GitHub](http://homepages.inf.ed.ac.uk/csutton/publications/fse2016.pdf)
+* [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516)
+* [TASSAL: Autofolding for Source Code Summarization](http://homepages.inf.ed.ac.uk/csutton/publications/icse2016-demo.pdf)
+* [Suggesting Accurate Method and Class Names](http://homepages.inf.ed.ac.uk/csutton/publications/accurate-method-and-class.pdf)
+* [Mining idioms from source code](http://homepages.inf.ed.ac.uk/csutton/publications/idioms.pdf)
+* [Mining Source Code Repositories at Massive Scale using Language Modeling](http://homepages.inf.ed.ac.uk/csutton/publications/msr2013.pdf)
+* [Why, When, and What: Analyzing Stack Overflow Questions by Topic, Type, and Code](http://homepages.inf.ed.ac.uk/csutton/publications/msrCh2013.pdf)
+* [Code Completion with Statistical Language Models](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf) - Veselin Raychev, Martin Vechev, Eran Yahav
+* [Learning Python Code Suggestion with a Sparse Pointer Network](https://arxiv.org/abs/1611.08307) - Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel
+* [Learning Efficient Algorithms with Hierarchical Attentive Memory](http://arxiv.org/abs/1602.03218) - Andrychowicz, Marcin, and Karol Kurach
+* [DeepCoder: Learning to Write Programs](http://arxiv.org/abs/1611.01989) - Balog, Matej, Alexander L. Gaunt, Marc Brockschmidt, Sebastian Nowozin, and Daniel Tarlow
+* [Programming with a Differentiable Forth Interpreter](http://arxiv.org/abs/1605.06640) - Bošnjak, Matko, Tim Rocktäschel, Jason Naradowsky, and Sebastian Riedel
+* [Learning to Superoptimize Programs - Workshop Version](http://arxiv.org/abs/1612.01094) - Bunel, Rudy, Alban Desmaison, M. Pawan Kumar, Philip H. S. Torr, and Pushmeet Kohli
+* [Meta-Interpretive Learning of Efficient Logic Programs](https://uclmr.github.io/nampi/extended_abstracts/cropper.pdf) - Cropper, Andrew, and Stephen H. Muggleton
+* [Learning Operations on a Stack with Neural Turing Machines](http://arxiv.org/abs/1612.00827) - Deleu, Tristan, and Joseph Dureau
+* [Neural Functional Programming](http://arxiv.org/abs/1611.01988) - Feser, John K., Marc Brockschmidt, Alexander L. Gaunt, and Daniel Tarlow
+* [TerpreT: A Probabilistic Programming Language for Program Induction](http://arxiv.org/abs/1612.00817) - Gaunt, Alexander L., Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow
+* [Neural Turing Machines](http://arxiv.org/abs/1410.5401) - Graves, Alex, Greg Wayne, and Ivo Danihelka
+* [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision (Short Version)](http://arxiv.org/abs/1612.01197) - Liang, Chen, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao
+* [Probabilistic Neural Programs](http://arxiv.org/abs/1612.00712) - Murray, Kenton W., and Jayant Krishnamurthy
+* [Neural Programmer: Inducing Latent Programs with Gradient Descent](http://arxiv.org/abs/1511.04834) - Neelakantan, Arvind, Quoc V. Le, and Ilya Sutskever
+* [Divide and Conquer with Neural Networks](http://arxiv.org/abs/1611.02401) - Nowak, Alex, and Joan Bruna
+* [Neural Programmer-Interpreters](http://arxiv.org/abs/1511.06279) - Reed, Scott, and Nando de Freitas
+* [Programs as Black-Box Explanations](http://arxiv.org/abs/1611.07579) - Singh, Sameer, Marco Tulio Ribeiro, and Carlos Guestrin
+* [A Differentiable Approach to Inductive Logic Programming](https://uclmr.github.io/nampi/extended_abstracts/yang.pdf) - Yang, Fan, Zhilin Yang, and William W. Cohen
+* [From Machine Learning to Machine Reasoning](http://arxiv.org/abs/1102.1808) - Bottou, Leon
+* [Learning Latent Multiscale Structure Using Recurrent Neural Networks](https://uclmr.github.io/nampi/extended_abstracts/chung.pdf) - Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio
+* [Lifelong Perceptual Programming By Example](http://arxiv.org/abs/1611.02109) - Gaunt, Alexander L., Marc Brockschmidt, Nate Kushman, and Daniel Tarlow
+* [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007) - Joulin, Armand, and Tomas Mikolov
+* [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) Kaiser, Łukasz, and Ilya Sutskever
 
-Gaunt, Alexander L., Marc Brockschmidt, Nate Kushman, and Daniel Tarlow. “Lifelong Perceptual Programming By Example.” arXiv:1611.02109 [Cs], November 7, 2016. http://arxiv.org/abs/1611.02109.
+<a name="frameworks"></a>
+## Frameworks
 
-Gaunt, Alexander L., Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow. “TerpreT: A Probabilistic Programming Language for Program Induction.” arXiv:1612.00817 [Cs], December 2, 2016. http://arxiv.org/abs/1612.00817.
+<a name="frameworks-ML"></a>
+#### Machine Learning frameworks/libraries
+* [ast2vec](https://github.com/src-d/ast2vec) - Extract word emdbeddings from source code using abstract syntax tree + swivel
+* [vecino](https://github.com/src-d/vecino) - Discovering similar Git repositories
+* [Linguist](https://github.com/src-d/enry) - Insanely fast file based programming language detector.
 
-Graves, Alex, Greg Wayne, and Ivo Danihelka. “Neural Turing Machines.” arXiv:1410.5401 [Cs], October 20, 2014. http://arxiv.org/abs/1410.5401.
+* [Naturalize](https://github.com/mast-group/naturalize) - Naturalize is a language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code. 
+* [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - A convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens. 
+* [Probabilistic API Miner](https://github.com/mast-group/api-mining) - PAM is a near parameter-free probabilistic algorithm for mining the most interesting API patterns from a list of API call sequences. 
+* [Interesting Sequence Miner](https://github.com/mast-group/sequence-mining) - ISM is a novel algorithm that mines the most interesting sequences under a probablistic model. It is able to efficiently infer interesting sequences directly from the database. 
+* [TASSAL](https://github.com/mast-group/tassal) - TASSAL is a tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks. 
 
-Joulin, Armand, and Tomas Mikolov. “Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets.” arXiv:1503.01007 [Cs], March 3, 2015. http://arxiv.org/abs/1503.01007.
 
-Kaiser, Łukasz, and Ilya Sutskever. “Neural GPUs Learn Algorithms.” arXiv:1511.08228 [Cs], November 25, 2015. http://arxiv.org/abs/1511.08228.
 
-Liang, Chen, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao. “Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision (Short Version).” arXiv:1612.01197 [Cs], December 4, 2016. http://arxiv.org/abs/1612.01197.
+<a name="frameworks-utilities"></a>
+#### Frameworks for preprocessing source code, etc.
+* [bblfsh](https://github.com/bblfsh) - A self-hosted server for source code parsing
+* [minhashcuda](https://github.com/src-d/minhashcuda) - source{d}, to efficiently remove duplicates of repositories
+* [kmcuda](https://github.com/src-d/kmcuda) - source{d}, to cluster and to search for nearest neighbors in dense space
+* [wmd-relax](https://github.com/src-d/wmd-relax) - source{d}, to find nearest neighbors at Word Mover's Distance - to find nearest repositories
+* [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
+* [swivel-spark-prep](https://github.com/src-d/swivel-spark-prep) - Distributed equivalent of prep.py and fastprep from Swivel using Apache Spark.
+* [hercules](https://github.com/src-d/hercules) - Calculates the lines burnout stats in a Git repository
+* [lapjv](https://github.com/src-d/lapjv) - Linear Assignmment Problem solver using Jonker-Volgenant algorithm - Python 3 native module
 
-Murray, Kenton W., and Jayant Krishnamurthy. “Probabilistic Neural Programs.” arXiv:1612.00712 [Cs], December 2, 2016. http://arxiv.org/abs/1612.00712.
 
-Neelakantan, Arvind, Quoc V. Le, and Ilya Sutskever. “Neural Programmer: Inducing Latent Programs with Gradient Descent.” arXiv:1511.04834 [Cs, Stat], November 16, 2015. http://arxiv.org/abs/1511.04834.
+<a name="datasets"></a>
+#### Source code datasets
+<a name="dataset-"></a>
+* [GitHub repositories - languages distribution](https://data.world/source-d/github-repositories-languages-distribution) - Programming languages distribution in 14,000,000 repositories on GitHub (October 2016)
+* [452M commits on GitHub](https://data.world/vmarkovtsev/452-m-commits-on-github) - ≈ 452M commits' metadata from 16M repositories on GitHub (October 2016)
+* [GitHub readme files](https://data.world/vmarkovtsev/github-readme-files) - Readme files of all GitHub repositories (16M) (October 2016)
+* [from language X to Y](https://data.world/vmarkovtsev/from-language-x-to-y) - The cache file Erik Bernhardsson collected for his awesome blog post
+* [GitHub word2vec 120k](https://data.world/vmarkovtsev/github-word-2-vec-120-k) - Sequences of identifiers extracted from top starred 120,000 GitHub repos
+* [GitHub Source Code Names](https://data.world/vmarkovtsev/github-source-code-names) - Names in source code extracted from 13M GitHub repositories, not people!
+* [GitHub duplicate repositories](https://data.world/vmarkovtsev/github-duplicate-repositories) - GitHub repositories not marked as forks but very similar to each other
+* [GitHub lng keyword frequencies](https://data.world/vmarkovtsev/github-lng-keyword-frequencies) - Programming language keyword frequency extracted from 16M GitHub repositories
+* [GitHub Java Corpus](http://groups.inf.ed.ac.uk/cup/javaGithub/ ) - The GitHub Java corpus is a set of Java projects collected from GitHub that we have used in a number of our publications. The corpus consists of 14,785 projects and 352,312,696 LOC. 
 
-Nowak, Alex, and Joan Bruna. “Divide and Conquer with Neural Networks.” arXiv:1611.02401 [Cs, Stat], November 8, 2016. http://arxiv.org/abs/1611.02401.
 
-Reed, Scott, and Nando de Freitas. “Neural Programmer-Interpreters.” arXiv:1511.06279 [Cs], November 19, 2015. http://arxiv.org/abs/1511.06279.
+<a name="credits"></a>
+## Credits
 
-Singh, Sameer, Marco Tulio Ribeiro, and Carlos Guestrin. “Programs as Black-Box Explanations.” arXiv:1611.07579 [Cs, Stat], November 22, 2016. http://arxiv.org/abs/1611.07579.
-
-Yang, Fan, Zhilin Yang, and William W. Cohen. “A Differentiable Approach to Inductive Logic Programming.” https://uclmr.github.io/nampi/extended_abstracts/yang.pdf.
+* A lot of references and articles were taken from [mast-group](https://mast-group.github.io/)
