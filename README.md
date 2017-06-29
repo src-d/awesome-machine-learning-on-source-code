@@ -47,6 +47,7 @@ Also, a listed repository should be deprecated if:
 * [Mining idioms from source code](http://homepages.inf.ed.ac.uk/csutton/publications/idioms.pdf)
 * [Mining Source Code Repositories at Massive Scale using Language Modeling](http://homepages.inf.ed.ac.uk/csutton/publications/msr2013.pdf)
 * [Why, When, and What: Analyzing Stack Overflow Questions by Topic, Type, and Code](http://homepages.inf.ed.ac.uk/csutton/publications/msrCh2013.pdf)
+* [Latent Predictor Networks for Code Generation](https://arxiv.org/abs/1603.06744) - Address the problem of generating programming code from a mixed natural language and structured specification. Wang Ling, Edward Grefenstette, Karl Moritz Hermann, Tomáš Kočiský, Andrew Senior, Fumin Wang, Phil Blunsom
 * [Code Completion with Statistical Language Models](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf) - Veselin Raychev, Martin Vechev, Eran Yahav
 * [Learning Python Code Suggestion with a Sparse Pointer Network](https://arxiv.org/abs/1611.08307) - Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel
 * [Learning Efficient Algorithms with Hierarchical Attentive Memory](http://arxiv.org/abs/1602.03218) - Andrychowicz, Marcin, and Karol Kurach
@@ -76,6 +77,7 @@ Also, a listed repository should be deprecated if:
 
 <a name="frameworks-ML"></a>
 #### Machine Learning frameworks/libraries
+* [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) - A TensorFlow implementation of the Differentiable Neural Computer.
 * [ast2vec](https://github.com/src-d/ast2vec) - Extract word emdbeddings from source code using abstract syntax tree + swivel
 * [vecino](https://github.com/src-d/vecino) - Discovering similar Git repositories
 * [Linguist](https://github.com/src-d/enry) - Insanely fast file based programming language detector.
@@ -111,7 +113,8 @@ Also, a listed repository should be deprecated if:
 * [GitHub Source Code Names](https://data.world/vmarkovtsev/github-source-code-names) - Names in source code extracted from 13M GitHub repositories, not people!
 * [GitHub duplicate repositories](https://data.world/vmarkovtsev/github-duplicate-repositories) - GitHub repositories not marked as forks but very similar to each other
 * [GitHub lng keyword frequencies](https://data.world/vmarkovtsev/github-lng-keyword-frequencies) - Programming language keyword frequency extracted from 16M GitHub repositories
-* [GitHub Java Corpus](http://groups.inf.ed.ac.uk/cup/javaGithub/ ) - The GitHub Java corpus is a set of Java projects collected from GitHub that we have used in a number of our publications. The corpus consists of 14,785 projects and 352,312,696 LOC. 
+* [GitHub Java Corpus](http://groups.inf.ed.ac.uk/cup/javaGithub/ ) - The GitHub Java corpus is a set of Java projects collected from GitHub that we have used in a number of our publications. The corpus consists of 14,785 projects and 352,312,696 LOC.
+* [card2code](https://github.com/deepmind/card2code) - This dataset contains the language to code datasets described in our paper: [Latent Predictor Networks for Code Generation](https://arxiv.org/abs/1603.06744)
 
 
 <a name="credits"></a>
