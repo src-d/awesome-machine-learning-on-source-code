@@ -86,7 +86,8 @@ Also, a listed repository should be deprecated if:
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - A convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens. 
 * [Probabilistic API Miner](https://github.com/mast-group/api-mining) - PAM is a near parameter-free probabilistic algorithm for mining the most interesting API patterns from a list of API call sequences. 
 * [Interesting Sequence Miner](https://github.com/mast-group/sequence-mining) - ISM is a novel algorithm that mines the most interesting sequences under a probablistic model. It is able to efficiently infer interesting sequences directly from the database. 
-* [TASSAL](https://github.com/mast-group/tassal) - TASSAL is a tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks. 
+* [TASSAL](https://github.com/mast-group/tassal) - TASSAL is a tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.
+* [JNice2Predict](http://www.nice2predict.org/) - Efficient and scalable open-source framework for structured prediction, enabling one to build new statistical engines more quickly.
 
 
 
@@ -114,6 +115,8 @@ Also, a listed repository should be deprecated if:
 * [GitHub duplicate repositories](https://data.world/vmarkovtsev/github-duplicate-repositories) - GitHub repositories not marked as forks but very similar to each other
 * [GitHub lng keyword frequencies](https://data.world/vmarkovtsev/github-lng-keyword-frequencies) - Programming language keyword frequency extracted from 16M GitHub repositories
 * [GitHub Java Corpus](http://groups.inf.ed.ac.uk/cup/javaGithub/ ) - The GitHub Java corpus is a set of Java projects collected from GitHub that we have used in a number of our publications. The corpus consists of 14,785 projects and 352,312,696 LOC.
+* [150k Python Dataset](http://www.srl.inf.ethz.ch/py150.php) - Dataset consisting of 150'000 Python ASTs
+* [150k JavaScript Dataset](http://www.srl.inf.ethz.ch/js150.php) - Dataset consisting of 150'000 JavaScript files and their parsed ASTs
 * [card2code](https://github.com/deepmind/card2code) - This dataset contains the language to code datasets described in our paper: [Latent Predictor Networks for Code Generation](https://arxiv.org/abs/1603.06744)
 
 
