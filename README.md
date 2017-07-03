@@ -80,7 +80,7 @@ Also, a listed repository should be deprecated if:
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) - A TensorFlow implementation of the Differentiable Neural Computer.
 * [ast2vec](https://github.com/src-d/ast2vec) - Extract word emdbeddings from source code using abstract syntax tree + swivel
 * [vecino](https://github.com/src-d/vecino) - Discovering similar Git repositories
-* [Linguist](https://github.com/src-d/enry) - Insanely fast file based programming language detector.
+* [enry](https://github.com/src-d/enry) - Insanely fast file based programming language detector.
 
 * [Naturalize](https://github.com/mast-group/naturalize) - Naturalize is a language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code. 
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - A convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens. 
