@@ -71,6 +71,7 @@ Also, a listed repository should be deprecated if:
 * [Lifelong Perceptual Programming By Example](http://arxiv.org/abs/1611.02109) - Gaunt, Alexander L., Marc Brockschmidt, Nate Kushman, and Daniel Tarlow
 * [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007) - Joulin, Armand, and Tomas Mikolov
 * [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) Kaiser, Łukasz, and Ilya Sutskever
+* [API usage pattern recommendation for software development](http://www.sciencedirect.com/science/article/pii/S0164121216301200) - Haoran Niu, Iman Keivanloo, Ying Zou
 
 <a name="frameworks"></a>
 ## Frameworks
