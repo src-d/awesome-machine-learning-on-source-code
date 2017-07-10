@@ -1,8 +1,9 @@
-# Awesome Machine Learning On Source Code [Awesome](https://github.com/src-d/awesome-machine-learning-on-source-code)
+# [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
-A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/src-d/awesome-machine-learning-on-code)
+A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/src-d/awesome-machine-learning-on-code).
 
-If you want to contribute to this list (please do), send a pull request or contact source{d} [@srcd_](https://twitter.com/srcd_)
+If you want to contribute to this list (please do), send a pull request or contact source{d} [@srcd_](https://twitter.com/srcd_).
+
 Also, a listed repository should be deprecated if:
 
 * Repository's owner explicitly say that "this library is not maintained".
