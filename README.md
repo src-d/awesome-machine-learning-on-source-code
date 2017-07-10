@@ -95,14 +95,13 @@ Also, a listed repository should be deprecated if:
 
 <a name="frameworks-utilities"></a>
 #### Frameworks for preprocessing source code, etc.
+* [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
 * [bblfsh](https://github.com/bblfsh) - A self-hosted server for source code parsing
-* [minhashcuda](https://github.com/src-d/minhashcuda) - source{d}, to efficiently remove duplicates of repositories
+* [minhashcuda](https://github.com/src-d/minhashcuda) - source{d}, to efficiently remove duplicates of repositories on nBOW model
 * [kmcuda](https://github.com/src-d/kmcuda) - source{d}, to cluster and to search for nearest neighbors in dense space
 * [wmd-relax](https://github.com/src-d/wmd-relax) - source{d}, to find nearest neighbors at Word Mover's Distance - to find nearest repositories
-* [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
 * [swivel-spark-prep](https://github.com/src-d/swivel-spark-prep) - Distributed equivalent of prep.py and fastprep from Swivel using Apache Spark.
 * [hercules](https://github.com/src-d/hercules) - Calculates the lines burnout stats in a Git repository
-* [lapjv](https://github.com/src-d/lapjv) - Linear Assignmment Problem solver using Jonker-Volgenant algorithm - Python 3 native module
 
 
 <a name="datasets"></a>
