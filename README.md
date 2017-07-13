@@ -73,6 +73,9 @@ Also, a listed repository should be deprecated if:
 * [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007) - Joulin, Armand, and Tomas Mikolov
 * [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) Kaiser, Łukasz, and Ilya Sutskever
 * [API usage pattern recommendation for software development](http://www.sciencedirect.com/science/article/pii/S0164121216301200) - Haoran Niu, Iman Keivanloo, Ying Zou
+* [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) University of Washington CSE, Seatle, WA, USA
+* [Program Synthesis from Natural Language Using Recurrent Neural Networks](https://homes.cs.washington.edu/~mernst/pubs/nl-command-tr170301.pdf) University of Washington CSE, Seatle, WA, USA
+
 
 <a name="frameworks"></a>
 ## Frameworks
@@ -86,6 +89,7 @@ Also, a listed repository should be deprecated if:
 
 * [Naturalize](https://github.com/mast-group/naturalize) - Naturalize is a language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code. 
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - A convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens. 
+* [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) - CODE-NN , uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Tourch over C#/SQL
 * [Probabilistic API Miner](https://github.com/mast-group/api-mining) - PAM is a near parameter-free probabilistic algorithm for mining the most interesting API patterns from a list of API call sequences. 
 * [Interesting Sequence Miner](https://github.com/mast-group/sequence-mining) - ISM is a novel algorithm that mines the most interesting sequences under a probablistic model. It is able to efficiently infer interesting sequences directly from the database. 
 * [TASSAL](https://github.com/mast-group/tassal) - TASSAL is a tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.
