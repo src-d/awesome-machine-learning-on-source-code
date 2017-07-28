@@ -75,7 +75,7 @@ Also, a listed repository should be deprecated if:
 * [API usage pattern recommendation for software development](http://www.sciencedirect.com/science/article/pii/S0164121216301200) - Haoran Niu, Iman Keivanloo, Ying Zou
 * [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) University of Washington CSE, Seatle, WA, USA
 * [Program Synthesis from Natural Language Using Recurrent Neural Networks](https://homes.cs.washington.edu/~mernst/pubs/nl-command-tr170301.pdf) University of Washington CSE, Seatle, WA, USA
-
+* [Exploring API Embedding for API Usages and Applications](http://home.eng.iastate.edu/~trong/projects/jv2cs/) Nguyen, Nguyen, Phan and Nguyen
 
 <a name="frameworks"></a>
 ## Frameworks
