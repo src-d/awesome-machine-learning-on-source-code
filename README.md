@@ -12,7 +12,7 @@ Also, a listed repository should be deprecated if:
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-
+- [Digests](#digests)
 - [Articles](#articles)
     - [Machine learning](#articles-ML)
 - [Frameworks](#frameworks)
@@ -23,6 +23,10 @@ Also, a listed repository should be deprecated if:
 - [Credits](#credits)
 
 <!-- /MarkdownTOC -->
+
+<a name="digests"></a>
+## Digests
+[Learning from "Big Code"](http://learnbigcode.github.io)
 
 <a name="articles"></a>
 ## Articles
