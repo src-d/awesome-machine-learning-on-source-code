@@ -82,6 +82,7 @@ Also, a listed repository should be deprecated if:
 * [Program Synthesis from Natural Language Using Recurrent Neural Networks](https://homes.cs.washington.edu/~mernst/pubs/nl-command-tr170301.pdf) University of Washington CSE, Seatle, WA, USA
 * [Exploring API Embedding for API Usages and Applications](http://home.eng.iastate.edu/~trong/projects/jv2cs/) Nguyen, Nguyen, Phan and Nguyen
 * [Neural Nets Can Learn Function Type Signatures From Binaries](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-chua.pdf) Zheng Leong Chua, Shiqi Shen, Prateek Saxena, and Zhenkai Liang
+* [Deep Learning Code Fragments for Code Clone Detection](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf)  Martin White, Michele Tufano, Christopher Vendome, and Denys Poshyvanyk. Published at ASE'16
 
 <a name="frameworks"></a>
 ## Frameworks
