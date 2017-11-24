@@ -96,9 +96,9 @@ Also, a listed repository should be deprecated if:
 
 * [Naturalize](https://github.com/mast-group/naturalize) - Naturalize is a language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code. 
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - A convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens. 
-* [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) - CODE-NN , uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Tourch over C#/SQL
+* [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) - CODE-NN , uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
 * [Probabilistic API Miner](https://github.com/mast-group/api-mining) - PAM is a near parameter-free probabilistic algorithm for mining the most interesting API patterns from a list of API call sequences. 
-* [Interesting Sequence Miner](https://github.com/mast-group/sequence-mining) - ISM is a novel algorithm that mines the most interesting sequences under a probablistic model. It is able to efficiently infer interesting sequences directly from the database. 
+* [Interesting Sequence Miner](https://github.com/mast-group/sequence-mining) - ISM is a novel algorithm that mines the most interesting sequences under a probabilistic model. It is able to efficiently infer interesting sequences directly from the database. 
 * [TASSAL](https://github.com/mast-group/tassal) - TASSAL is a tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.
 * [JNice2Predict](http://www.nice2predict.org/) - Efficient and scalable open-source framework for structured prediction, enabling one to build new statistical engines more quickly.
 
