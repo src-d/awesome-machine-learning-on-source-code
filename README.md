@@ -83,6 +83,7 @@ Also, a listed repository should be deprecated if:
 * [Exploring API Embedding for API Usages and Applications](http://home.eng.iastate.edu/~trong/projects/jv2cs/) Nguyen, Nguyen, Phan and Nguyen
 * [Neural Nets Can Learn Function Type Signatures From Binaries](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-chua.pdf) Zheng Leong Chua, Shiqi Shen, Prateek Saxena, and Zhenkai Liang
 * [Deep Learning Code Fragments for Code Clone Detection](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf)  Martin White, Michele Tufano, Christopher Vendome, and Denys Poshyvanyk. Published at ASE'16
+* [Automated Identification of Security Issues from Commit Messages and Bug Reports](https://dl.acm.org/citation.cfm?id=3117771) [[PDF](http://asankhaya.github.io/pdf/automated-identification-of-security-issues-from-commit-messages-and-bug-reports.pdf)] Yaqin Zhou and Asankhaya Sharma. Published at ESEC/FSE 2017.
 
 <a name="frameworks"></a>
 ## Frameworks
