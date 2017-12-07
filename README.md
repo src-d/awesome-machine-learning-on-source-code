@@ -27,6 +27,7 @@ Also, a listed repository should be deprecated if:
 <a name="digests"></a>
 ## Digests
 [Learning from "Big Code"](http://learnbigcode.github.io)
+[A Survey of Machine Learning for Big Code and Naturalness](https://ml4code.github.io/)
 
 <a name="articles"></a>
 ## Articles
