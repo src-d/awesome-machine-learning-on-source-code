@@ -92,10 +92,9 @@ Also, a listed repository should be deprecated if:
 <a name="frameworks-ML"></a>
 #### Machine Learning frameworks/libraries
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) - A TensorFlow implementation of the Differentiable Neural Computer.
-* [ast2vec](https://github.com/src-d/ast2vec) - Extract word emdbeddings from source code using abstract syntax tree + swivel
+* [sourced.ml](https://github.com/src-d/ml) - Abstracts feature extraction from source code syntax trees and working with models
 * [vecino](https://github.com/src-d/vecino) - Discovering similar Git repositories
 * [enry](https://github.com/src-d/enry) - Insanely fast file based programming language detector.
-
 * [Naturalize](https://github.com/mast-group/naturalize) - Naturalize is a language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code. 
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - A convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens. 
 * [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) - CODE-NN , uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
@@ -104,18 +103,16 @@ Also, a listed repository should be deprecated if:
 * [TASSAL](https://github.com/mast-group/tassal) - TASSAL is a tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.
 * [JNice2Predict](http://www.nice2predict.org/) - Efficient and scalable open-source framework for structured prediction, enabling one to build new statistical engines more quickly.
 
-
-
 <a name="frameworks-utilities"></a>
 #### Frameworks for preprocessing source code, etc.
 * [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
 * [bblfsh](https://github.com/bblfsh) - A self-hosted server for source code parsing
+* [engine](https://github.com/src-d/engine) - source{d}, a scalable and distributed data retrieval pipeline for source code
 * [minhashcuda](https://github.com/src-d/minhashcuda) - source{d}, to efficiently remove duplicates of repositories on nBOW model
 * [kmcuda](https://github.com/src-d/kmcuda) - source{d}, to cluster and to search for nearest neighbors in dense space
 * [wmd-relax](https://github.com/src-d/wmd-relax) - source{d}, to find nearest neighbors at Word Mover's Distance - to find nearest repositories
 * [swivel-spark-prep](https://github.com/src-d/swivel-spark-prep) - Distributed equivalent of prep.py and fastprep from Swivel using Apache Spark.
 * [hercules](https://github.com/src-d/hercules) - Calculates the lines burnout stats in a Git repository
-
 
 <a name="datasets"></a>
 #### Source code datasets
@@ -132,7 +129,6 @@ Also, a listed repository should be deprecated if:
 * [150k Python Dataset](http://www.srl.inf.ethz.ch/py150.php) - Dataset consisting of 150'000 Python ASTs
 * [150k JavaScript Dataset](http://www.srl.inf.ethz.ch/js150.php) - Dataset consisting of 150'000 JavaScript files and their parsed ASTs
 * [card2code](https://github.com/deepmind/card2code) - This dataset contains the language to code datasets described in our paper: [Latent Predictor Networks for Code Generation](https://arxiv.org/abs/1603.06744)
-
 
 <a name="credits"></a>
 ## Credits
