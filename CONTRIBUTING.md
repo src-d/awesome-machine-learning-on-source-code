@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-awesome-machine-learning-on-source-code project is [CC-BY-SA 4.0 licensed](https://creativecommons.org/licenses/by-sa/4.0/) and accepts contributions via GitHub pull requests and twits to [@srcd_](https://twitter.com/srcd_).
+awesome-machine-learning-on-source-code project is [CC-BY-SA 4.0 licensed](https://creativecommons.org/licenses/by-sa/4.0/) and accepts contributions via GitHub pull requests and tweets to [@sourcedtech](https://twitter.com/sourcedtech).
 This document outlines some of the conventions on submission workflow, commit message formatting, contact points, and other resources to make it easier to get your contribution accepted.
 
 
