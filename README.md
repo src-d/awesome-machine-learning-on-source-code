@@ -73,6 +73,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Neural Nets Can Learn Function Type Signatures From Binaries](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-chua.pdf) - Zheng Leong Chua, Shiqi Shen, Prateek Saxena, and Zhenkai Liang.
 * [Deep Learning Code Fragments for Code Clone Detection](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf) -  Martin White, Michele Tufano, Christopher Vendome, and Denys Poshyvanyk.
 * [Automated Identification of Security Issues from Commit Messages and Bug Reports](https://dl.acm.org/citation.cfm?id=3117771) [[PDF](http://asankhaya.github.io/pdf/automated-identification-of-security-issues-from-commit-messages-and-bug-reports.pdf)] Yaqin Zhou and Asankhaya Sharma.
+* [Neural Sketch Learning for Conditional Program Generation](https://arxiv.org/abs/1703.05698) - Vijayaraghavan Murali, Letao Qi, Swarat Chaudhuri, Chris Jermaine
+* [Finding Likely Errors with Bayesian Specifications](https://arxiv.org/abs/1703.01370) - Vijayaraghavan Murali, Swarat Chaudhuri, Chris Jermaine
 
 <a name="posts"></a>
 #### Posts
