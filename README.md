@@ -1,6 +1,6 @@
 # Awesome Machine Learning On Source Code [![Awesome Machine Learning On Source Code](https://awesome.re/badge.svg)](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
-A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/src-d/awesome-machine-learning-on-code).
+A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 ## Contents
 
@@ -29,11 +29,17 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 ## Articles
 
 <a name="papers"></a>
-#### Papers 
+#### Papers
 
+* [Recent Advances in Neural Program Synthesis](https://arxiv.org/abs/1802.02353v1) - Neel Kant.
+* [Neural Program Search: Solving Programming Tasks from Description and Examples](https://arxiv.org/abs/1802.04335v1) - Illia Polosukhin, Alexander Skidanov.
+* [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208v2) - Tim Kraska, Alex Beutel, Ed H. Chi, Jeffrey Dean, Neoklis Polyzotis.
+* [Dynamic Neural Program Embedding for Program Repair](https://arxiv.org/abs/1711.07163v2) - Ke Wang, Rishabh Singh, Zhendong Su.
+* [Tree-to-tree Neural Networks for Program Translation](https://arxiv.org/abs/1802.03691v1) - Xinyun Chen, Chang Liu, Dawn Song.
 * [Neural Program Synthesis with Priority Queue Training](https://arxiv.org/abs/1801.03526v1) - Daniel A. Abolafia, Mohammad Norouzi, Quoc V. Le.
 * [Code Completion with Neural Attention and Pointer Networks](https://arxiv.org/abs/1711.09573v1) - Jian Li, Yue Wang, Irwin King, Michael R. Lyu  .
 * [Learning to Represent Programs with Graphs](https://arxiv.org/abs/1711.00740v1) - Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi.
+* [Learning to Select Examples for Program Synthesis](https://arxiv.org/abs/1711.03243v1) - Yewen Pu, Zachery Miranda, Armando Solar-Lezama, Leslie Pack Kaelbling.
 * [Semantic Code Repair using Neuro-Symbolic Transformation Networks](https://arxiv.org/abs/1710.11054v1) - Jacob Devlin, Jonathan Uesato, Rishabh Singh, Pushmeet Kohli.
 * [Neural Program Meta-Induction](https://arxiv.org/abs/1710.04157v1) - Jacob Devlin, Rudy Bunel, Rishabh Singh, Matthew Hausknecht, Pushmeet Kohli.
 * [Code Attention: Translating Code to Comments by Exploiting Domain Features](https://arxiv.org/abs/1709.07642v2) - Wenhao Zheng, Hong-Yu Zhou, Ming Li, Jianxin Wu.
@@ -41,9 +47,11 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Glass-Box Program Synthesis: A Machine Learning Approach](https://arxiv.org/abs/1709.08669v1) - Konstantina Christakopoulou, Adam Tauman Kalai.
 * [Automatically Generating Commit Messages from Diffs using Neural Machine Translation](https://arxiv.org/abs/1708.09492v1) - Siyuan Jiang, Ameer Armaly, Collin McMillan.
 * [A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation](https://arxiv.org/abs/1707.02275v1) - Antonio Valerio Miceli Barone, Rico Sennrich.
+* [Towards Synthesizing Complex Programs from Input-Output Examples](https://arxiv.org/abs/1706.01284v3) - Xinyun Chen, Chang Liu, Dawn Song.
 * [SmartPaste: Learning to Adapt Source Code](https://arxiv.org/abs/1705.07867) - Miltiadis Allamanis, Marc Brockschmidt.
 * [Topic modeling of public repositories at scale using names in source code](https://arxiv.org/abs/1704.00135)
 * [A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes](https://arxiv.org/abs/1704.04856v1) - Pablo Loyola, Edison Marrese-Taylor, Yutaka Matsuo.
+* [A Syntactic Neural Model for General-Purpose Code Generation](https://arxiv.org/abs/1704.01696v1) - Pengcheng Yin, Graham Neubig.
 * [RobustFill: Neural Program Learning under Noisy I/O](https://arxiv.org/abs/1703.07469v1) - Jacob Devlin, Jonathan Uesato, Surya Bhupatiraju, Rishabh Singh, Abdel-rahman Mohamed, Pushmeet Kohli.
 * [Neural Programming by Example](https://arxiv.org/abs/1703.04990v1) - Chengxun Shu, Hongyu Zhang.
 * [Parameter-Free Probabilistic API Mining across GitHub](http://homepages.inf.ed.ac.uk/csutton/publications/fse2016.pdf)
@@ -51,7 +59,12 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Deep API Learning](https://arxiv.org/abs/1605.08535v3) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim.
 * [A Convolutional Attention Network for Extreme Summarization of Source Code](http://arxiv.org/abs/1602.03001)
 * [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516)
+* [Learning to superoptimize programs](https://arxiv.org/abs/1611.01787v3) - Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohli.
+* [Differentiable Programs with Neural Libraries](https://arxiv.org/abs/1611.02109v2) - Alexander L. Gaunt, Marc Brockschmidt, Nate Kushman, Daniel Tarlow.
+* [Differentiable Functional Program Interpreters](https://arxiv.org/abs/1611.01988v2) - John K. Feser, Marc Brockschmidt, Alexander L. Gaunt, Daniel Tarlow.
+* [Latent Attention For If-Then Program Synthesis](https://arxiv.org/abs/1611.01867v1) - Xinyun Chen, Chang Liu, Richard Shin, Dawn Song, Mingcheng Chen.
 * [A deep language model for software code](https://arxiv.org/abs/1608.02715v1) - Hoa Khanh Dam, Truyen Tran, Trang Pham.
+* [Adaptive Neural Compilation](https://arxiv.org/abs/1605.07969v2) - Rudy Bunel, Alban Desmaison, Pushmeet Kohli, Philip H.S. Torr, M. Pawan Kumar.
 * [TASSAL: Autofolding for Source Code Summarization](http://homepages.inf.ed.ac.uk/csutton/publications/icse2016-demo.pdf)
 * [Suggesting Accurate Method and Class Names](http://homepages.inf.ed.ac.uk/csutton/publications/accurate-method-and-class.pdf)
 * [Mining idioms from source code](http://homepages.inf.ed.ac.uk/csutton/publications/idioms.pdf)
@@ -91,6 +104,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Automated Identification of Security Issues from Commit Messages and Bug Reports](https://dl.acm.org/citation.cfm?id=3117771) [[PDF](http://asankhaya.github.io/pdf/automated-identification-of-security-issues-from-commit-messages-and-bug-reports.pdf)] - Yaqin Zhou and Asankhaya Sharma.
 * [Neural Sketch Learning for Conditional Program Generation](https://arxiv.org/abs/1703.05698) - Vijayaraghavan Murali, Letao Qi, Swarat Chaudhuri, Chris Jermaine.
 * [DéjàVu: a map of code duplicates on GitHub](http://janvitek.org/pubs/oopsla17b.pdf) - Cristina V. Lopes et.al.
+* [Neural Random-Access Machines](https://arxiv.org/abs/1511.06392v3) - Karol Kurach, Marcin Andrychowicz, Ilya Sutskever.
+* [Learning to Execute](https://arxiv.org/abs/1410.4615v3) - Wojciech Zaremba, Ilya Sutskever.
 
 <a name="posts"></a>
 #### Posts
