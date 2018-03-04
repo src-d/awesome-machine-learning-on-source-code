@@ -1,6 +1,6 @@
 # Awesome Machine Learning On Source Code [![Awesome Machine Learning On Source Code](https://awesome.re/badge.svg)](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
-A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/src-d/awesome-machine-learning-on-code).
+A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 ## Contents
 
@@ -21,7 +21,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
     - [Differentiable Interpreters](#differentiable-interpreters)
 - [Posts](#posts)
 - [Talks](#talks)
-- [Softwares](#softwares)
+- [Software](#software)
     - [Machine Learning](#software-ML)
     - [Utilities](#software-utilities)
 - [Datasets](#datasets)
@@ -186,8 +186,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Source code abstracts classification using CNN (3)](http://vmarkovtsev.github.io/slush-2016/)
 * [Embedding the GitHub contribution graph](https://egorbu.github.io/techtalks-2017-moscow)
 
-<a name="softwares"></a>
-## Softwares
+<a name="software"></a>
+## Software
 
 <a name="software-ML"></a>
 #### Machine Learning
