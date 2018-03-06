@@ -19,6 +19,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
     - [Code Summarization](#code-summarization)
     - [Clone Detection](#clone-detection)
     - [Differentiable Interpreters](#differentiable-interpreters)
+    - [Binary Data Modelling](#binary-data-modelling)
 - [Posts](#posts)
 - [Talks](#talks)
 - [Software](#software)
@@ -166,6 +167,13 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Programming with a Differentiable Forth Interpreter](http://arxiv.org/abs/1605.06640) - Bošnjak, Matko, Tim Rocktäschel, Jason Naradowsky, and Sebastian Riedel, 2017. 18p
 * [Neural Functional Programming](http://arxiv.org/abs/1611.01988) - Feser, John K., Marc Brockschmidt, Alexander L. Gaunt, and Daniel Tarlow, 2017. 15p
 * [TerpreT: A Probabilistic Programming Language for Program Induction](http://arxiv.org/abs/1612.00817) - Gaunt, Alexander L., Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow, 2016. 7p
+
+<a name="binary-data-modelling"></a>
+#### Binary Data Modelling
+
+* [Clustering Binary Data with Bernoulli Mixture Models](http://nsgrantham.com/documents/clustering-binary-data.pdf) - Neal S. Grantham
+* [A Family of Blockwise One-Factor Distributions for Modelling High-Dimensional Binary Data](https://arxiv.org/pdf/1511.01343.pdf) - Matthieu Marbac and Mohammed Sedki
+* [BayesBinMix: an R Package for Model Based Clustering of Multivariate Binary Data](https://arxiv.org/pdf/1609.06960.pdf) - Panagiotis Papastamoulis and Magnus Rattray
 
 <a name="posts"></a>
 ## Posts
