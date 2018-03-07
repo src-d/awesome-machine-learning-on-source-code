@@ -6,6 +6,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <!-- MarkdownTOC depth=4 -->
 - [Digests](#digests)
+- [Conferences](#conferences)
 - [Papers](#papers)
     - [Program Synthesis and Induction](#program-synthesis-induction)
     - [Source Code Analysis and Language modeling](#code-analysis)
@@ -37,20 +38,37 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Learning from "Big Code"](http://learnbigcode.github.io)
 * [A Survey of Machine Learning for Big Code and Naturalness](https://ml4code.github.io/)
 
+<a name="conferences"></a>
+## Conferences
+* [SysML](sysml.cc)
+    * [Talks](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/)
+* [Mining Software Repositories](http://www.msrconf.org/)
+* [AIFORSE](aiforse.org)
+* [source{d} tech talks](https://talks.sourced.tech/machine-learning-2017/)
+    * [Talks](https://www.youtube.com/playlist?list=PL5Ld68ole7j3iQFUSB3fR9122dHCUWXsy)
+* [NIPS Neural Abstract Machines and Program Induction workshop](ucmlr.github.io/nampi)
+    * [Talks](https://www.youtube.com/playlist?list=PLzTDea_cM27LVPSTdK9RypSyqBHZWPywt)
+
+
 <a name="papers"></a>
 ## Papers
 
 <a name="program-synthesis-induction"></a>
 #### Program Synthesis and Induction
-
+* [NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System](https://arxiv.org/abs/1802.08979v2) - Xi Victoria Lin, Chenglong Wang, Luke Zettlemoyer, Michael D. Ernst, 2018. 12p
 * [Recent Advances in Neural Program Synthesis](https://arxiv.org/abs/1802.02353v1) - Neel Kant, 2018. 18p
 * [Neural Sketch Learning for Conditional Program Generation](https://arxiv.org/abs/1703.05698) - Vijayaraghavan Murali, Letao Qi, Swarat Chaudhuri, Chris Jermaine, 2018. 16p
 * [Neural Program Search: Solving Programming Tasks from Description and Examples](https://arxiv.org/abs/1802.04335v1) - Illia Polosukhin, Alexander Skidanov, 2018. 11p
 * [Neural Program Synthesis with Priority Queue Training](https://arxiv.org/abs/1801.03526v1) - Daniel A. Abolafia, Mohammad Norouzi, Quoc V. Le, 2018. 16p
 * [Towards Synthesizing Complex Programs from Input-Output Examples](https://arxiv.org/abs/1706.01284v3) - Xinyun Chen, Chang Liu, Dawn Song, 2018. 31p
+* [SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning](https://arxiv.org/abs/1711.04436v1) - Xiaojun Xu, Chang Liu, Dawn Song, 2017. 13p
 * [Learning to Select Examples for Program Synthesis](https://arxiv.org/abs/1711.03243v1) - Yewen Pu, Zachery Miranda, Armando Solar-Lezama, Leslie Pack Kaelbling, 2017. 12p
 * [Neural Program Meta-Induction](https://arxiv.org/abs/1710.04157v1) - Jacob Devlin, Rudy Bunel, Rishabh Singh, Matthew Hausknecht, Pushmeet Kohli, 2017. 10p
 * [Glass-Box Program Synthesis: A Machine Learning Approach](https://arxiv.org/abs/1709.08669v1) - Konstantina Christakopoulou, Adam Tauman Kalai, 2017. 8p
+* [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/abs/1707.09627v4) - Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, Joshua B. Tenenbaum, 2017. 14p
+* [Neural Attribute Machines for Program Generation](https://arxiv.org/abs/1705.09231v2) - Matthew Amodio, Swarat Chaudhuri, Thomas Reps, 2017. 10p
+* [Abstract Syntax Networks for Code Generation and Semantic Parsing](https://arxiv.org/abs/1704.07535v1) - Maxim Rabinovich, Mitchell Stern, Dan Klein, 2017. 11p
+* [Making Neural Programming Architectures Generalize via Recursion](https://arxiv.org/pdf/1704.06611v1.pdf) - Jonathon Cai, Richard Shin, Dawn Song, 2017. 20p
 * [A Syntactic Neural Model for General-Purpose Code Generation](https://arxiv.org/abs/1704.01696v1) - Pengcheng Yin, Graham Neubig, 2017. 14p
 * [Program Synthesis from Natural Language Using Recurrent Neural Networks](https://homes.cs.washington.edu/~mernst/pubs/nl-command-tr170301.pdf) - Xi Victoria Lin, Chenglong Wang, Deric Pang, Kevin Vu, Luke Zettlemoyer, Michael Ernst, 2017. 12p
 * [RobustFill: Neural Program Learning under Noisy I/O](https://arxiv.org/abs/1703.07469v1) - Jacob Devlin, Jonathan Uesato, Surya Bhupatiraju, Rishabh Singh, Abdel-rahman Mohamed, Pushmeet Kohli, 2017. 18p
@@ -66,7 +84,6 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="code-analysis"></a>
 #### Source Code Analysis and Language modeling
-
 * [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182v1) - Miltiadis Allamanis, Earl T. Barr, Premkumar Devanbu, Charles Sutton, 2017. 36p
 * [Learning to Represent Programs with Graphs](https://arxiv.org/abs/1711.00740v1) - Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi, 2017. 16p
 * [A deep language model for software code](https://arxiv.org/abs/1608.02715v1) - Hoa Khanh Dam, Truyen Tran, Trang Pham, 2016. 4p
@@ -75,7 +92,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="rnn-algo"></a>
 #### Neural Network Architectures and Algorithms
-
+* [Cross-Language Learning for Program Classification using Bilateral Tree-Based Convolutional Neural Networks](https://arxiv.org/abs/1710.06159v2) - Nghi D. Q. Bui, Lingxiao Jiang, Yijun Yu, 2017. 4p
+* [Syntax-Directed Variational Autoencoder for Structured Data](https://openreview.net/pdf?id=SyqShMZRb) - Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song, 2018. 17p
 * [Divide and Conquer with Neural Networks](http://arxiv.org/abs/1611.02401) - Nowak, Alex, and Joan Bruna, 2017. 19p
 * [Learning Efficient Algorithms with Hierarchical Attentive Memory](http://arxiv.org/abs/1602.03218) - Andrychowicz, Marcin, and Karol Kurach, 2016. 10p
 * [Learning Operations on a Stack with Neural Turing Machines](http://arxiv.org/abs/1612.00827) - Deleu, Tristan, and Joseph Dureau, 2016. 6p
@@ -108,17 +126,17 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="program-repair-bug-detection"></a>
 #### Program Repair and Bug Detection
-
 * [Dynamic Neural Program Embedding for Program Repair](https://arxiv.org/abs/1711.07163v2) - Ke Wang, Rishabh Singh, Zhendong Su, 2018. 11p
 * [To Type or Not to Type: Quantifying Detectable Bugs in JavaScript](http://earlbarr.com/publications/typestudy.pdf) - Zheng Gao, Christian Bird, Earl Barr, 2017. 12p
 * [Semantic Code Repair using Neuro-Symbolic Transformation Networks](https://arxiv.org/abs/1710.11054v1) - Jacob Devlin, Jonathan Uesato, Rishabh Singh, Pushmeet Kohli, 2017. 11p
 * [Automated Identification of Security Issues from Commit Messages and Bug Reports](http://asankhaya.github.io/pdf/automated-identification-of-security-issues-from-commit-messages-and-bug-reports.pdf) - Yaqin Zhou and Asankhaya Sharma, 2017. 6p
 * [SmartPaste: Learning to Adapt Source Code](https://arxiv.org/abs/1705.07867) - Miltiadis Allamanis, Marc Brockschmidt, 2017. 31p
+* [End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks](https://arxiv.org/abs/1703.02458v1) - Min-je Choi, Sehun Jeong, Hakjoo Oh, Jaegul Choo, 2017. 7p
 * [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516) - Miltiadis Allamanis, Earl T. Barr, René Just, Charles Sutton, 2016. 11p
 
 <a name="api-mining"></a>
 #### APIs and Code Mining
-
+* [DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning](https://arxiv.org/abs/1704.07734v1) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, 2017. 7p
 * [Deep API Learning](https://arxiv.org/abs/1605.08535v3) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, 2017. 12p
 * [API usage pattern recommendation for software development](http://www.sciencedirect.com/science/article/pii/S0164121216301200) - Haoran Niu, Iman Keivanloo, Ying Zou, 2017. 12p
 * [Exploring API Embedding for API Usages and Applications](http://home.eng.iastate.edu/~trong/projects/jv2cs/) - Nguyen, Nguyen, Phan and Nguyen, 2017. 11p
@@ -161,7 +179,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="differentiable-interpreters"></a>
 #### Differentiable Interpreters
-
+* [Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction](https://arxiv.org/abs/1802.02696v1) - Da Xiao, Jo-Yu Liao, Xingyuan Yuan, 2018. 16p
 * [Differentiable Programs with Neural Libraries](https://arxiv.org/abs/1611.02109v2) - Alexander L. Gaunt, Marc Brockschmidt, Nate Kushman, Daniel Tarlow, 2017. 10p
 * [Differentiable Functional Program Interpreters](https://arxiv.org/abs/1611.01988v2) - John K. Feser, Marc Brockschmidt, Alexander L. Gaunt, Daniel Tarlow, 2017. 15p
 * [Programming with a Differentiable Forth Interpreter](http://arxiv.org/abs/1605.06640) - Bošnjak, Matko, Tim Rocktäschel, Jason Naradowsky, and Sebastian Riedel, 2017. 18p
@@ -177,6 +195,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="posts"></a>
 ## Posts
+* [Sequence Intent Classification Using Hierarchical Attention Networks](https://www.microsoft.com/developerblog/2018/03/06/sequence-intent-classification/)
+* [Syntax-Directed Variational  Autoencoder for Structured Data](https://mlatgt.blog/2018/02/08/syntax-directed-variational-autoencoder-for-structured-data/)
 * [Weighted MinHash on GPU helps to find duplicate GitHub repositories.](https://blog.sourced.tech//post/minhashcuda/)
 * [Source Code Identifier Embeddings](https://blog.sourced.tech/post/id2vec/)
 * [Using recurrent neural networks to predict next tokens in the java solutions](http://near.ai/articles/2017-06-01-Code-Completion-Demo/)
