@@ -40,7 +40,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="conferences"></a>
 ## Conferences
-* [SysML](sysml.cc)
+* [SysML](http://www.sysml.cc/)
     * [Talks](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/)
 * [Mining Software Repositories](http://www.msrconf.org/)
 * [AIFORSE](aiforse.org)
