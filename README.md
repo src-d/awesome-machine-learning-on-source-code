@@ -21,6 +21,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
     - [Clone Detection](#clone-detection)
     - [Differentiable Interpreters](#differentiable-interpreters)
     - [Binary Data Modelling](#binary-data-modelling)
+    - [Soft Clustering Using T-mixture Models](#t-mixture-models)
+
 - [Posts](#posts)
 - [Talks](#talks)
 - [Software](#software)
@@ -192,6 +194,13 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Clustering Binary Data with Bernoulli Mixture Models](http://nsgrantham.com/documents/clustering-binary-data.pdf) - Neal S. Grantham
 * [A Family of Blockwise One-Factor Distributions for Modelling High-Dimensional Binary Data](https://arxiv.org/pdf/1511.01343.pdf) - Matthieu Marbac and Mohammed Sedki
 * [BayesBinMix: an R Package for Model Based Clustering of Multivariate Binary Data](https://arxiv.org/pdf/1609.06960.pdf) - Panagiotis Papastamoulis and Magnus Rattray
+
+<a name="t-mixture-models"></a>
+#### Soft Clustering Using T-mixture Models
+
+* [Robust mixture modelling using the t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7334&rep=rep1&type=pdf) - D. PEEL and G. J. MCLACHLAN
+* [Robust mixture modeling using the skew t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1030.9865&rep=rep1&type=pdf) - Tsung I. Lin, Jack C. Lee and Wan J. Hsieh
+
 
 <a name="posts"></a>
 ## Posts
