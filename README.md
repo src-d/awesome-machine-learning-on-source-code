@@ -222,6 +222,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Source code abstracts classification using CNN (2)](http://vmarkovtsev.github.io/data-natives-2016/)
 * [Source code abstracts classification using CNN (3)](http://vmarkovtsev.github.io/slush-2016/)
 * [Embedding the GitHub contribution graph](https://egorbu.github.io/techtalks-2017-moscow)
+* [Measuring code sentiment in a Git repository](http://vmarkovtsev.github.io/gophercon-2018-moscow/)
 
 <a name="software"></a>
 ## Software
@@ -234,6 +235,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [apollo](https://github.com/src-d/apollo) - Source code deduplication as scale, research.
 * [gemini](https://github.com/src-d/gemini) - Source code deduplication as scale, production.
 * [enry](https://github.com/src-d/enry) - Insanely fast file based programming language detector.
+* [Code Neuron](https://github.com/vmarkovtsev/codeneuron) - Recurrent neural network to detect code blocks in natural language text.
 * [Naturalize](https://github.com/mast-group/naturalize) - Language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code. 
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - Convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens. 
 * [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) - CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
