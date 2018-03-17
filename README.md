@@ -235,6 +235,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [apollo](https://github.com/src-d/apollo) - Source code deduplication as scale, research.
 * [gemini](https://github.com/src-d/gemini) - Source code deduplication as scale, production.
 * [enry](https://github.com/src-d/enry) - Insanely fast file based programming language detector.
+* [hercules](https://github.com/src-d/hercules) - Git repository mining framework with batteries on top of go-git.
 * [Code Neuron](https://github.com/vmarkovtsev/codeneuron) - Recurrent neural network to detect code blocks in natural language text.
 * [Naturalize](https://github.com/mast-group/naturalize) - Language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code. 
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - Convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens. 
@@ -247,7 +248,6 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 <a name="software-utilities"></a>
 #### Utilities
 * [go-git](https://github.com/src-d/go-git) - Highly extensible Git implementation in pure Go which is friendly to data mining.
-* [hercules](https://github.com/src-d/hercules) - Git repository mining framework with batteries on top of go-git.
 * [bblfsh](https://github.com/bblfsh) - Self-hosted server for source code parsing.
 * [engine](https://github.com/src-d/engine) - Scalable and distributed data retrieval pipeline for source code.
 * [minhashcuda](https://github.com/src-d/minhashcuda) - Weighted MinHash implementation on CUDA to efficiently find duplicates.
@@ -257,6 +257,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="datasets"></a>
 #### Datasets
+* [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) - 3 TB of Git repositories from GitHub.
 * [GitHub repositories - languages distribution](https://data.world/source-d/github-repositories-languages-distribution) - Programming languages distribution in 14,000,000 repositories on GitHub (October 2016).
 * [452M commits on GitHub](https://data.world/vmarkovtsev/452-m-commits-on-github) - ≈ 452M commits' metadata from 16M repositories on GitHub (October 2016).
 * [GitHub readme files](https://data.world/vmarkovtsev/github-readme-files) - Readme files of all GitHub repositories (16M) (October 2016).
