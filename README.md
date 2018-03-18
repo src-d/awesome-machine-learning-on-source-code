@@ -22,7 +22,6 @@ A curated list of awesome machine learning frameworks and algorithms that work o
     - [Differentiable Interpreters](#differentiable-interpreters)
     - [Binary Data Modelling](#binary-data-modelling)
     - [Soft Clustering Using T-mixture Models](#t-mixture-models)
-
 - [Posts](#posts)
 - [Talks](#talks)
 - [Software](#software)
