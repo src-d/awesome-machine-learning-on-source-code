@@ -1,9 +1,7 @@
 # Awesome Machine Learning On Source Code [![Awesome Machine Learning On Source Code](https://awesome.re/badge.svg)](https://github.com/src-d/awesome-machine-learning-on-source-code)
-
 A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 ## Contents
-
 <!-- MarkdownTOC depth=4 -->
 - [Digests](#digests)
 - [Conferences](#conferences)
@@ -20,7 +18,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
     - [Code Summarization](#code-summarization)
     - [Clone Detection](#clone-detection)
     - [Differentiable Interpreters](#differentiable-interpreters)
-    - [Related research](#related-research)<details><summary>(links require "Related research" spoiler to be open)</summary>
+    - [Related research](#related-research)<details><summary>(links require "Related research" spoiler to be open)</summary>
         - [Binary Data Modelling](#binary-data-modelling)
         - [Soft Clustering Using T-mixture Models](#t-mixture-models)
         </details>
@@ -44,6 +42,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="conferences"></a>
 ## Conferences
+* [Workshop on NLP for Software Engineering](https://nl4se.github.io/)
 * [SysML](http://www.sysml.cc/)
     * [Talks](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/)
 * [Mining Software Repositories](http://www.msrconf.org/)
@@ -85,6 +84,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Meta-Interpretive Learning of Efficient Logic Programs](https://uclmr.github.io/nampi/extended_abstracts/cropper.pdf) - Cropper, Andrew, and Stephen H. Muggleton, 2016. 2p
 * [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision (Short Version)](http://arxiv.org/abs/1612.01197) - Liang, Chen, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao, 2016. 6p
 * [Programs as Black-Box Explanations](http://arxiv.org/abs/1611.07579) - Singh, Sameer, Marco Tulio Ribeiro, and Carlos Guestrin, 2016. 5p
+* [Structured Generative Models of Natural Source Code](https://arxiv.org/abs/1401.0514) - Chris J. Maddison, Daniel Tarlow, 2014. 14p
 
 <a name="code-analysis"></a>
 #### Source Code Analysis and Language modeling
@@ -114,7 +114,6 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="program-translation"></a>
 #### Program Translation
-
 * [Tree-to-tree Neural Networks for Program Translation](https://arxiv.org/abs/1802.03691v1) - Xinyun Chen, Chang Liu, Dawn Song, 2018. 14p
 * [Code Attention: Translating Code to Comments by Exploiting Domain Features](https://arxiv.org/abs/1709.07642v2) - Wenhao Zheng, Hong-Yu Zhou, Ming Li, Jianxin Wu, 2017. 12p
 * [Automatically Generating Commit Messages from Diffs using Neural Machine Translation](https://arxiv.org/abs/1708.09492v1) - Siyuan Jiang, Ameer Armaly, Collin McMillan, 2017. 12p
@@ -123,7 +122,6 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="code-suggestion-completion"></a>
 #### Code Suggestion and Completion
-
 * [Code Completion with Neural Attention and Pointer Networks](https://arxiv.org/abs/1711.09573v1) - Jian Li, Yue Wang, Irwin King, Michael R. Lyu, 2017. 8p
 * [Learning Python Code Suggestion with a Sparse Pointer Network](https://arxiv.org/abs/1611.08307) - Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel, 2016. 11p
 * [Code Completion with Statistical Language Models](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf) - Veselin Raychev, Martin Vechev, Eran Yahav, 2014. 10p
@@ -152,7 +150,6 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="code-optimization"></a>
 #### Code Optimization
-
 * [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208v2) - Tim Kraska, Alex Beutel, Ed H. Chi, Jeffrey Dean, Neoklis Polyzotis, 2017. 27p
 * [Learning to superoptimize programs](https://arxiv.org/abs/1611.01787v3) - Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohlim 2017. 14p
 * [Neural Nets Can Learn Function Type Signatures From Binaries](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-chua.pdf) - Zheng Leong Chua, Shiqi Shen, Prateek Saxena, and Zhenkai Liang, 2017. 18p
@@ -161,21 +158,18 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="topic-modeling"></a>
 #### Topic Modeling
-
 * [Topic modeling of public repositories at scale using names in source code](https://arxiv.org/abs/1704.00135) - Vadim Markovtsev, Eiso Kant, 2017. 11p
 * [Why, When, and What: Analyzing Stack Overflow Questions by Topic, Type, and Code](http://homepages.inf.ed.ac.uk/csutton/publications/msrCh2013.pdf) - Miltiadis Allamanis, Charles Sutton, 2013. 4p
 * [Semantic clustering: Identifying topics in source code](https://pdfs.semanticscholar.org/c9ba/722322912419e59ea251c22b437d251f1644.pdf) - Adrian Kuhn, Stéphane Ducasse, Tudor Girba, 2007. 30p
 
 <a name="code-summarization"></a>
 #### Code Summarization
-
 * [A Convolutional Attention Network for Extreme Summarization of Source Code](http://arxiv.org/abs/1602.03001) - Miltiadis Allamanis, Hao Peng, Charles Sutton, 2016. 11p
 * [TASSAL: Autofolding for Source Code Summarization](http://homepages.inf.ed.ac.uk/csutton/publications/icse2016-demo.pdf) - Jaroslav Fowkes, Pankajan Chanthirasegaran, Razvan Ranca, Miltiadis Allamanis, Mirella Lapata, Charles Sutton, 2016. 4p
 * [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) - Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, 2016. 11p
 
 <a name="clone-detection"></a>
 #### Clone Detection
-
 * [DéjàVu: a map of code duplicates on GitHub](http://janvitek.org/pubs/oopsla17b.pdf) - Cristina V. Lopes,  	Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, Jan Vitek, 2017. 28p
 * [Some from Here, Some from There: Cross-project Code Reuse in GitHub](http://web.cs.ucdavis.edu/~filkov/papers/clones.pdf) - Mohammad Gharehyazie, Baishakhi Ray, Vladimir Filkov, 2017. 11p
 * [Deep Learning Code Fragments for Code Clone Detection](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf) - Martin White, Michele Tufano, Christopher Vendome, and Denys Poshyvanyk, 2016. 12p
@@ -197,14 +191,12 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="binary-data-modelling"></a>
 #### Binary Data Modelling
-
 * [Clustering Binary Data with Bernoulli Mixture Models](http://nsgrantham.com/documents/clustering-binary-data.pdf) - Neal S. Grantham
 * [A Family of Blockwise One-Factor Distributions for Modelling High-Dimensional Binary Data](https://arxiv.org/pdf/1511.01343.pdf) - Matthieu Marbac and Mohammed Sedki
 * [BayesBinMix: an R Package for Model Based Clustering of Multivariate Binary Data](https://arxiv.org/pdf/1609.06960.pdf) - Panagiotis Papastamoulis and Magnus Rattray
 
 <a name="t-mixture-models"></a>
 #### Soft Clustering Using T-mixture Models
-
 * [Robust mixture modelling using the t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7334&rep=rep1&type=pdf) - D. PEEL and G. J. MCLACHLAN
 * [Robust mixture modeling using the skew t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1030.9865&rep=rep1&type=pdf) - Tsung I. Lin, Jack C. Lee and Wan J. Hsieh
 </details>
