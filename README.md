@@ -20,7 +20,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
     - [Code Summarization](#code-summarization)
     - [Clone Detection](#clone-detection)
     - [Differentiable Interpreters](#differentiable-interpreters)
-    - [Related research](#related-research)<details><summary>(links do not work until Related research section below is uncollapsed)</summary>
+    - [Related research](#related-research)<details><summary>(links require "Related research" spoiler to be open)</summary>
         - [Binary Data Modelling](#binary-data-modelling)
         - [Soft Clustering Using T-mixture Models](#t-mixture-models)
         </details>
