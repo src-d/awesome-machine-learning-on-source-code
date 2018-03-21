@@ -20,8 +20,11 @@ A curated list of awesome machine learning frameworks and algorithms that work o
     - [Code Summarization](#code-summarization)
     - [Clone Detection](#clone-detection)
     - [Differentiable Interpreters](#differentiable-interpreters)
-    - [Binary Data Modelling](#binary-data-modelling)
-    - [Soft Clustering Using T-mixture Models](#t-mixture-models)
+    - [Related research](#related-research)<details><summary>(links do not work until Related research section below is uncollapsed)</summary>
+        - [Binary Data Modelling](#binary-data-modelling)
+        - [Soft Clustering Using T-mixture Models](#t-mixture-models)
+        </details>
+
 - [Posts](#posts)
 - [Talks](#talks)
 - [Software](#software)
@@ -187,6 +190,11 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Neural Functional Programming](http://arxiv.org/abs/1611.01988) - Feser, John K., Marc Brockschmidt, Alexander L. Gaunt, and Daniel Tarlow, 2017. 15p
 * [TerpreT: A Probabilistic Programming Language for Program Induction](http://arxiv.org/abs/1612.00817) - Gaunt, Alexander L., Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow, 2016. 7p
 
+
+<a name="related-research"></a>
+<details>
+<summary>Related research</summary>
+
 <a name="binary-data-modelling"></a>
 #### Binary Data Modelling
 
@@ -199,7 +207,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 * [Robust mixture modelling using the t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7334&rep=rep1&type=pdf) - D. PEEL and G. J. MCLACHLAN
 * [Robust mixture modeling using the skew t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1030.9865&rep=rep1&type=pdf) - Tsung I. Lin, Jack C. Lee and Wan J. Hsieh
-
+</details>
 
 <a name="posts"></a>
 ## Posts
