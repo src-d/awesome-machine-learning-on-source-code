@@ -2,46 +2,43 @@
 A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 ## Contents
-<!-- MarkdownTOC depth=4 -->
+
 - [Digests](#digests)
 - [Conferences](#conferences)
 - [Papers](#papers)
-    - [Program Synthesis and Induction](#program-synthesis-induction)
-    - [Source Code Analysis and Language modeling](#code-analysis)
-    - [Neural Network Architectures and Algorithms](#rnn-algo)
+    - [Program Synthesis and Induction](#program-synthesis-and-induction)
+    - [Source Code Analysis and Language modeling](#source-code-analysis-and-language-modeling)
+    - [Neural Network Architectures and Algorithms](#neural-network-architectures-and-algorithms)
     - [Program Translation](#program-translation)
-    - [Code Suggestion and Completion](#code-suggestion-completion)
-    - [Program Repair and Bug Detection](#program-repair-bug-detection)
-    - [APIs and Code Mining](#api-mining)
+    - [Code Suggestion and Completion](#code-suggestion-and-completion)
+    - [Program Repair and Bug Detection](#program-repair-and-bug-detection)
+    - [APIs and Code Mining](#apis-and-code-mining)
     - [Code Optimization](#code-optimization)
     - [Topic Modeling](#topic-modeling)
     - [Code Summarization](#code-summarization)
     - [Clone Detection](#clone-detection)
     - [Differentiable Interpreters](#differentiable-interpreters)
     - [Related research](#related-research)<details><summary>(links require "Related research" spoiler to be open)</summary>
-        - [Binary Data Modelling](#binary-data-modelling)
-        - [Soft Clustering Using T-mixture Models](#t-mixture-models)
+        - [Binary Data Modeling](#binary-data-modeling)
+        - [Soft Clustering Using T-mixture Models](#soft-clustering-using-t-mixture-models)
         </details>
-
 - [Posts](#posts)
 - [Talks](#talks)
 - [Software](#software)
-    - [Machine Learning](#software-ML)
-    - [Utilities](#software-utilities)
+    - [Machine Learning](#machine-learning)
+    - [Utilities](#utilities)
 - [Datasets](#datasets)
 - [Credits](#credits)
 - [Contributions](#contributions)
 - [License](#license)
 
-<!-- /MarkdownTOC -->
-
-<a name="digests"></a>
 ## Digests
+
 * [Learning from "Big Code"](http://learnbigcode.github.io)
 * [A Survey of Machine Learning for Big Code and Naturalness](https://ml4code.github.io/)
 
-<a name="conferences"></a>
 ## Conferences
+
 * [Workshop on NLP for Software Engineering](https://nl4se.github.io/)
 * [SysML](http://www.sysml.cc/)
     * [Talks](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/)
@@ -52,12 +49,10 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [NIPS Neural Abstract Machines and Program Induction workshop](ucmlr.github.io/nampi)
     * [Talks](https://www.youtube.com/playlist?list=PLzTDea_cM27LVPSTdK9RypSyqBHZWPywt)
 
-
-<a name="papers"></a>
 ## Papers
 
-<a name="program-synthesis-induction"></a>
 #### Program Synthesis and Induction
+
 * <img src="badges/12-pages-beginner-brightgreen.svg" alt="12-pages-beginner" align="top"> [NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System](https://arxiv.org/abs/1802.08979v2) - Xi Victoria Lin, Chenglong Wang, Luke Zettlemoyer, Michael D. Ernst, 2018.
 * <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Recent Advances in Neural Program Synthesis](https://arxiv.org/abs/1802.02353v1) - Neel Kant, 2018.
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Neural Sketch Learning for Conditional Program Generation](https://arxiv.org/abs/1703.05698) - Vijayaraghavan Murali, Letao Qi, Swarat Chaudhuri, Chris Jermaine, 2018.
@@ -86,16 +81,16 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * <img src="badges/5-pages-gray.svg" alt="5-pages" align="top"> [Programs as Black-Box Explanations](http://arxiv.org/abs/1611.07579) - Singh, Sameer, Marco Tulio Ribeiro, and Carlos Guestrin, 2016.
 * <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Structured Generative Models of Natural Source Code](https://arxiv.org/abs/1401.0514) - Chris J. Maddison, Daniel Tarlow, 2014.
 
-<a name="code-analysis"></a>
 #### Source Code Analysis and Language modeling
+
 * <img src="badges/36-pages-gray.svg" alt="36-pages" align="top"> [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182v1) - Miltiadis Allamanis, Earl T. Barr, Premkumar Devanbu, Charles Sutton, 2017.
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Learning to Represent Programs with Graphs](https://arxiv.org/abs/1711.00740v1) - Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi, 2017.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [A deep language model for software code](https://arxiv.org/abs/1608.02715v1) - Hoa Khanh Dam, Truyen Tran, Trang Pham, 2016.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Suggesting Accurate Method and Class Names](http://homepages.inf.ed.ac.uk/csutton/publications/accurate-method-and-class.pdf) - Miltiadis Allamanis, Earl T. Barr, Christian Bird, Charles Sutton, 2015.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Mining Source Code Repositories at Massive Scale using Language Modeling](http://homepages.inf.ed.ac.uk/csutton/publications/msr2013.pdf) - Miltiadis Allamanis, Charles Sutton, 2013.
 
-<a name="rnn-algo"></a>
 #### Neural Network Architectures and Algorithms
+
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Cross-Language Learning for Program Classification using Bilateral Tree-Based Convolutional Neural Networks](https://arxiv.org/abs/1710.06159v2) - Nghi D. Q. Bui, Lingxiao Jiang, Yijun Yu, 2017.
 * <img src="badges/17-pages-gray.svg" alt="17-pages" align="top"> [Syntax-Directed Variational Autoencoder for Structured Data](https://openreview.net/pdf?id=SyqShMZRb) - Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song, 2018.
 * <img src="badges/19-pages-gray.svg" alt="19-pages" align="top"> [Divide and Conquer with Neural Networks](http://arxiv.org/abs/1611.02401) - Nowak, Alex, and Joan Bruna, 2017.
@@ -112,22 +107,22 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * <img src="badges/26-pages-gray.svg" alt="26-pages" align="top"> [Neural Turing Machines](http://arxiv.org/abs/1410.5401) - Graves, Alex, Greg Wayne, and Ivo Danihelka, 2014.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [From Machine Learning to Machine Reasoning](http://arxiv.org/abs/1102.1808) - Bottou, Leon, 2011.
 
-<a name="program-translation"></a>
 #### Program Translation
+
 * <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Tree-to-tree Neural Networks for Program Translation](https://arxiv.org/abs/1802.03691v1) - Xinyun Chen, Chang Liu, Dawn Song, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Code Attention: Translating Code to Comments by Exploiting Domain Features](https://arxiv.org/abs/1709.07642v2) - Wenhao Zheng, Hong-Yu Zhou, Ming Li, Jianxin Wu, 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Automatically Generating Commit Messages from Diffs using Neural Machine Translation](https://arxiv.org/abs/1708.09492v1) - Siyuan Jiang, Ameer Armaly, Collin McMillan, 2017.
 * <img src="badges/5-pages-gray.svg" alt="5-pages" align="top"> [A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation](https://arxiv.org/abs/1707.02275v1) - Antonio Valerio Miceli Barone, Rico Sennrich, 2017.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes](https://arxiv.org/abs/1704.04856v1) - Pablo Loyola, Edison Marrese-Taylor, Yutaka Matsuo, 2017.
 
-<a name="code-suggestion-completion"></a>
 #### Code Suggestion and Completion
+
 * <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Code Completion with Neural Attention and Pointer Networks](https://arxiv.org/abs/1711.09573v1) - Jian Li, Yue Wang, Irwin King, Michael R. Lyu, 2017.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Learning Python Code Suggestion with a Sparse Pointer Network](https://arxiv.org/abs/1611.08307) - Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel, 2016.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Code Completion with Statistical Language Models](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf) - Veselin Raychev, Martin Vechev, Eran Yahav, 2014.
 
-<a name="program-repair-bug-detection"></a>
 #### Program Repair and Bug Detection
+
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Dynamic Neural Program Embedding for Program Repair](https://arxiv.org/abs/1711.07163v2) - Ke Wang, Rishabh Singh, Zhendong Su, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [To Type or Not to Type: Quantifying Detectable Bugs in JavaScript](http://earlbarr.com/publications/typestudy.pdf) - Zheng Gao, Christian Bird, Earl Barr, 2017.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Semantic Code Repair using Neuro-Symbolic Transformation Networks](https://arxiv.org/abs/1710.11054v1) - Jacob Devlin, Jonathan Uesato, Rishabh Singh, Pushmeet Kohli, 2017.
@@ -136,8 +131,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks](https://arxiv.org/abs/1703.02458v1) - Min-je Choi, Sehun Jeong, Hakjoo Oh, Jaegul Choo, 2017.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516) - Miltiadis Allamanis, Earl T. Barr, René Just, Charles Sutton, 2016.
 
-<a name="api-mining"></a>
 #### APIs and Code Mining
+
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning](https://arxiv.org/abs/1704.07734v1) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep API Learning](https://arxiv.org/abs/1605.08535v3) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [API usage pattern recommendation for software development](http://www.sciencedirect.com/science/article/pii/S0164121216301200) - Haoran Niu, Iman Keivanloo, Ying Zou, 2017.
@@ -148,35 +143,35 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Mining idioms from source code](http://homepages.inf.ed.ac.uk/csutton/publications/idioms.pdf) - Miltiadis Allamanis, Charles Sutton, 2014.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [The GHTorent Dataset and Tool Suite](http://www.gousios.gr/pub/ghtorrent-dataset-toolsuite.pdf) - Georgios Gousios, 2013.
 
-<a name="code-optimization"></a>
 #### Code Optimization
+
 * <img src="badges/27-pages-gray.svg" alt="27-pages" align="top"> [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208v2) - Tim Kraska, Alex Beutel, Ed H. Chi, Jeffrey Dean, Neoklis Polyzotis, 2017.
 * <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Learning to superoptimize programs](https://arxiv.org/abs/1611.01787v3) - Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohlim 2017.
 * <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Neural Nets Can Learn Function Type Signatures From Binaries](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-chua.pdf) - Zheng Leong Chua, Shiqi Shen, Prateek Saxena, and Zhenkai Liang, 2017.
 * <img src="badges/25-pages-gray.svg" alt="25-pages" align="top"> [Adaptive Neural Compilation](https://arxiv.org/abs/1605.07969v2) - Rudy Bunel, Alban Desmaison, Pushmeet Kohli, Philip H.S. Torr, M. Pawan Kumar, 2016.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Learning to Superoptimize Programs - Workshop Version](http://arxiv.org/abs/1612.01094) - Bunel, Rudy, Alban Desmaison, M. Pawan Kumar, Philip H. S. Torr, and Pushmeet Kohli, 2016.
 
-<a name="topic-modeling"></a>
 #### Topic Modeling
+
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Topic modeling of public repositories at scale using names in source code](https://arxiv.org/abs/1704.00135) - Vadim Markovtsev, Eiso Kant, 2017.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Why, When, and What: Analyzing Stack Overflow Questions by Topic, Type, and Code](http://homepages.inf.ed.ac.uk/csutton/publications/msrCh2013.pdf) - Miltiadis Allamanis, Charles Sutton, 2013.
 * <img src="badges/30-pages-gray.svg" alt="30-pages" align="top"> [Semantic clustering: Identifying topics in source code](https://pdfs.semanticscholar.org/c9ba/722322912419e59ea251c22b437d251f1644.pdf) - Adrian Kuhn, Stéphane Ducasse, Tudor Girba, 2007.
 
-<a name="code-summarization"></a>
 #### Code Summarization
+
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A Convolutional Attention Network for Extreme Summarization of Source Code](http://arxiv.org/abs/1602.03001) - Miltiadis Allamanis, Hao Peng, Charles Sutton, 2016.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [TASSAL: Autofolding for Source Code Summarization](http://homepages.inf.ed.ac.uk/csutton/publications/icse2016-demo.pdf) - Jaroslav Fowkes, Pankajan Chanthirasegaran, Razvan Ranca, Miltiadis Allamanis, Mirella Lapata, Charles Sutton, 2016.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) - Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, 2016.
 
-<a name="clone-detection"></a>
 #### Clone Detection
+
 * <img src="badges/28-pages-gray.svg" alt="28-pages" align="top"> [DéjàVu: a map of code duplicates on GitHub](http://janvitek.org/pubs/oopsla17b.pdf) - Cristina V. Lopes, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, Jan Vitek, 2017.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Some from Here, Some from There: Cross-project Code Reuse in GitHub](http://web.cs.ucdavis.edu/~filkov/papers/clones.pdf) - Mohammad Gharehyazie, Baishakhi Ray, Vladimir Filkov, 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep Learning Code Fragments for Code Clone Detection](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf) - Martin White, Michele Tufano, Christopher Vendome, and Denys Poshyvanyk, 2016.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A study of repetitiveness of code changes in software evolution](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1016&context=cs_conf) - HA Nguyen, AT Nguyen, TT Nguyen, TN Nguyen, H Rajan, 2013.
 
-<a name="differentiable-interpreters"></a>
 #### Differentiable Interpreters
+
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction](https://arxiv.org/abs/1802.02696v1) - Da Xiao, Jo-Yu Liao, Xingyuan Yuan, 2018.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Differentiable Programs with Neural Libraries](https://arxiv.org/abs/1611.02109v2) - Alexander L. Gaunt, Marc Brockschmidt, Nate Kushman, Daniel Tarlow, 2017.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Differentiable Functional Program Interpreters](https://arxiv.org/abs/1611.01988v2) - John K. Feser, Marc Brockschmidt, Alexander L. Gaunt, Daniel Tarlow, 2017.
@@ -189,20 +184,20 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 <details>
 <summary>Related research</summary>
 
-<a name="binary-data-modelling"></a>
-#### Binary Data Modelling
+#### Binary Data Modeling
+
 * [Clustering Binary Data with Bernoulli Mixture Models](http://nsgrantham.com/documents/clustering-binary-data.pdf) - Neal S. Grantham
 * [A Family of Blockwise One-Factor Distributions for Modelling High-Dimensional Binary Data](https://arxiv.org/pdf/1511.01343.pdf) - Matthieu Marbac and Mohammed Sedki
 * [BayesBinMix: an R Package for Model Based Clustering of Multivariate Binary Data](https://arxiv.org/pdf/1609.06960.pdf) - Panagiotis Papastamoulis and Magnus Rattray
 
-<a name="t-mixture-models"></a>
 #### Soft Clustering Using T-mixture Models
+
 * [Robust mixture modelling using the t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7334&rep=rep1&type=pdf) - D. PEEL and G. J. MCLACHLAN
 * [Robust mixture modeling using the skew t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1030.9865&rep=rep1&type=pdf) - Tsung I. Lin, Jack C. Lee and Wan J. Hsieh
 </details>
 
-<a name="posts"></a>
 ## Posts
+
 * [Sequence Intent Classification Using Hierarchical Attention Networks](https://www.microsoft.com/developerblog/2018/03/06/sequence-intent-classification/)
 * [Syntax-Directed Variational Autoencoder for Structured Data](https://mlatgt.blog/2018/02/08/syntax-directed-variational-autoencoder-for-structured-data/)
 * [Weighted MinHash on GPU helps to find duplicate GitHub repositories.](https://blog.sourced.tech//post/minhashcuda/)
@@ -212,8 +207,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [The eigenvector of "Why we moved from language X to language Y"](https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html)
 * [Analyzing Github, How Developers Change Programming Languages Over Time](https://blog.sourced.tech/post/language_migrations/)
 
-<a name="talks"></a>
 ## Talks
+
 * [Topic Modeling of GitHub Repositories](https://blog.sourced.tech//post/github_topic_modeling/)
 * [Similarity of GitHub Repositories by Source Code Identifiers](http://vmarkovtsev.github.io/techtalks-2017-moscow/)
 * [Using deep RNN to model source code](http://vmarkovtsev.github.io/re-work-2016-london/)
@@ -223,11 +218,10 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Embedding the GitHub contribution graph](https://egorbu.github.io/techtalks-2017-moscow)
 * [Measuring code sentiment in a Git repository](http://vmarkovtsev.github.io/gophercon-2018-moscow/)
 
-<a name="software"></a>
 ## Software
 
-<a name="software-ML"></a>
 #### Machine Learning
+
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) - TensorFlow implementation of the Differentiable Neural Computer.
 * [sourced.ml](https://github.com/src-d/ml) - Abstracts feature extraction from source code syntax trees and working with ML models.
 * [vecino](https://github.com/src-d/vecino) - Finds similar Git repositories.
@@ -244,8 +238,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [TASSAL](https://github.com/mast-group/tassal) - Tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.
 * [JNice2Predict](http://www.nice2predict.org/) - Efficient and scalable open-source framework for structured prediction, enabling one to build new statistical engines more quickly.
 
-<a name="software-utilities"></a>
 #### Utilities
+
 * [go-git](https://github.com/src-d/go-git) - Highly extensible Git implementation in pure Go which is friendly to data mining.
 * [bblfsh](https://github.com/bblfsh) - Self-hosted server for source code parsing.
 * [engine](https://github.com/src-d/engine) - Scalable and distributed data retrieval pipeline for source code.
@@ -253,9 +247,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [kmcuda](https://github.com/src-d/kmcuda) - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
 * [wmd-relax](https://github.com/src-d/wmd-relax) - Python package which finds nearest neighbors at Word Mover's Distance.
 
-
-<a name="datasets"></a>
 #### Datasets
+
 * [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) - 3 TB of Git repositories from GitHub.
 * [GitHub repositories - languages distribution](https://data.world/source-d/github-repositories-languages-distribution) - Programming languages distribution in 14,000,000 repositories on GitHub (October 2016).
 * [452M commits on GitHub](https://data.world/vmarkovtsev/452-m-commits-on-github) - ≈ 452M commits' metadata from 16M repositories on GitHub (October 2016).
@@ -271,17 +264,14 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [card2code](https://github.com/deepmind/card2code) - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](https://arxiv.org/abs/1603.06744).
 * [NL2Bash](https://github.com/TellinaTool/nl2bash) - This dataset contains a set of ~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
 
-<a name="credits"></a>
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/)
 
-<a name="contributions"></a>
 ## Contributions
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-<a name="license"></a>
 ## License
 
 [![License: CC BY-SA 4.0](badges/License-CC-BY--SA-4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
