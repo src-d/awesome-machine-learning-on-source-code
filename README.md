@@ -96,6 +96,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="rnn-algo"></a>
 #### Neural Network Architectures and Algorithms
+* [Learning Approximate Inference Networks for Structured Prediction](https://arxiv.org/abs/1803.03376v1) - Lifu Tu, Kevin Gimpel, 2018. 15p
+* [Learning Deep Generative Models of Graphs](https://arxiv.org/abs/1803.03324v1.pdf) - Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, Peter Battaglia, 2018. 21p
 * [Cross-Language Learning for Program Classification using Bilateral Tree-Based Convolutional Neural Networks](https://arxiv.org/abs/1710.06159v2) - Nghi D. Q. Bui, Lingxiao Jiang, Yijun Yu, 2017. 4p
 * [Syntax-Directed Variational Autoencoder for Structured Data](https://openreview.net/pdf?id=SyqShMZRb) - Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song, 2018. 17p
 * [Divide and Conquer with Neural Networks](http://arxiv.org/abs/1611.02401) - Nowak, Alex, and Joan Bruna, 2017. 19p
@@ -114,6 +116,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="program-translation"></a>
 #### Program Translation
+* [Hierarchical Learning of Cross-Language Mappings through Distributed Vector Representations for Code](https://arxiv.org/abs/1803.04715v1) - Nghi D. Q. Bui, Lingxiao Jiang, 2018. 4p
 * [Tree-to-tree Neural Networks for Program Translation](https://arxiv.org/abs/1802.03691v1) - Xinyun Chen, Chang Liu, Dawn Song, 2018. 14p
 * [Code Attention: Translating Code to Comments by Exploiting Domain Features](https://arxiv.org/abs/1709.07642v2) - Wenhao Zheng, Hong-Yu Zhou, Ming Li, Jianxin Wu, 2017. 12p
 * [Automatically Generating Commit Messages from Diffs using Neural Machine Translation](https://arxiv.org/abs/1708.09492v1) - Siyuan Jiang, Ameer Armaly, Collin McMillan, 2017. 12p
@@ -150,6 +153,8 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="code-optimization"></a>
 #### Code Optimization
+* [A Survey on Compiler Autotuning using Machine Learning](https://arxiv.org/abs/1801.04405v2.pdf) - Amir H. Ashouri, William Killian, John Cavazos, Gianluca Palermo, Cristina Silvano,2018. 42p
+* [Learning Memory Access Patterns](https://arxiv.org/abs/1803.02329v1.pdf) - Milad Hashemi, Kevin Swersky, Jamie A. Smith, Grant Ayers, Heiner Litz, Jichuan Chang, Christos Kozyrakis, Parthasarathy Ranganathan, 2018. 15p
 * [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208v2) - Tim Kraska, Alex Beutel, Ed H. Chi, Jeffrey Dean, Neoklis Polyzotis, 2017. 27p
 * [Learning to superoptimize programs](https://arxiv.org/abs/1611.01787v3) - Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohlim 2017. 14p
 * [Neural Nets Can Learn Function Type Signatures From Binaries](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-chua.pdf) - Zheng Leong Chua, Shiqi Shen, Prateek Saxena, and Zhenkai Liang, 2017. 18p
