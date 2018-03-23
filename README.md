@@ -237,6 +237,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [Interesting Sequence Miner](https://github.com/mast-group/sequence-mining) - Novel algorithm that mines the most interesting sequences under a probabilistic model. It is able to efficiently infer interesting sequences directly from the database.
 * [TASSAL](https://github.com/mast-group/tassal) - Tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.
 * [JNice2Predict](http://www.nice2predict.org/) - Efficient and scalable open-source framework for structured prediction, enabling one to build new statistical engines more quickly.
+* [Clone Digger](http://clonedigger.sourceforge.net/download.html) - clone detection for Python and Java.
 
 #### Utilities
 
