@@ -153,6 +153,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 <a name="code-optimization"></a>
 #### Code Optimization
+* [A Survey on Compiler Autotuning using Machine Learning](https://arxiv.org/abs/1801.04405v2.pdf) - Amir H. Ashouri, William Killian, John Cavazos, Gianluca Palermo, Cristina Silvano,2018. 42p
 * [Learning Memory Access Patterns](https://arxiv.org/abs/1803.02329v1.pdf) - Milad Hashemi, Kevin Swersky, Jamie A. Smith, Grant Ayers, Heiner Litz, Jichuan Chang, Christos Kozyrakis, Parthasarathy Ranganathan, 2018. 15p
 * [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208v2) - Tim Kraska, Alex Beutel, Ed H. Chi, Jeffrey Dean, Neoklis Polyzotis, 2017. 27p
 * [Learning to superoptimize programs](https://arxiv.org/abs/1611.01787v3) - Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohlim 2017. 14p
