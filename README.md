@@ -5,6 +5,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 - [Digests](#digests)
 - [Conferences](#conferences)
+- [Competitions](#competitions)
 - [Papers](#papers)
     - [Program Synthesis and Induction](#program-synthesis-and-induction)
     - [Source Code Analysis and Language modeling](#source-code-analysis-and-language-modeling)
@@ -48,6 +49,10 @@ A curated list of awesome machine learning frameworks and algorithms that work o
     * [Talks](https://www.youtube.com/playlist?list=PL5Ld68ole7j3iQFUSB3fR9122dHCUWXsy)
 * [NIPS Neural Abstract Machines and Program Induction workshop](ucmlr.github.io/nampi)
     * [Talks](https://www.youtube.com/playlist?list=PLzTDea_cM27LVPSTdK9RypSyqBHZWPywt)
+
+## Competitions
+
+* [CodRep](https://github.com/KTH/CodRep-competition)
 
 ## Papers
 
