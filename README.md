@@ -40,15 +40,15 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 ## Conferences
 
-* <img src="badges/origin-academia-green.svg" alt="origin-academia" align="top"> [Machine Learning for Programming](http://ml4p.org/)
-* <img src="badges/origin-academia-green.svg" alt="origin-academia" align="top"> [Workshop on NLP for Software Engineering](https://nl4se.github.io/)
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [Machine Learning for Programming](http://ml4p.org/)
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [Workshop on NLP for Software Engineering](https://nl4se.github.io/)
 * <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [SysML](http://www.sysml.cc/)
     * [Talks](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/)
-* <img src="badges/origin-academia-green.svg" alt="origin-academia" align="top"> [Mining Software Repositories](http://www.msrconf.org/)
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [Mining Software Repositories](http://www.msrconf.org/)
 * <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [AIFORSE](aiforse.org)
 * <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [source{d} tech talks](https://talks.sourced.tech/machine-learning-2017/)
     * [Talks](https://www.youtube.com/playlist?list=PL5Ld68ole7j3iQFUSB3fR9122dHCUWXsy)
-* <img src="badges/origin-academia-green.svg" alt="origin-academia" align="top"> [NIPS Neural Abstract Machines and Program Induction workshop](ucmlr.github.io/nampi)
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [NIPS Neural Abstract Machines and Program Induction workshop](ucmlr.github.io/nampi)
     * [Talks](https://www.youtube.com/playlist?list=PLzTDea_cM27LVPSTdK9RypSyqBHZWPywt)
 
 ## Competitions
