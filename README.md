@@ -40,14 +40,15 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 ## Conferences
 
-* [Workshop on NLP for Software Engineering](https://nl4se.github.io/)
-* [SysML](http://www.sysml.cc/)
+* <img src="badges/origin-academia-green.svg" alt="origin-academia" align="top"> [Machine Learning for Programming](http://ml4p.org/)
+* <img src="badges/origin-academia-green.svg" alt="origin-academia" align="top"> [Workshop on NLP for Software Engineering](https://nl4se.github.io/)
+* <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [SysML](http://www.sysml.cc/)
     * [Talks](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/)
-* [Mining Software Repositories](http://www.msrconf.org/)
-* [AIFORSE](aiforse.org)
-* [source{d} tech talks](https://talks.sourced.tech/machine-learning-2017/)
+* <img src="badges/origin-academia-green.svg" alt="origin-academia" align="top"> [Mining Software Repositories](http://www.msrconf.org/)
+* <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [AIFORSE](aiforse.org)
+* <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [source{d} tech talks](https://talks.sourced.tech/machine-learning-2017/)
     * [Talks](https://www.youtube.com/playlist?list=PL5Ld68ole7j3iQFUSB3fR9122dHCUWXsy)
-* [NIPS Neural Abstract Machines and Program Induction workshop](ucmlr.github.io/nampi)
+* <img src="badges/origin-academia-green.svg" alt="origin-academia" align="top"> [NIPS Neural Abstract Machines and Program Induction workshop](ucmlr.github.io/nampi)
     * [Talks](https://www.youtube.com/playlist?list=PLzTDea_cM27LVPSTdK9RypSyqBHZWPywt)
 
 ## Competitions
@@ -88,6 +89,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 #### Source Code Analysis and Language modeling
 
+* <img src="badges/25-pages-gray.svg" alt="25-pages" align="top"> [code2vec: Learning Distributed Representations of Code](https://arxiv.org/abs/1803.09473v2) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, 2018.
 * <img src="badges/36-pages-gray.svg" alt="36-pages" align="top"> [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182v1) - Miltiadis Allamanis, Earl T. Barr, Premkumar Devanbu, Charles Sutton, 2017.
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Learning to Represent Programs with Graphs](https://arxiv.org/abs/1711.00740v1) - Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi, 2017.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [A deep language model for software code](https://arxiv.org/abs/1608.02715v1) - Hoa Khanh Dam, Truyen Tran, Trang Pham, 2016.
@@ -96,6 +98,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 #### Neural Network Architectures and Algorithms
 
+* <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [A General Path-Based Representation for Predicting Program Properties](https://arxiv.org/abs/1803.09544) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, 2018.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Cross-Language Learning for Program Classification using Bilateral Tree-Based Convolutional Neural Networks](https://arxiv.org/abs/1710.06159v2) - Nghi D. Q. Bui, Lingxiao Jiang, Yijun Yu, 2017.
 * <img src="badges/17-pages-gray.svg" alt="17-pages" align="top"> [Syntax-Directed Variational Autoencoder for Structured Data](https://openreview.net/pdf?id=SyqShMZRb) - Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song, 2018.
 * <img src="badges/19-pages-gray.svg" alt="19-pages" align="top"> [Divide and Conquer with Neural Networks](http://arxiv.org/abs/1611.02401) - Nowak, Alex, and Joan Bruna, 2017.
@@ -177,6 +180,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 
 #### Differentiable Interpreters
 
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [DDRprog: A CLEVR Differentiable Dynamic Reasoning Programmer](https://arxiv.org/abs/1803.11361v1) - Joseph Suarez, Justin Johnson, Fei-Fei Li, 2018.
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction](https://arxiv.org/abs/1802.02696v1) - Da Xiao, Jo-Yu Liao, Xingyuan Yuan, 2018.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Differentiable Programs with Neural Libraries](https://arxiv.org/abs/1611.02109v2) - Alexander L. Gaunt, Marc Brockschmidt, Nate Kushman, Daniel Tarlow, 2017.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Differentiable Functional Program Interpreters](https://arxiv.org/abs/1611.01988v2) - John K. Feser, Marc Brockschmidt, Alexander L. Gaunt, Daniel Tarlow, 2017.
