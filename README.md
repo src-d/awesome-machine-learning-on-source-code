@@ -122,6 +122,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Document Distance Estimation via Code Graph Embedding](https://www.researchgate.net/publication/320074701_Document_Distance_Estimation_via_Code_Graph_Embedding) - Zeqi Lin, Junfeng Zhao, Yanzhen Zou, Bing Xie, 2017.
 * <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Combining Word2Vec with revised vector space model for better code retrieval](https://www.researchgate.net/publication/318123700_Combining_Word2Vec_with_Revised_Vector_Space_Model_for_Better_Code_Retrieval) - Thanh Van Nguyen, Anh Tuan Nguyen, Hung Dang Phan, Trong Duc Nguyen, Tien N. Nguyen, 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [From word embeddings to document similarities for improved information retrieval in software engineering](https://www.researchgate.net/publication/296526040_From_Word_Embeddings_To_Document_Similarities_for_Improved_Information_Retrieval_in_Software_Engineering) - Xin Ye, Hui Shen, Xiao Ma, Razvan Bunescu, Chang Liu, 2016.
+* <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Mapping API Elements for Code Migration with Vector Representation](https://dl.acm.org/citation.cfm?id=2892661) - Trong Duc Nguyen, Anh Tuan Nguyen, Tien N. Nguyen, 2016.
 
 #### Program Translation
 
