@@ -10,7 +10,7 @@ A curated list of awesome machine learning frameworks and algorithms that work o
     - [Program Synthesis and Induction](#program-synthesis-and-induction)
     - [Source Code Analysis and Language modeling](#source-code-analysis-and-language-modeling)
     - [Neural Network Architectures and Algorithms](#neural-network-architectures-and-algorithms)
-    - [Embeddings in Software Engineering](#embeddings-software-engineering)
+    - [Embeddings in Software Engineering](#embeddings-in-software-engineering)
     - [Program Translation](#program-translation)
     - [Code Suggestion and Completion](#code-suggestion-and-completion)
     - [Program Repair and Bug Detection](#program-repair-and-bug-detection)
