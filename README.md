@@ -2,7 +2,7 @@
 
 ![Awesome Machine Learning On Source Code](img/awesome-machine-learning-artwork.png)
 
-A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
+A curated list of awesome research papers, datasets and software projects devoted to machine learning *and* source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 ## Contents
 
@@ -229,10 +229,11 @@ A curated list of awesome machine learning frameworks and algorithms that work o
 * [The half-life of code & the ship of Theseus](https://erikbern.com/2016/12/05/the-half-life-of-code.html)
 * [The eigenvector of "Why we moved from language X to language Y"](https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html)
 * [Analyzing Github, How Developers Change Programming Languages Over Time](https://blog.sourced.tech/post/language_migrations/)
+* [Topic Modeling of GitHub Repositories](https://blog.sourced.tech//post/github_topic_modeling/)
 
 ## Talks
 
-* [Topic Modeling of GitHub Repositories](https://blog.sourced.tech//post/github_topic_modeling/)
+* [Machine Learning on Source Code](http://vmarkovtsev.github.io/pydays-2018-vienna/)
 * [Similarity of GitHub Repositories by Source Code Identifiers](http://vmarkovtsev.github.io/techtalks-2017-moscow/)
 * [Using deep RNN to model source code](http://vmarkovtsev.github.io/re-work-2016-london/)
 * [Source code abstracts classification using CNN (1)](http://vmarkovtsev.github.io/re-work-2016-berlin/)
