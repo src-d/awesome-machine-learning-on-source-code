@@ -1,4 +1,7 @@
 # Awesome Machine Learning On Source Code [![Awesome Machine Learning On Source Code](badges/awesome.svg)](https://github.com/src-d/awesome-machine-learning-on-source-code)
+
+![Awesome Machine Learning On Source Code](img/awesome-machine-learning-artwork.png)
+
 A curated list of awesome machine learning frameworks and algorithms that work on top of source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 ## Contents
