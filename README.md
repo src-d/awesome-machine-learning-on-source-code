@@ -20,6 +20,7 @@ A curated list of awesome research papers, datasets and software projects devote
     - [APIs and Code Mining](#apis-and-code-mining)
     - [Code Optimization](#code-optimization)
     - [Topic Modeling](#topic-modeling)
+    - [Sentiment Analysis](#sentiment-analysis)
     - [Code Summarization](#code-summarization)
     - [Clone Detection](#clone-detection)
     - [Differentiable Interpreters](#differentiable-interpreters)
@@ -177,6 +178,14 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Topic modeling of public repositories at scale using names in source code](https://arxiv.org/abs/1704.00135) - Vadim Markovtsev, Eiso Kant, 2017.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Why, When, and What: Analyzing Stack Overflow Questions by Topic, Type, and Code](http://homepages.inf.ed.ac.uk/csutton/publications/msrCh2013.pdf) - Miltiadis Allamanis, Charles Sutton, 2013.
 * <img src="badges/30-pages-gray.svg" alt="30-pages" align="top"> [Semantic clustering: Identifying topics in source code](https://pdfs.semanticscholar.org/c9ba/722322912419e59ea251c22b437d251f1644.pdf) - Adrian Kuhn, Stéphane Ducasse, Tudor Girba, 2007.
+
+#### Sentiment Analysis
+
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [A Benchmark Study on Sentiment Analysis for Software Engineering Research](https://arxiv.org/pdf/1803.06525.pdf) - Nicole Novielli, Daniela Girardi, Filippo Lanubile, 2018.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Sentiment Analysis for Software Engineering: How Far Can We Go?](http://www.inf.usi.ch/phd/lin/downloads/Lin2018a.pdf) - Bin Lin, Fiorella Zampetti, Gabriele Bavota, Massimiliano Di Penta, Michele Lanza, Rocco Oliveto, 2018.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Leveraging Automated Sentiment Analysis in Software Engineering](http://cs.uno.edu/~zibran/resources/MyPapers/SentiStrengthSE_2017.pdf) - Md Rakibul Islam, Minhaz F. Zibran, 2017.
+* <img src="badges/27-pages-gray.svg" alt="27-pages" align="top"> [Sentiment Polarity Detection for Software Development](https://arxiv.org/pdf/1709.02984.pdf) - Fabio Calefato, Filippo Lanubile, Federico Maiorano, Nicole Novielli, 2017.
+* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [SentiCR: A Customized Sentiment Analysis Tool for Code Review Interactions](https://drive.google.com/file/d/0Byog0ILN8S1haGxpT3hvSzZxdms/view) - Toufique Ahmed, Amiangshu Bosu, Anindya Iqbal, Shahram Rahimi, 2017.
 
 #### Code Summarization
 
