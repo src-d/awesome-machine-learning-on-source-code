@@ -146,6 +146,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Program Repair and Bug Detection
 
+* <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Learning to Repair Software Vulnerabilities with Generative Adversarial Networks](https://arxiv.org/abs/1805.07475) - Jacob A. Harer, Onur Ozdemir, Tomo Lazovich, Christopher P. Reale, Rebecca L. Russell, Louis Y. Kim, Peter Chin, 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Dynamic Neural Program Embedding for Program Repair](https://arxiv.org/abs/1711.07163v2) - Ke Wang, Rishabh Singh, Zhendong Su, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [To Type or Not to Type: Quantifying Detectable Bugs in JavaScript](http://earlbarr.com/publications/typestudy.pdf) - Zheng Gao, Christian Bird, Earl Barr, 2017.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Semantic Code Repair using Neuro-Symbolic Transformation Networks](https://arxiv.org/abs/1710.11054v1) - Jacob Devlin, Jonathan Uesato, Rishabh Singh, Pushmeet Kohli, 2017.
@@ -210,7 +211,6 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Programming with a Differentiable Forth Interpreter](http://arxiv.org/abs/1605.06640) - Bošnjak, Matko, Tim Rocktäschel, Jason Naradowsky, and Sebastian Riedel, 2017.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Neural Functional Programming](http://arxiv.org/abs/1611.01988) - Feser, John K., Marc Brockschmidt, Alexander L. Gaunt, and Daniel Tarlow, 2017.
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [TerpreT: A Probabilistic Programming Language for Program Induction](http://arxiv.org/abs/1612.00817) - Gaunt, Alexander L., Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow, 2016.
-
 
 <a name="related-research"></a>
 <details>
