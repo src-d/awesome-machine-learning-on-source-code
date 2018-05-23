@@ -2,7 +2,7 @@
 
 ![Awesome Machine Learning On Source Code](img/awesome-machine-learning-artwork.png)
 
-A curated list of awesome research papers, datasets and software projects devoted to machine learning *and* source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning). [#MLonCode](https://twitter.com/hashtag/MLonCode)
+A curated list of awesome research papers, datasets and software projects devoted to machine learning *and* source code. [#MLonCode](https://twitter.com/hashtag/MLonCode)
 
 ## Contents
 
@@ -304,7 +304,8 @@ A curated list of awesome research papers, datasets and software projects devote
 
 ## Credits
 
-* A lot of references and articles were taken from [mast-group](https://mast-group.github.io/)
+* A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 ## Contributions
 
