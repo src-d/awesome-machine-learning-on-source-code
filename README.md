@@ -2,7 +2,7 @@
 
 ![Awesome Machine Learning On Source Code](img/awesome-machine-learning-artwork.png)
 
-A curated list of awesome research papers, datasets and software projects devoted to machine learning *and* source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
+A curated list of awesome research papers, datasets and software projects devoted to machine learning *and* source code. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning). [#MLonCode](https://twitter.com/hashtag/MLonCode)
 
 ## Contents
 
