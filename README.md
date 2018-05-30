@@ -154,6 +154,8 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/31-pages-gray.svg" alt="31-pages" align="top"> [SmartPaste: Learning to Adapt Source Code](https://arxiv.org/abs/1705.07867) - Miltiadis Allamanis, Marc Brockschmidt, 2017.
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks](https://arxiv.org/abs/1703.02458v1) - Min-je Choi, Sehun Jeong, Hakjoo Oh, Jaegul Choo, 2017.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516) - Miltiadis Allamanis, Earl T. Barr, René Just, Charles Sutton, 2016.
+* <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Estimating defectiveness of source code: A predictive model using GitHub content](https://arxiv.org/abs/1803.07764) - Ritu Kapur, Balwinder Sodhi, 2018
+* <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Automated software vulnerability detection with machine learning](https://arxiv.org/abs/1803.04497) - Jacob A. Harer, Louis Y. Kim, Rebecca L. Russell, Onur Ozdemir, Leonard R. Kosta, Akshay Rangamani, Lei H. Hamilton, Gabriel I. Centeno, Jonathan R. Key, Paul M. Ellingwood, Marc W. McConley, Jeffrey M. Opper, Peter Chin, Tomo Lazovich, 2018
 
 #### APIs and Code Mining
 
