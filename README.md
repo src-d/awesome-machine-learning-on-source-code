@@ -45,6 +45,10 @@ A curated list of awesome research papers, datasets and software projects devote
 
 ## Conferences
 
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [ACM International Conference on Software Engineering, ICSE](https://www.icse2018.org/)
+
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2018)
+
 * <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [2018 IEEE 25th International Conference on Software Analysis, Evolution, and Reengineering (SANER)](https://www.conference-publishing.com/list.php?Event=SANER18MAIN)
 * <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [Machine Learning for Programming](http://ml4p.org/)
 * <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [Workshop on NLP for Software Engineering](https://nl4se.github.io/)
@@ -95,9 +99,12 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Source Code Analysis and Language modeling
 
+* <img src="badges/4-pages-gray.svg" alt="12-pages" align="top"> [Hierarchical Learning of Cross-Language Mappings through Distributed Vector Representations for Code](https://bdqnghi.github.io/files/icse-18-nier.pdf) - Nghi D. Q. Bui, Lingxiao Jiang, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Syntax and Sensibility: Using language models to detect and correct syntax errors](http://softwareprocess.es/pubs/santos2018SANER-syntax.pdf) - Eddie Antonio Santos, Joshua Charles Campbell, Dhvani Patel, Abram Hindle, and José Nelson Amaral, 2018.
 * <img src="badges/25-pages-gray.svg" alt="25-pages" align="top"> [code2vec: Learning Distributed Representations of Code](https://arxiv.org/abs/1803.09473v2) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, 2018.
 * <img src="badges/36-pages-gray.svg" alt="36-pages" align="top"> [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182v1) - Miltiadis Allamanis, Earl T. Barr, Premkumar Devanbu, Charles Sutton, 2017.
+* <img src="badges/36-pages-gray.svg" alt="36-pages" align="top"> [Are Deep Neural Networks the Best Choice
+for Modeling Source Code?](http://web.cs.ucdavis.edu/~devanbu/isDLgood.pdf) - Vincent J. Hellendoorn, Premkumar Devanbu, 2017.
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Learning to Represent Programs with Graphs](https://arxiv.org/abs/1711.00740v1) - Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi, 2017.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [A deep language model for software code](https://arxiv.org/abs/1608.02715v1) - Hoa Khanh Dam, Truyen Tran, Trang Pham, 2016.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Suggesting Accurate Method and Class Names](http://homepages.inf.ed.ac.uk/csutton/publications/accurate-method-and-class.pdf) - Miltiadis Allamanis, Earl T. Barr, Christian Bird, Charles Sutton, 2015.
