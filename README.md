@@ -96,7 +96,8 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Structured Generative Models of Natural Source Code](https://arxiv.org/abs/1401.0514) - Chris J. Maddison, Daniel Tarlow, 2014.
 
 #### Source Code Analysis and Language modeling
-* <img src="badges/4-pages-gray.svg" alt="12-pages" align="top"> [Hierarchical Learning of Cross-Language Mappings through Distributed Vector Representations for Code](https://bdqnghi.github.io/files/icse-18-nier.pdf) - Nghi D. Q. Bui, Lingxiao Jiang, 2018.
+
+* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Hierarchical Learning of Cross-Language Mappings through Distributed Vector Representations for Code](https://bdqnghi.github.io/files/icse-18-nier.pdf) - Nghi D. Q. Bui, Lingxiao Jiang, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Syntax and Sensibility: Using language models to detect and correct syntax errors](http://softwareprocess.es/pubs/santos2018SANER-syntax.pdf) - Eddie Antonio Santos, Joshua Charles Campbell, Dhvani Patel, Abram Hindle, and José Nelson Amaral, 2018.
 * <img src="badges/25-pages-gray.svg" alt="25-pages" align="top"> [code2vec: Learning Distributed Representations of Code](https://arxiv.org/abs/1803.09473v2) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, 2018.
 * <img src="badges/36-pages-gray.svg" alt="36-pages" align="top"> [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182v1) - Miltiadis Allamanis, Earl T. Barr, Premkumar Devanbu, Charles Sutton, 2017.
