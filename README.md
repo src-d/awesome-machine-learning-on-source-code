@@ -40,8 +40,8 @@ A curated list of awesome research papers, datasets and software projects devote
 
 ## Digests
 
-* [Learning from "Big Code"](http://learnbigcode.github.io)
-* [A Survey of Machine Learning for Big Code and Naturalness](https://ml4code.github.io/)
+* [Learning from "Big Code"](http://learnbigcode.github.io) - Techniques, challenges, tools, datasets on "Big Code".
+* [A Survey of Machine Learning for Big Code and Naturalness](https://ml4code.github.io/) - Survey and literature review on Machine Learning on Source Code.
 
 ## Conferences
 
@@ -61,7 +61,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 ## Competitions
 
-* [CodRep](https://github.com/KTH/CodRep-competition)
+* [CodRep](https://github.com/KTH/CodRep-competition) - CodRep is a ML competition on source code data given a common playground.
 
 ## Papers
 
