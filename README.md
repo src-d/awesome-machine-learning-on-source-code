@@ -96,82 +96,81 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Source Code Analysis and Language modeling
 
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Syntax and Sensibility: Using language models to detect and correct syntax errors](http://softwareprocess.es/pubs/santos2018SANER-syntax.pdf) - Eddie Antonio Santos, Joshua Charles Campbell, Dhvani Patel, Abram Hindle, and José Nelson Amaral, 2018.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Syntax and Sensibility: Using language models to detect and correct syntax errors](http://softwareprocess.es/pubs/santos2018SANER-syntax.pdf) - Eddie Antonio Santos, Joshua Charles Campbell, Dhvani Patel, Abram Hindle, and José Nelson Amaral, SANER 2018.
 * <img src="badges/25-pages-gray.svg" alt="25-pages" align="top"> [code2vec: Learning Distributed Representations of Code](https://arxiv.org/abs/1803.09473v2) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, 2018.
+* <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Learning to Represent Programs with Graphs](https://arxiv.org/abs/1711.00740v1) - Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi, ICLR 2018.
 * <img src="badges/36-pages-gray.svg" alt="36-pages" align="top"> [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182v1) - Miltiadis Allamanis, Earl T. Barr, Premkumar Devanbu, Charles Sutton, 2017.
-* <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Learning to Represent Programs with Graphs](https://arxiv.org/abs/1711.00740v1) - Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi, 2017.
-* <img src="badges/36-pages-gray.svg" alt="36-pages" align="top"> [Are Deep Neural Networks the Best Choice
-for Modeling Source Code?](http://web.cs.ucdavis.edu/~devanbu/isDLgood.pdf) - Vincent J. Hellendoorn, Premkumar Devanbu, 2017.
+* <img src="badges/36-pages-gray.svg" alt="36-pages" align="top"> [Are Deep Neural Networks the Best Choice for Modeling Source Code?](http://web.cs.ucdavis.edu/~devanbu/isDLgood.pdf) - Vincent J. Hellendoorn, Premkumar Devanbu, FSE 2017.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [A deep language model for software code](https://arxiv.org/abs/1608.02715v1) - Hoa Khanh Dam, Truyen Tran, Trang Pham, 2016.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Suggesting Accurate Method and Class Names](http://homepages.inf.ed.ac.uk/csutton/publications/accurate-method-and-class.pdf) - Miltiadis Allamanis, Earl T. Barr, Christian Bird, Charles Sutton, 2015.
-* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Mining Source Code Repositories at Massive Scale using Language Modeling](http://homepages.inf.ed.ac.uk/csutton/publications/msr2013.pdf) - Miltiadis Allamanis, Charles Sutton, 2013.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Suggesting Accurate Method and Class Names](http://homepages.inf.ed.ac.uk/csutton/publications/accurate-method-and-class.pdf) - Miltiadis Allamanis, Earl T. Barr, Christian Bird, Charles Sutton, FSE 2015.
+* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Mining Source Code Repositories at Massive Scale using Language Modeling](http://homepages.inf.ed.ac.uk/csutton/publications/msr2013.pdf) - Miltiadis Allamanis, Charles Sutton, MSR 2013.
 
 #### Neural Network Architectures and Algorithms
 
-* <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [A General Path-Based Representation for Predicting Program Properties](https://arxiv.org/abs/1803.09544) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, 2018.
-* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Cross-Language Learning for Program Classification using Bilateral Tree-Based Convolutional Neural Networks](https://arxiv.org/abs/1710.06159v2) - Nghi D. Q. Bui, Lingxiao Jiang, Yijun Yu, 2017.
-* <img src="badges/17-pages-gray.svg" alt="17-pages" align="top"> [Syntax-Directed Variational Autoencoder for Structured Data](https://openreview.net/pdf?id=SyqShMZRb) - Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song, 2018.
-* <img src="badges/19-pages-gray.svg" alt="19-pages" align="top"> [Divide and Conquer with Neural Networks](http://arxiv.org/abs/1611.02401) - Nowak, Alex, and Joan Bruna, 2017.
+* <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [A General Path-Based Representation for Predicting Program Properties](https://arxiv.org/abs/1803.09544) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, PLDI 2018.
+* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Cross-Language Learning for Program Classification using Bilateral Tree-Based Convolutional Neural Networks](https://arxiv.org/abs/1710.06159v2) - Nghi D. Q. Bui, Lingxiao Jiang, Yijun Yu, AAAI 2018.
+* <img src="badges/17-pages-gray.svg" alt="17-pages" align="top"> [Syntax-Directed Variational Autoencoder for Structured Data](https://openreview.net/pdf?id=SyqShMZRb) - Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song, ICLR 2018.
+* <img src="badges/19-pages-gray.svg" alt="19-pages" align="top"> [Divide and Conquer with Neural Networks](http://arxiv.org/abs/1611.02401) - Nowak, Alex, and Joan Bruna, ICLR 2018.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Learning Efficient Algorithms with Hierarchical Attentive Memory](http://arxiv.org/abs/1602.03218) - Andrychowicz, Marcin, and Karol Kurach, 2016.
-* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [Learning Operations on a Stack with Neural Turing Machines](http://arxiv.org/abs/1612.00827) - Deleu, Tristan, and Joseph Dureau, 2016.
-* <img src="badges/5-pages-gray.svg" alt="5-pages" align="top"> [Probabilistic Neural Programs](http://arxiv.org/abs/1612.00712) - Murray, Kenton W., and Jayant Krishnamurthy, 2016.
-* <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Learning Latent Multiscale Structure Using Recurrent Neural Networks](https://uclmr.github.io/nampi/extended_abstracts/chung.pdf) - Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio, 2016.
-* <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Neural Programmer: Inducing Latent Programs with Gradient Descent](http://arxiv.org/abs/1511.04834) - Neelakantan, Arvind, Quoc V. Le, and Ilya Sutskever, 2016.
-* <img src="badges/13-pages-gray.svg" alt="13-pages" align="top"> [Neural Programmer-Interpreters](http://arxiv.org/abs/1511.06279) - Reed, Scott, and Nando de Freitas, 2016.
-* <img src="badges/9-pages-gray.svg" alt="9-pages" align="top"> [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) - Kaiser, Łukasz, and Ilya Sutskever, 2016.
-* <img src="badges/17-pages-gray.svg" alt="17-pages" align="top"> [Neural Random-Access Machines](https://arxiv.org/abs/1511.06392v3) - Karol Kurach, Marcin Andrychowicz, Ilya Sutskever, 2016.
+* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [Learning Operations on a Stack with Neural Turing Machines](http://arxiv.org/abs/1612.00827) - Deleu, Tristan, and Joseph Dureau, NIPS 2016.
+* <img src="badges/5-pages-gray.svg" alt="5-pages" align="top"> [Probabilistic Neural Programs](http://arxiv.org/abs/1612.00712) - Murray, Kenton W., and Jayant Krishnamurthy, NIPS 2016.
+* <img src="badges/13-pages-gray.svg" alt="13-pages" align="top"> [Hierarchical multiscale recurrent neural networks](https://arxiv.org/abs/1609.01704) - Chung Junyoung, Sungjin Ahn, and Yoshua Bengio, ICLR 2017.
+* <img src="badges/13-pages-gray.svg" alt="13-pages" align="top"> [Neural Programmer-Interpreters](http://arxiv.org/abs/1511.06279) - Reed, Scott, and Nando de Freitas, ICLR 2016.
+* <img src="badges/9-pages-gray.svg" alt="9-pages" align="top"> [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) - Kaiser, Łukasz, and Ilya Sutskever, ICLR 2016.
+* <img src="badges/17-pages-gray.svg" alt="17-pages" align="top"> [Neural Random-Access Machines](https://arxiv.org/abs/1511.06392v3) - Karol Kurach, Marcin Andrychowicz, Ilya Sutskever, ERCIM News 2016.
+* <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Neural Programmer: Inducing Latent Programs with Gradient Descent](http://arxiv.org/abs/1511.04834) - Neelakantan, Arvind, Quoc V. Le, and Ilya Sutskever, ICLR 2015.
 * <img src="badges/25-pages-gray.svg" alt="25-pages" align="top"> [Learning to Execute](https://arxiv.org/abs/1410.4615v3) - Wojciech Zaremba, Ilya Sutskever, 2015.
-* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007) - Joulin, Armand, and Tomas Mikolov, 2015.
+* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007) - Joulin, Armand, and Tomas Mikolov, NIPS 2015.
 * <img src="badges/26-pages-gray.svg" alt="26-pages" align="top"> [Neural Turing Machines](http://arxiv.org/abs/1410.5401) - Graves, Alex, Greg Wayne, and Ivo Danihelka, 2014.
-* <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [From Machine Learning to Machine Reasoning](http://arxiv.org/abs/1102.1808) - Bottou, Leon, 2011.
+* <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [From Machine Learning to Machine Reasoning](http://arxiv.org/abs/1102.1808) - Bottou Leon, Journal of Machine Learning 2011.
 
 #### Embeddings in Software Engineering
 
-* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Word Embeddings for the Software Engineering Domain](https://github.com/vefstathiou/SO_word2vec/blob/master/MSR18-w2v.pdf) - Vasiliki Efstathiou, Christos Chatzilenas, Diomidis Spinellis, 2018.
-* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Document Distance Estimation via Code Graph Embedding](https://www.researchgate.net/publication/320074701_Document_Distance_Estimation_via_Code_Graph_Embedding) - Zeqi Lin, Junfeng Zhao, Yanzhen Zou, Bing Xie, 2017.
-* <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Combining Word2Vec with revised vector space model for better code retrieval](https://www.researchgate.net/publication/318123700_Combining_Word2Vec_with_Revised_Vector_Space_Model_for_Better_Code_Retrieval) - Thanh Van Nguyen, Anh Tuan Nguyen, Hung Dang Phan, Trong Duc Nguyen, Tien N. Nguyen, 2017.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [From word embeddings to document similarities for improved information retrieval in software engineering](https://www.researchgate.net/publication/296526040_From_Word_Embeddings_To_Document_Similarities_for_Improved_Information_Retrieval_in_Software_Engineering) - Xin Ye, Hui Shen, Xiao Ma, Razvan Bunescu, Chang Liu, 2016.
-* <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Mapping API Elements for Code Migration with Vector Representation](https://dl.acm.org/citation.cfm?id=2892661) - Trong Duc Nguyen, Anh Tuan Nguyen, Tien N. Nguyen, 2016.
+* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Word Embeddings for the Software Engineering Domain](https://github.com/vefstathiou/SO_word2vec/blob/master/MSR18-w2v.pdf) - Vasiliki Efstathiou, Christos Chatzilenas, Diomidis Spinellis, MSR 2018.
+* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Document Distance Estimation via Code Graph Embedding](https://www.researchgate.net/publication/320074701_Document_Distance_Estimation_via_Code_Graph_Embedding) - Zeqi Lin, Junfeng Zhao, Yanzhen Zou, Bing Xie, Internetware 2017.
+* <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Combining Word2Vec with revised vector space model for better code retrieval](https://www.researchgate.net/publication/318123700_Combining_Word2Vec_with_Revised_Vector_Space_Model_for_Better_Code_Retrieval) - Thanh Van Nguyen, Anh Tuan Nguyen, Hung Dang Phan, Trong Duc Nguyen, Tien N. Nguyen, ICSE 2017.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [From word embeddings to document similarities for improved information retrieval in software engineering](https://www.researchgate.net/publication/296526040_From_Word_Embeddings_To_Document_Similarities_for_Improved_Information_Retrieval_in_Software_Engineering) - Xin Ye, Hui Shen, Xiao Ma, Razvan Bunescu, Chang Liu, ICSE 2016.
+* <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Mapping API Elements for Code Migration with Vector Representation](https://dl.acm.org/citation.cfm?id=2892661) - Trong Duc Nguyen, Anh Tuan Nguyen, Tien N. Nguyen, ICSE 2016.
 
 #### Program Translation
 
-* <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Tree-to-tree Neural Networks for Program Translation](https://arxiv.org/abs/1802.03691v1) - Xinyun Chen, Chang Liu, Dawn Song, 2018.
+* <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Tree-to-tree Neural Networks for Program Translation](https://arxiv.org/abs/1802.03691v1) - Xinyun Chen, Chang Liu, Dawn Song, ICLR 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Code Attention: Translating Code to Comments by Exploiting Domain Features](https://arxiv.org/abs/1709.07642v2) - Wenhao Zheng, Hong-Yu Zhou, Ming Li, Jianxin Wu, 2017.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Automatically Generating Commit Messages from Diffs using Neural Machine Translation](https://arxiv.org/abs/1708.09492v1) - Siyuan Jiang, Ameer Armaly, Collin McMillan, 2017.
-* <img src="badges/5-pages-gray.svg" alt="5-pages" align="top"> [A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation](https://arxiv.org/abs/1707.02275v1) - Antonio Valerio Miceli Barone, Rico Sennrich, 2017.
-* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes](https://arxiv.org/abs/1704.04856v1) - Pablo Loyola, Edison Marrese-Taylor, Yutaka Matsuo, 2017.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Automatically Generating Commit Messages from Diffs using Neural Machine Translation](https://arxiv.org/abs/1708.09492v1) - Siyuan Jiang, Ameer Armaly, Collin McMillan, ASE 2017.
+* <img src="badges/5-pages-gray.svg" alt="5-pages" align="top"> [A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation](https://arxiv.org/abs/1707.02275v1) - Antonio Valerio Miceli Barone, Rico Sennrich, ICNLP 2017.
+* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes](https://arxiv.org/abs/1704.04856v1) - Pablo Loyola, Edison Marrese-Taylor, Yutaka Matsuo, ACL 2017.
 
 #### Code Suggestion and Completion
 
 * <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Code Completion with Neural Attention and Pointer Networks](https://arxiv.org/abs/1711.09573v1) - Jian Li, Yue Wang, Irwin King, Michael R. Lyu, 2017.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Learning Python Code Suggestion with a Sparse Pointer Network](https://arxiv.org/abs/1611.08307) - Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel, 2016.
-* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Code Completion with Statistical Language Models](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf) - Veselin Raychev, Martin Vechev, Eran Yahav, 2014.
+* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Code Completion with Statistical Language Models](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf) - Veselin Raychev, Martin Vechev, Eran Yahav, PLDI 2014.
 
 #### Program Repair and Bug Detection
 
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Learning to Repair Software Vulnerabilities with Generative Adversarial Networks](https://arxiv.org/abs/1805.07475) - Jacob A. Harer, Onur Ozdemir, Tomo Lazovich, Christopher P. Reale, Rebecca L. Russell, Louis Y. Kim, Peter Chin, 2018.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Dynamic Neural Program Embedding for Program Repair](https://arxiv.org/abs/1711.07163v2) - Ke Wang, Rishabh Singh, Zhendong Su, 2018.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [To Type or Not to Type: Quantifying Detectable Bugs in JavaScript](http://earlbarr.com/publications/typestudy.pdf) - Zheng Gao, Christian Bird, Earl Barr, 2017.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Semantic Code Repair using Neuro-Symbolic Transformation Networks](https://arxiv.org/abs/1710.11054v1) - Jacob Devlin, Jonathan Uesato, Rishabh Singh, Pushmeet Kohli, 2017.
-* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [Automated Identification of Security Issues from Commit Messages and Bug Reports](http://asankhaya.github.io/pdf/automated-identification-of-security-issues-from-commit-messages-and-bug-reports.pdf) - Yaqin Zhou and Asankhaya Sharma, 2017.
-* <img src="badges/31-pages-gray.svg" alt="31-pages" align="top"> [SmartPaste: Learning to Adapt Source Code](https://arxiv.org/abs/1705.07867) - Miltiadis Allamanis, Marc Brockschmidt, 2017.
-* <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks](https://arxiv.org/abs/1703.02458v1) - Min-je Choi, Sehun Jeong, Hakjoo Oh, Jaegul Choo, 2017.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516) - Miltiadis Allamanis, Earl T. Barr, René Just, Charles Sutton, 2016.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Dynamic Neural Program Embedding for Program Repair](https://arxiv.org/abs/1711.07163v2) - Ke Wang, Rishabh Singh, Zhendong Su, ICLR 2018.
 * <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Estimating defectiveness of source code: A predictive model using GitHub content](https://arxiv.org/abs/1803.07764) - Ritu Kapur, Balwinder Sodhi, 2018
-* <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Automated software vulnerability detection with machine learning](https://arxiv.org/abs/1803.04497) - Jacob A. Harer, Louis Y. Kim, Rebecca L. Russell, Onur Ozdemir, Leonard R. Kosta, Akshay Rangamani, Lei H. Hamilton, Gabriel I. Centeno, Jonathan R. Key, Paul M. Ellingwood, Marc W. McConley, Jeffrey M. Opper, Peter Chin, Tomo Lazovich, 2018
+* <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Automated software vulnerability detection with machine learning](https://arxiv.org/abs/1803.04497) - Jacob A. Harer, Louis Y. Kim, Rebecca L. Russell, Onur Ozdemir, Leonard R. Kosta, Akshay Rangamani, Lei H. Hamilton, Gabriel I. Centeno, Jonathan R. Key, Paul M. Ellingwood, Marc W. McConley, Jeffrey M. Opper, Peter Chin, Tomo Lazovich, IWSPA 2018
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [To Type or Not to Type: Quantifying Detectable Bugs in JavaScript](http://earlbarr.com/publications/typestudy.pdf) - Zheng Gao, Christian Bird, Earl Barr, ICSE 2017.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Semantic Code Repair using Neuro-Symbolic Transformation Networks](https://arxiv.org/abs/1710.11054v1) - Jacob Devlin, Jonathan Uesato, Rishabh Singh, Pushmeet Kohli, 2017.
+* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [Automated Identification of Security Issues from Commit Messages and Bug Reports](http://asankhaya.github.io/pdf/automated-identification-of-security-issues-from-commit-messages-and-bug-reports.pdf) - Yaqin Zhou and Asankhaya Sharma, FSE 2017.
+* <img src="badges/31-pages-gray.svg" alt="31-pages" align="top"> [SmartPaste: Learning to Adapt Source Code](https://arxiv.org/abs/1705.07867) - Miltiadis Allamanis, Marc Brockschmidt, 2017.
+* <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks](https://arxiv.org/abs/1703.02458v1) - Min-je Choi, Sehun Jeong, Hakjoo Oh, Jaegul Choo, IJCAI 2017.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516) - Miltiadis Allamanis, Earl T. Barr, René Just, Charles Sutton, 2016.
 
 #### APIs and Code Mining
 
-* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Hierarchical Learning of Cross-Language Mappings through Distributed Vector Representations for Code](https://bdqnghi.github.io/files/icse-18-nier.pdf) - Nghi D. Q. Bui, Lingxiao Jiang, 2018.
-* <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning](https://arxiv.org/abs/1704.07734v1) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, 2017.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep API Learning](https://arxiv.org/abs/1605.08535v3) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, 2017.
+* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Hierarchical Learning of Cross-Language Mappings through Distributed Vector Representations for Code](https://bdqnghi.github.io/files/icse-18-nier.pdf) - Nghi D. Q. Bui, Lingxiao Jiang, ICSE 2018.
+* <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning](https://arxiv.org/abs/1704.07734v1) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, IJCAI 2017.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep API Learning](https://arxiv.org/abs/1605.08535v3) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, FSE 2016.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Exploring API Embedding for API Usages and Applications](http://home.eng.iastate.edu/~trong/projects/jv2cs/) - Nguyen, Nguyen, Phan and Nguyen, Journal of Systems and Software 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [API usage pattern recommendation for software development](http://www.sciencedirect.com/science/article/pii/S0164121216301200) - Haoran Niu, Iman Keivanloo, Ying Zou, 2017.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Exploring API Embedding for API Usages and Applications](http://home.eng.iastate.edu/~trong/projects/jv2cs/) - Nguyen, Nguyen, Phan and Nguyen, 2017.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Parameter-Free Probabilistic API Mining across GitHub](http://homepages.inf.ed.ac.uk/csutton/publications/fse2016.pdf) - Jaroslav Fowkes, Charles Sutton, 2016.
-* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [A Subsequence Interleaving Model for Sequential Pattern Mining](http://homepages.inf.ed.ac.uk/csutton/publications/kdd2016-subsequence-interleaving.pdf) - Jaroslav Fowkes, Charles Sutton, 2016.
-* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Lean GHTorrent: GitHub data on demand](https://bvasiles.github.io/papers/lean-ghtorrent.pdf) - Georgios Gousios, Bogdan Vasilescu, Alexander Serebrenik, Andy Zaidman, 2014.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Mining idioms from source code](http://homepages.inf.ed.ac.uk/csutton/publications/idioms.pdf) - Miltiadis Allamanis, Charles Sutton, 2014.
-* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [The GHTorent Dataset and Tool Suite](http://www.gousios.gr/pub/ghtorrent-dataset-toolsuite.pdf) - Georgios Gousios, 2013.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Parameter-Free Probabilistic API Mining across GitHub](http://homepages.inf.ed.ac.uk/csutton/publications/fse2016.pdf) - Jaroslav Fowkes, Charles Sutton, FSE 2016.
+* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [A Subsequence Interleaving Model for Sequential Pattern Mining](http://homepages.inf.ed.ac.uk/csutton/publications/kdd2016-subsequence-interleaving.pdf) - Jaroslav Fowkes, Charles Sutton, KDD 2016.
+* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Lean GHTorrent: GitHub data on demand](https://bvasiles.github.io/papers/lean-ghtorrent.pdf) - Georgios Gousios, Bogdan Vasilescu, Alexander Serebrenik, Andy Zaidman, MSR 2014.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Mining idioms from source code](http://homepages.inf.ed.ac.uk/csutton/publications/idioms.pdf) - Miltiadis Allamanis, Charles Sutton, FSE 2014.
+* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [The GHTorent Dataset and Tool Suite](http://www.gousios.gr/pub/ghtorrent-dataset-toolsuite.pdf) - Georgios Gousios, MSR 2013.
 
 #### Code Optimization
 
