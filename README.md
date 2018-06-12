@@ -30,6 +30,7 @@ A curated list of awesome research papers, datasets and software projects devote
         </details>
 - [Posts](#posts)
 - [Talks](#talks)
+    - [Video](#video)
 - [Software](#software)
     - [Machine Learning](#machine-learning)
     - [Utilities](#utilities)
@@ -262,6 +263,13 @@ A curated list of awesome research papers, datasets and software projects devote
 * [Source code abstracts classification using CNN (3)](http://vmarkovtsev.github.io/slush-2016/)
 * [Embedding the GitHub contribution graph](https://egorbu.github.io/techtalks-2017-moscow)
 * [Measuring code sentiment in a Git repository](http://vmarkovtsev.github.io/gophercon-2018-moscow/)
+
+### Video
+
+* ["Neural Abstract Machines & Program Induction"]( https://www.youtube.com/playlist?list=PLzTDea_cM27LVPSTdK9RypSyqBHZWPywt)  Workshop at NIPS 2016
+* ["Learning to Code: Machine Learning for Program Induction"](https://www.youtube.com/watch?v=vzDuVhFMB9Q) CamAIML 2017 presentation by MSR.
+* ["source{d} tech talks - Machine Learning on Source Code"](https://www.youtube.com/playlist?list=PL5Ld68ole7j3iQFUSB3fR9122dHCUWXsy) source{d} tech talks 2017 @Moscow
+
 
 ## Software
 
