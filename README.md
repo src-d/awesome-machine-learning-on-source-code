@@ -61,7 +61,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 ## Competitions
 
-* [CodRep](https://github.com/KTH/CodRep-competition) - CodRep is a ML competition on source code data given a common playground.
+* [CodRep](https://github.com/KTH/CodRep-competition) - competition on automatic program repair: given a source line, find the insertion point.
 
 ## Papers
 
