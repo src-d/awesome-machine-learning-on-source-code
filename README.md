@@ -174,48 +174,48 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Code Optimization
 
-* <img src="badges/27-pages-gray.svg" alt="27-pages" align="top"> [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208v2) - Tim Kraska, Alex Beutel, Ed H. Chi, Jeffrey Dean, Neoklis Polyzotis, 2017.
-* <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Learning to superoptimize programs](https://arxiv.org/abs/1611.01787v3) - Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohlim 2017.
-* <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Neural Nets Can Learn Function Type Signatures From Binaries](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-chua.pdf) - Zheng Leong Chua, Shiqi Shen, Prateek Saxena, and Zhenkai Liang, 2017.
-* <img src="badges/25-pages-gray.svg" alt="25-pages" align="top"> [Adaptive Neural Compilation](https://arxiv.org/abs/1605.07969v2) - Rudy Bunel, Alban Desmaison, Pushmeet Kohli, Philip H.S. Torr, M. Pawan Kumar, 2016.
-* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Learning to Superoptimize Programs - Workshop Version](http://arxiv.org/abs/1612.01094) - Bunel, Rudy, Alban Desmaison, M. Pawan Kumar, Philip H. S. Torr, and Pushmeet Kohli, 2016.
+* <img src="badges/27-pages-gray.svg" alt="27-pages" align="top"> [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208v2) - Tim Kraska, Alex Beutel, Ed H. Chi, Jeffrey Dean, Neoklis Polyzotis, SIGMOD 2018.
+* <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Learning to superoptimize programs](https://arxiv.org/abs/1611.01787v3) - Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohlim ICLR 2017.
+* <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Neural Nets Can Learn Function Type Signatures From Binaries](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-chua.pdf) - Zheng Leong Chua, Shiqi Shen, Prateek Saxena, and Zhenkai Liang, USENIX Security Symposium 2017.
+* <img src="badges/25-pages-gray.svg" alt="25-pages" align="top"> [Adaptive Neural Compilation](https://arxiv.org/abs/1605.07969v2) - Rudy Bunel, Alban Desmaison, Pushmeet Kohli, Philip H.S. Torr, M. Pawan Kumar, NIPS 2016.
+* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Learning to Superoptimize Programs - Workshop Version](http://arxiv.org/abs/1612.01094) - Bunel, Rudy, Alban Desmaison, M. Pawan Kumar, Philip H. S. Torr, and Pushmeet Kohli, NIPS 2016.
 
 #### Topic Modeling
 
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Topic modeling of public repositories at scale using names in source code](https://arxiv.org/abs/1704.00135) - Vadim Markovtsev, Eiso Kant, 2017.
-* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Why, When, and What: Analyzing Stack Overflow Questions by Topic, Type, and Code](http://homepages.inf.ed.ac.uk/csutton/publications/msrCh2013.pdf) - Miltiadis Allamanis, Charles Sutton, 2013.
-* <img src="badges/30-pages-gray.svg" alt="30-pages" align="top"> [Semantic clustering: Identifying topics in source code](https://pdfs.semanticscholar.org/c9ba/722322912419e59ea251c22b437d251f1644.pdf) - Adrian Kuhn, Stéphane Ducasse, Tudor Girba, 2007.
+* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Why, When, and What: Analyzing Stack Overflow Questions by Topic, Type, and Code](http://homepages.inf.ed.ac.uk/csutton/publications/msrCh2013.pdf) - Miltiadis Allamanis, Charles Sutton, MSR 2013.
+* <img src="badges/30-pages-gray.svg" alt="30-pages" align="top"> [Semantic clustering: Identifying topics in source code](https://pdfs.semanticscholar.org/c9ba/722322912419e59ea251c22b437d251f1644.pdf) - Adrian Kuhn, Stéphane Ducasse, Tudor Girba, Information & Software Technology 2007.
 
 #### Sentiment Analysis
 
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [A Benchmark Study on Sentiment Analysis for Software Engineering Research](https://arxiv.org/pdf/1803.06525.pdf) - Nicole Novielli, Daniela Girardi, Filippo Lanubile, 2018.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Sentiment Analysis for Software Engineering: How Far Can We Go?](http://www.inf.usi.ch/phd/lin/downloads/Lin2018a.pdf) - Bin Lin, Fiorella Zampetti, Gabriele Bavota, Massimiliano Di Penta, Michele Lanza, Rocco Oliveto, 2018.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Leveraging Automated Sentiment Analysis in Software Engineering](http://cs.uno.edu/~zibran/resources/MyPapers/SentiStrengthSE_2017.pdf) - Md Rakibul Islam, Minhaz F. Zibran, 2017.
-* <img src="badges/27-pages-gray.svg" alt="27-pages" align="top"> [Sentiment Polarity Detection for Software Development](https://arxiv.org/pdf/1709.02984.pdf) - Fabio Calefato, Filippo Lanubile, Federico Maiorano, Nicole Novielli, 2017.
-* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [SentiCR: A Customized Sentiment Analysis Tool for Code Review Interactions](https://drive.google.com/file/d/0Byog0ILN8S1haGxpT3hvSzZxdms/view) - Toufique Ahmed, Amiangshu Bosu, Anindya Iqbal, Shahram Rahimi, 2017.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [A Benchmark Study on Sentiment Analysis for Software Engineering Research](https://arxiv.org/abs/1803.06525) - Nicole Novielli, Daniela Girardi, Filippo Lanubile, MSR 2018.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Sentiment Analysis for Software Engineering: How Far Can We Go?](http://www.inf.usi.ch/phd/lin/downloads/Lin2018a.pdf) - Bin Lin, Fiorella Zampetti, Gabriele Bavota, Massimiliano Di Penta, Michele Lanza, Rocco Oliveto, ICSE 2018.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Leveraging Automated Sentiment Analysis in Software Engineering](http://cs.uno.edu/~zibran/resources/MyPapers/SentiStrengthSE_2017.pdf) - Md Rakibul Islam, Minhaz F. Zibran, MSR 2017.
+* <img src="badges/27-pages-gray.svg" alt="27-pages" align="top"> [Sentiment Polarity Detection for Software Development](https://arxiv.org/pdf/1709.02984.pdf) - Fabio Calefato, Filippo Lanubile, Federico Maiorano, Nicole Novielli, Empirical Software Engineering 2017.
+* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [SentiCR: A Customized Sentiment Analysis Tool for Code Review Interactions](https://drive.google.com/file/d/0Byog0ILN8S1haGxpT3hvSzZxdms/view) - Toufique Ahmed, Amiangshu Bosu, Anindya Iqbal, Shahram Rahimi, ASE 2017.
 
 #### Code Summarization
 
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A Convolutional Attention Network for Extreme Summarization of Source Code](http://arxiv.org/abs/1602.03001) - Miltiadis Allamanis, Hao Peng, Charles Sutton, 2016.
-* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [TASSAL: Autofolding for Source Code Summarization](http://homepages.inf.ed.ac.uk/csutton/publications/icse2016-demo.pdf) - Jaroslav Fowkes, Pankajan Chanthirasegaran, Razvan Ranca, Miltiadis Allamanis, Mirella Lapata, Charles Sutton, 2016.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) - Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, 2016.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A Convolutional Attention Network for Extreme Summarization of Source Code](http://arxiv.org/abs/1602.03001) - Miltiadis Allamanis, Hao Peng, Charles Sutton, ICML 2016.
+* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [TASSAL: Autofolding for Source Code Summarization](http://homepages.inf.ed.ac.uk/csutton/publications/icse2016-demo.pdf) - Jaroslav Fowkes, Pankajan Chanthirasegaran, Razvan Ranca, Miltiadis Allamanis, Mirella Lapata, Charles Sutton, ICSE 2016.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) - Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, ACL 2016.
 
 #### Clone Detection
 
-* <img src="badges/28-pages-gray.svg" alt="28-pages" align="top"> [DéjàVu: a map of code duplicates on GitHub](http://janvitek.org/pubs/oopsla17b.pdf) - Cristina V. Lopes, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, Jan Vitek, 2017.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Some from Here, Some from There: Cross-project Code Reuse in GitHub](http://web.cs.ucdavis.edu/~filkov/papers/clones.pdf) - Mohammad Gharehyazie, Baishakhi Ray, Vladimir Filkov, 2017.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep Learning Code Fragments for Code Clone Detection](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf) - Martin White, Michele Tufano, Christopher Vendome, and Denys Poshyvanyk, 2016.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A study of repetitiveness of code changes in software evolution](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1016&context=cs_conf) - HA Nguyen, AT Nguyen, TT Nguyen, TN Nguyen, H Rajan, 2013.
+* <img src="badges/28-pages-gray.svg" alt="28-pages" align="top"> [DéjàVu: a map of code duplicates on GitHub](http://janvitek.org/pubs/oopsla17b.pdf) - Cristina V. Lopes, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, Jan Vitek, Programming Languages OOPSLA 2017.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Some from Here, Some from There: Cross-project Code Reuse in GitHub](http://web.cs.ucdavis.edu/~filkov/papers/clones.pdf) - Mohammad Gharehyazie, Baishakhi Ray, Vladimir Filkov, MSR 2017.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep Learning Code Fragments for Code Clone Detection](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf) - Martin White, Michele Tufano, Christopher Vendome, and Denys Poshyvanyk, ASE 2016.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A study of repetitiveness of code changes in software evolution](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1016&context=cs_conf) - HA Nguyen, AT Nguyen, TT Nguyen, TN Nguyen, H Rajan, ASE 2013.
 
 #### Differentiable Interpreters
 
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [DDRprog: A CLEVR Differentiable Dynamic Reasoning Programmer](https://arxiv.org/abs/1803.11361v1) - Joseph Suarez, Justin Johnson, Fei-Fei Li, 2018.
-* <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction](https://arxiv.org/abs/1802.02696v1) - Da Xiao, Jo-Yu Liao, Xingyuan Yuan, 2018.
-* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Differentiable Programs with Neural Libraries](https://arxiv.org/abs/1611.02109v2) - Alexander L. Gaunt, Marc Brockschmidt, Nate Kushman, Daniel Tarlow, 2017.
+* <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction](https://arxiv.org/abs/1802.02696v1) - Da Xiao, Jo-Yu Liao, Xingyuan Yuan, ICLR 2018.
+* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Differentiable Programs with Neural Libraries](https://arxiv.org/abs/1611.02109v2) - Alexander L. Gaunt, Marc Brockschmidt, Nate Kushman, Daniel Tarlow, ICML 2017.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Differentiable Functional Program Interpreters](https://arxiv.org/abs/1611.01988v2) - John K. Feser, Marc Brockschmidt, Alexander L. Gaunt, Daniel Tarlow, 2017.
-* <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Programming with a Differentiable Forth Interpreter](http://arxiv.org/abs/1605.06640) - Bošnjak, Matko, Tim Rocktäschel, Jason Naradowsky, and Sebastian Riedel, 2017.
-* <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Neural Functional Programming](http://arxiv.org/abs/1611.01988) - Feser, John K., Marc Brockschmidt, Alexander L. Gaunt, and Daniel Tarlow, 2017.
-* <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [TerpreT: A Probabilistic Programming Language for Program Induction](http://arxiv.org/abs/1612.00817) - Gaunt, Alexander L., Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow, 2016.
+* <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Programming with a Differentiable Forth Interpreter](http://arxiv.org/abs/1605.06640) - Bošnjak, Matko, Tim Rocktäschel, Jason Naradowsky, and Sebastian Riedel, ICML 2017.
+* <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Neural Functional Programming](https://arxiv.org/abs/1611.01988v1) - Feser John K., Marc Brockschmidt, Alexander L. Gaunt, and Daniel Tarlow, ICLR 2017.
+* <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [TerpreT: A Probabilistic Programming Language for Program Induction](http://arxiv.org/abs/1612.00817) - Gaunt, Alexander L., Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow, NIPS 2016.
 
 <a name="related-research"></a>
 <details>
@@ -223,14 +223,14 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Binary Data Modeling
 
-* [Clustering Binary Data with Bernoulli Mixture Models](http://nsgrantham.com/documents/clustering-binary-data.pdf) - Neal S. Grantham
-* [A Family of Blockwise One-Factor Distributions for Modelling High-Dimensional Binary Data](https://arxiv.org/pdf/1511.01343.pdf) - Matthieu Marbac and Mohammed Sedki
-* [BayesBinMix: an R Package for Model Based Clustering of Multivariate Binary Data](https://arxiv.org/pdf/1609.06960.pdf) - Panagiotis Papastamoulis and Magnus Rattray
+* [Clustering Binary Data with Bernoulli Mixture Models](http://nsgrantham.com/documents/clustering-binary-data.pdf) - Neal S. Grantham.
+* [A Family of Blockwise One-Factor Distributions for Modelling High-Dimensional Binary Data](https://arxiv.org/pdf/1511.01343.pdf) - Matthieu Marbac and Mohammed Sedki, Computational Statistics & Data Analysis 2017.
+* [BayesBinMix: an R Package for Model Based Clustering of Multivariate Binary Data](https://arxiv.org/pdf/1609.06960.pdf) - Panagiotis Papastamoulis and Magnus Rattray, R Journal 2016.
 
 #### Soft Clustering Using T-mixture Models
 
-* [Robust mixture modelling using the t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7334&rep=rep1&type=pdf) - D. PEEL and G. J. MCLACHLAN
-* [Robust mixture modeling using the skew t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1030.9865&rep=rep1&type=pdf) - Tsung I. Lin, Jack C. Lee and Wan J. Hsieh
+* [Robust mixture modelling using the t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7334&rep=rep1&type=pdf) - D. Peel and G. J. McLachlan, Statistics and Computing 2000.
+* [Robust mixture modeling using the skew t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1030.9865&rep=rep1&type=pdf) - Tsung I. Lin, Jack C. Lee and Wan J. Hsieh, Statistics and Computing 2010.
 </details>
 
 ## Posts
