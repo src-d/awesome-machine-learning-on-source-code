@@ -148,6 +148,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Program Repair and Bug Detection
 
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Shaping Program Repair Space with Existing Patches and Similar Code](http://sei.pku.edu.cn/~xiongyf04/papers/ISSTA18a.pdf) - Jiajun Jiang, Yingfei Xiong, Hongyu Zhang, Qing Gao, Xiangqun Chen, 2018. ([code](https://github.com/xgdsmileboy/SimFix))
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Learning to Repair Software Vulnerabilities with Generative Adversarial Networks](https://arxiv.org/abs/1805.07475) - Jacob A. Harer, Onur Ozdemir, Tomo Lazovich, Christopher P. Reale, Rebecca L. Russell, Louis Y. Kim, Peter Chin, 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Dynamic Neural Program Embedding for Program Repair](https://arxiv.org/abs/1711.07163v2) - Ke Wang, Rishabh Singh, Zhendong Su, ICLR 2018.
 * <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Estimating defectiveness of source code: A predictive model using GitHub content](https://arxiv.org/abs/1803.07764) - Ritu Kapur, Balwinder Sodhi, 2018
