@@ -67,6 +67,9 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Program Synthesis and Induction
 
+* <img src="badges/12-pages-beginner-brightgreen.svg" alt="12-pages-beginner" align="top"> [Coarse-to-Fine Decoding for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04793.pdf) - Li Dong, Mirella Lapata, ACL 2018
+* <img src="badges/12-pages-beginner-brightgreen.svg" alt="12-pages-beginner" align="top"> [Semantic Parsing with Syntax- and Table-Aware SQL Generation](https://arxiv.org/pdf/1804.08338.pdf) - Yibo Sun, Duyu Tang, Nan Duan, Jianshu Ji, Guihong Cao, Xiaocheng Feng, Bing Qin, Ting Liu, Ming Zhou, ACL 2018
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [DialSQL: Dialogue Based Structured Query Generation](http://cs.ucsb.edu/~ysu/papers/acl18_dialsql.pdf) - Izzeddin Gur, Semih Yavuz, Yu Su, Xifeng Yan, ACL 2018
 * <img src="badges/12-pages-beginner-brightgreen.svg" alt="12-pages-beginner" align="top"> [NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System](https://arxiv.org/abs/1802.08979v2) - Xi Victoria Lin, Chenglong Wang, Luke Zettlemoyer, Michael D. Ernst, LREC 2018.
 * <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Recent Advances in Neural Program Synthesis](https://arxiv.org/abs/1802.02353v1) - Neel Kant, 2018.
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Neural Sketch Learning for Conditional Program Generation](https://arxiv.org/abs/1703.05698) - Vijayaraghavan Murali, Letao Qi, Swarat Chaudhuri, Chris Jermaine, ICLR 2018.
