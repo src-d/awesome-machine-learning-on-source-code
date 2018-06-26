@@ -8,12 +8,11 @@ This document outlines some of the conventions on submission workflow, commit me
 
 The official support channels, for both users and contributors, are:
 
-- GitHub [issues](https://github.com/src-d/awesome-machine-learning-on-source-code/issues)*
+- GitHub [pull requests](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls)*
 - Slack: #machine-learning room in the [source{d} Slack](https://join.slack.com/t/sourced-community/shared_invite/enQtMjc4Njk5MzEyNzM2LTFjNzY4NjEwZGEwMzRiNTM4MzRlMzQ4MmIzZjkwZmZlM2NjODUxZmJjNDI1OTcxNDAyMmZlNmFjODZlNTg0YWM)
 
-*Before opening a new issue or submitting a new pull request, it's helpful to
-search the project - it's likely that another user has already reported the
-issue you're facing, or it's a known issue that we're already aware of.
+*Before opening a new pull request, it's helpful to search the current list and the existing pulls - it's possible
+that another user has already reported your item.
 
 ## Certificate of Origin
 
