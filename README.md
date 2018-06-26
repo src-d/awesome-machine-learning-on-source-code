@@ -315,7 +315,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 ## Contributions
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin). **Issues are disabled.**
 
 ## License
 
