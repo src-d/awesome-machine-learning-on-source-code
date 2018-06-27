@@ -58,6 +58,8 @@ A curated list of awesome research papers, datasets and software projects devote
     * [Talks](https://www.youtube.com/playlist?list=PL5Ld68ole7j3iQFUSB3fR9122dHCUWXsy)
 * <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [NIPS Neural Abstract Machines and Program Induction workshop](ucmlr.github.io/nampi)
     * [Talks](https://www.youtube.com/playlist?list=PLzTDea_cM27LVPSTdK9RypSyqBHZWPywt)
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017)
+    * [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q) - Alexander Gaunt.
 
 ## Competitions
 
