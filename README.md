@@ -243,6 +243,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 ## Posts
 
+* [Semantic Code Search](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
 * [Learning from Source Code](https://www.microsoft.com/en-us/research/blog/learning-source-code/)
 * [Training a Model to Summarize Github Issues](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
 * [Sequence Intent Classification Using Hierarchical Attention Networks](https://www.microsoft.com/developerblog/2018/03/06/sequence-intent-classification/)
