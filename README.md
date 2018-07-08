@@ -168,7 +168,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516) - Miltiadis Allamanis, Earl T. Barr, René Just, Charles Sutton, 2016.
 
 #### APIs and Code Mining
-
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep Code Search](https://dl.acm.org/citation.cfm?id=3180167) - Xiaodong Gu, Hongyu Zhang, Sunghun Kim, ICSE 2018.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Hierarchical Learning of Cross-Language Mappings through Distributed Vector Representations for Code](https://bdqnghi.github.io/files/icse-18-nier.pdf) - Nghi D. Q. Bui, Lingxiao Jiang, ICSE 2018.
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning](https://arxiv.org/abs/1704.07734v1) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, IJCAI 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep API Learning](https://arxiv.org/abs/1605.08535v3) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, FSE 2016.
