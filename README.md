@@ -279,7 +279,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * [gemini](https://github.com/src-d/gemini) - Source code deduplication as scale, production.
 * [enry](https://github.com/src-d/enry) - Insanely fast file based programming language detector.
 * [hercules](https://github.com/src-d/hercules) - Git repository mining framework with batteries on top of go-git.
-* [DeepCS](https://github.com/guxd/deep-code-search) - Keras and Pytorch implementations of DeepCS (Deep Code Search)
+* [DeepCS](https://github.com/guxd/deep-code-search) - Keras and Pytorch implementations of the DeepCS (Deep Code Search)
 * [Code Neuron](https://github.com/vmarkovtsev/codeneuron) - Recurrent neural network to detect code blocks in natural language text.
 * [Naturalize](https://github.com/mast-group/naturalize) - Language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code.
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - Convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens.
