@@ -132,6 +132,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Embeddings in Software Engineering
 
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep Code Search](https://dl.acm.org/citation.cfm?id=3180167) - Xiaodong Gu, Hongyu Zhang, Sunghun Kim, ICSE 2018.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Word Embeddings for the Software Engineering Domain](https://github.com/vefstathiou/SO_word2vec/blob/master/MSR18-w2v.pdf) - Vasiliki Efstathiou, Christos Chatzilenas, Diomidis Spinellis, MSR 2018.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Document Distance Estimation via Code Graph Embedding](https://www.researchgate.net/publication/320074701_Document_Distance_Estimation_via_Code_Graph_Embedding) - Zeqi Lin, Junfeng Zhao, Yanzhen Zou, Bing Xie, Internetware 2017.
 * <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Combining Word2Vec with revised vector space model for better code retrieval](https://www.researchgate.net/publication/318123700_Combining_Word2Vec_with_Revised_Vector_Space_Model_for_Better_Code_Retrieval) - Thanh Van Nguyen, Anh Tuan Nguyen, Hung Dang Phan, Trong Duc Nguyen, Tien N. Nguyen, ICSE 2017.
@@ -278,6 +279,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * [gemini](https://github.com/src-d/gemini) - Source code deduplication as scale, production.
 * [enry](https://github.com/src-d/enry) - Insanely fast file based programming language detector.
 * [hercules](https://github.com/src-d/hercules) - Git repository mining framework with batteries on top of go-git.
+* [DeepCS](https://github.com/guxd/deep-code-search) - Keras and Pytorch implementations of the DeepCS (Deep Code Search)
 * [Code Neuron](https://github.com/vmarkovtsev/codeneuron) - Recurrent neural network to detect code blocks in natural language text.
 * [Naturalize](https://github.com/mast-group/naturalize) - Language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code.
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention ) - Convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens.
