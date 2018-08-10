@@ -241,6 +241,10 @@ A curated list of awesome research papers, datasets and software projects devote
 
 * [Robust mixture modelling using the t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7334&rep=rep1&type=pdf) - D. Peel and G. J. McLachlan, Statistics and Computing 2000.
 * [Robust mixture modeling using the skew t distribution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1030.9865&rep=rep1&type=pdf) - Tsung I. Lin, Jack C. Lee and Wan J. Hsieh, Statistics and Computing 2010.
+
+#### Natural Language Parsing and Comprehension
+
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A Fast Unified Model for Parsing and Sentence Understanding](https://arxiv.org/abs/1603.06021) - Samuel R. Bowman, Jon Gauthier, Abhinav Rastogi, Raghav Gupta, Christopher D. Manning, Christopher Potts, ACL 2016.
 </details>
 
 ## Posts
