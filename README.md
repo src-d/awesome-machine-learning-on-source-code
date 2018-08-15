@@ -295,6 +295,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * [TASSAL](https://github.com/mast-group/tassal) - Tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.
 * [JNice2Predict](http://www.nice2predict.org/) - Efficient and scalable open-source framework for structured prediction, enabling one to build new statistical engines more quickly.
 * [Clone Digger](http://clonedigger.sourceforge.net/download.html) - clone detection for Python and Java.
+* [Sensibility](https://github.com/naturalness/sensibility) - Uses LSTMs to detect and correct syntax errors in Java source code.
 
 #### Utilities
 
