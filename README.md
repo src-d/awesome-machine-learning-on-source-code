@@ -152,6 +152,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Code Completion with Neural Attention and Pointer Networks](https://arxiv.org/abs/1711.09573v1) - Jian Li, Yue Wang, Irwin King, Michael R. Lyu, 2017.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Learning Python Code Suggestion with a Sparse Pointer Network](https://arxiv.org/abs/1611.08307) - Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel, 2016.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Code Completion with Statistical Language Models](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf) - Veselin Raychev, Martin Vechev, Eran Yahav, PLDI 2014.
+* <img src="badges/9-pages-gray.svg" alt="9-pages" align="top"> [Intelligent Code Reviews Using Deep Learning](http://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_40.pdf) - Anshul Gupta, Neel Sundaresan, KDD DL Day 2018.
 
 #### Program Repair and Bug Detection
 
