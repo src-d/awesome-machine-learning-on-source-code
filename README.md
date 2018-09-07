@@ -113,7 +113,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Neural Network Architectures and Algorithms
 
-* <img src="badges/13-pages-gray.svg" alt="13-pages" align="top"> [Neural Code Comprehension: A Learnable Representation of Code Semantics](https://arxiv.org/abs/1806.07336) - Tal Ben-Nun, Alice Shoshana Jakobovits, Torsten Hoefler, NIPS 2018.
+* <img src="badges/13-pages-gray.svg" alt="13-pages" align="top"> [Neural Code Comprehension: A Learnable Representation of Code Semantics](https://arxiv.org/abs/1806.07336) - Tal Ben-Nun, Alice Shoshana Jakobovits, Torsten Hoefler, NIPS 2018. 
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [A General Path-Based Representation for Predicting Program Properties](https://arxiv.org/abs/1803.09544) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, PLDI 2018.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Cross-Language Learning for Program Classification using Bilateral Tree-Based Convolutional Neural Networks](https://arxiv.org/abs/1710.06159v2) - Nghi D. Q. Bui, Lingxiao Jiang, Yijun Yu, AAAI 2018.
 * <img src="badges/17-pages-gray.svg" alt="17-pages" align="top"> [Syntax-Directed Variational Autoencoder for Structured Data](https://openreview.net/pdf?id=SyqShMZRb) - Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song, ICLR 2018.
