@@ -173,6 +173,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/31-pages-gray.svg" alt="31-pages" align="top"> [SmartPaste: Learning to Adapt Source Code](https://arxiv.org/abs/1705.07867) - Miltiadis Allamanis, Marc Brockschmidt, 2017.
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks](https://arxiv.org/abs/1703.02458v1) - Min-je Choi, Sehun Jeong, Hakjoo Oh, Jaegul Choo, IJCAI 2017.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516) - Miltiadis Allamanis, Earl T. Barr, René Just, Charles Sutton, 2016.
+* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Automatically assessing vulnerabilities discovered by compositional analysis](https://dl.acm.org/citation.cfm?id=3243130) - Saahil Ognawala, Ricardo Nales Amato, Alexander Pretschner and Pooja Kulkarni, MASES 2018.
 
 #### APIs and Code Mining
 
