@@ -200,6 +200,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Topic modeling of public repositories at scale using names in source code](https://arxiv.org/abs/1704.00135) - Vadim Markovtsev, Eiso Kant, 2017.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Why, When, and What: Analyzing Stack Overflow Questions by Topic, Type, and Code](http://homepages.inf.ed.ac.uk/csutton/publications/msrCh2013.pdf) - Miltiadis Allamanis, Charles Sutton, MSR 2013.
 * <img src="badges/30-pages-gray.svg" alt="30-pages" align="top"> [Semantic clustering: Identifying topics in source code](https://pdfs.semanticscholar.org/c9ba/722322912419e59ea251c22b437d251f1644.pdf) - Adrian Kuhn, Stéphane Ducasse, Tudor Girba, Information & Software Technology 2007.
+* <img src="badges/9-pages-gray.svg" alt="9-pages" align="top"> [A Language-Agnostic Model for Semantic Source Code Labeling](https://dl.acm.org/citation.cfm?id=3243132) - Ben Gelman, Bryan Hoyle, Jessica Moore, Joshua Saxe and David Slater, MASES 2018.
 
 #### Sentiment Analysis
 
