@@ -221,6 +221,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Some from Here, Some from There: Cross-project Code Reuse in GitHub](http://web.cs.ucdavis.edu/~filkov/papers/clones.pdf) - Mohammad Gharehyazie, Baishakhi Ray, Vladimir Filkov, MSR 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep Learning Code Fragments for Code Clone Detection](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf) - Martin White, Michele Tufano, Christopher Vendome, and Denys Poshyvanyk, ASE 2016.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A study of repetitiveness of code changes in software evolution](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1016&context=cs_conf) - HA Nguyen, AT Nguyen, TT Nguyen, TN Nguyen, H Rajan, ASE 2013.
+* <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [A Deep Learning Approach to Program Similarity](https://dl.acm.org/citation.cfm?id=3243131) - Niccolò Marastoni, Roberto Giacobazzi and Mila Dalla Preda, MASES 2018.
 
 #### Differentiable Interpreters
 
