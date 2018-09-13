@@ -130,6 +130,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007) - Joulin, Armand, and Tomas Mikolov, NIPS 2015.
 * <img src="badges/26-pages-gray.svg" alt="26-pages" align="top"> [Neural Turing Machines](http://arxiv.org/abs/1410.5401) - Graves, Alex, Greg Wayne, and Ivo Danihelka, 2014.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [From Machine Learning to Machine Reasoning](http://arxiv.org/abs/1102.1808) - Bottou Leon, Journal of Machine Learning 2011.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [From Programs to Interpretable Deep Models and Back](https://link.springer.com/content/pdf/10.1007%2F978-3-319-96145-3_2.pdf) - Eran Yahav, ICCAV 2018.
 
 #### Embeddings in Software Engineering
 
