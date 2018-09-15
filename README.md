@@ -219,6 +219,9 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A Convolutional Attention Network for Extreme Summarization of Source Code](http://arxiv.org/abs/1602.03001) - Miltiadis Allamanis, Hao Peng, Charles Sutton, ICML 2016.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [TASSAL: Autofolding for Source Code Summarization](http://homepages.inf.ed.ac.uk/csutton/publications/icse2016-demo.pdf) - Jaroslav Fowkes, Pankajan Chanthirasegaran, Razvan Ranca, Miltiadis Allamanis, Mirella Lapata, Charles Sutton, ICSE 2016.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) - Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, ACL 2016.
+* <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [Summarizing Source Code with Transferred API Knowledge](https://xin-xia.github.io/publication/ijcai18.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin, IJCAI 2018.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Code Comment Generation](https://xin-xia.github.io/publication/icpc182.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Zhi Jin, ICPC 2018.
+* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [A Neural Framework for Retrieval and Summarization of Source Code](https://dl.acm.org/citation.cfm?id=3240471) - Qingying Chen, Minghui Zhou, ASE 2018.
 
 #### Clone Detection
 
