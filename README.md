@@ -136,6 +136,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Embeddings in Software Engineering
 
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Code Vectors Understanding Programs Through Embedded Abstracted Symbolic Traces](https://arxiv.org/abs/1803.06686) - Jordan Henkel, Shuvendu K. Lahiri, Ben Liblit, Thomas Reps, ESEC/FSE 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep Code Search](https://dl.acm.org/citation.cfm?id=3180167) - Xiaodong Gu, Hongyu Zhang, Sunghun Kim, ICSE 2018.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Word Embeddings for the Software Engineering Domain](https://github.com/vefstathiou/SO_word2vec/blob/master/MSR18-w2v.pdf) - Vasiliki Efstathiou, Christos Chatzilenas, Diomidis Spinellis, MSR 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align=top> [
