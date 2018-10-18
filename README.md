@@ -163,6 +163,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 
 #### Program Repair and Bug Detection
 
+* <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [An Empirical Investigation into Learning Bug-Fixing Patches in the Wild via Neural Machine Translation](http://www.cs.wm.edu/~denys/pubs/ASE%2718-Learning-Bug-Fixes-NMT.pdf) - M. Tufano et al., ASE 2018
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [A deep tree-based model for software defect prediction](https://arxiv.org/abs/1802.00921) - HK Dam, T Pham, SW Ng, [T Tran](https://truyentran.github.io), J Grundy, A Ghose, T Kim, CJ Kim, 2018.
 * <img src="badges/34-pages-gray.svg" alt="34-pages" align="top"> [Learning a Static Analyzer from Data](https://arxiv.org/abs/1611.01752) - Pavol Bielik, Veselin Raychev, Martin Vechev, CAV 2017. [video](https://www.youtube.com/watch?v=bkieI3jLxVY)
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [Automated Vulnerability Detection in Source Code Using Deep Representation Learning](https://arxiv.org/abs/1807.04320) - Rebecca L. Russell, Louis Kim, Lei H. Hamilton, Tomo Lazovich, Jacob A. Harer, Onur Ozdemir, Paul M. Ellingwood, Marc W. McConley, 2018.
