@@ -65,6 +65,8 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Competitions
 
 * [CodRep](https://github.com/KTH/CodRep-competition) - competition on automatic program repair: given a source line, find the insertion point.
+* [PUBG Finish Placement Prediction](https://www.kaggle.com/c/pubg-finish-placement-prediction) -  predict the battle royale finish of PUBG Players
+* [Passenger Screening Algorithm Challenge](https://www.kaggle.com/c/passenger-screening-algorithm-challenge#description) - Improve the accuracy of the Department of Homeland Security's threat recognition algorithms with $1,500,000 prize money
 
 ## Papers
 
