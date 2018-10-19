@@ -344,6 +344,12 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * [150k JavaScript Dataset](http://www.srl.inf.ethz.ch/js150.php) - Dataset consisting of 150,000 JavaScript files and their parsed ASTs.
 * [card2code](https://github.com/deepmind/card2code) - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](https://arxiv.org/abs/1603.06744).
 * [NL2Bash](https://github.com/TellinaTool/nl2bash) - This dataset contains a set of ~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
+* [Dataset Search - Google](https://toolbox.google.com/datasetsearch) - Dataset Search by Google enables users to find data sets stored across the web by way of a simple keyword search
+* [COCO dataset](http://cocodataset.org/#home) - COCO is a large-scale object detection, segmentation, and captioning dataset. COCO has several features
+* [Earth on AWS](https://aws.amazon.com/earth/) - Build planetary-scale applications in the cloud with open geospatial data
+* [egohands](http://vision.soic.indiana.edu/projects/egohands/) - A Dataset for Hands in Complex Egocentric Interactions
+* [ufo-reports](https://github.com/planetsig/ufo-reports) - NUFORC geolocated and time standardized ufo reports for close to a century of data. 80,000 plus reports.
+* 
 - [GitHub JavaScript Dump October 2016](https://archive.org/details/javascript-sources-oct2016.sqlite3) - Dataset consisting of 494,352 syntactically-valid JavaScript files obtained from the top ~10000 starred JavaScript repositories on GitHub, with licenses, and parsed ASTs.
 
 ## Credits
