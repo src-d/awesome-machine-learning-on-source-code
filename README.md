@@ -316,7 +316,6 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * [DeepSim](https://github.com/parasol-aser/deepsim) - a deep learning-based approach to measure code functional similarity.
 * [rnn-autocomplete](https://github.com/ZeRoGerc/rnn-autocomplete) - Neural code autocompletion with RNN (bachelor's thesis).
 
-
 #### Utilities
 
 * [go-git](https://github.com/src-d/go-git) - Highly extensible Git implementation in pure Go which is friendly to data mining.
@@ -345,6 +344,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * [card2code](https://github.com/deepmind/card2code) - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](https://arxiv.org/abs/1603.06744).
 * [NL2Bash](https://github.com/TellinaTool/nl2bash) - This dataset contains a set of ~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
 - [GitHub JavaScript Dump October 2016](https://archive.org/details/javascript-sources-oct2016.sqlite3) - Dataset consisting of 494,352 syntactically-valid JavaScript files obtained from the top ~10000 starred JavaScript repositories on GitHub, with licenses, and parsed ASTs.
+- [Tregex, Tsurgeon and Semgrex](https://nlp.stanford.edu/software/tregex.shtml) - Tregex is a utility for matching patterns in trees, based on tree relationships and regular expression matches on nodes (the name is short for "tree regular expressions").
 
 ## Credits
 
