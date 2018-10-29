@@ -39,7 +39,7 @@ A curated list of awesome research papers, datasets and software projects devote
 - [License](#license)
 
 ## Digests
-
+* [Machine Learning cheat sheet] (https://github.com/remicnrd/ml_cheatsheet) - a ML cheatsheet on how algorithms work.
 * [Learning from "Big Code"](http://learnbigcode.github.io) - Techniques, challenges, tools, datasets on "Big Code".
 * [A Survey of Machine Learning for Big Code and Naturalness](https://ml4code.github.io/) - Survey and literature review on Machine Learning on Source Code.
 
