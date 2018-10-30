@@ -70,6 +70,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Program Synthesis and Induction
 
+* <img src="badges/80-pages-gray.svg" alt="80-pages" align="top"> [On the Convergence Rate of Training Recurrent Neural Networks](https://arxiv.org/pdf/1810.12065.pdf) - Zeyuan Allen-Zhu, Yuanzhi Li, Zhao Song 2018
 * <img src="badges/12-pages-beginner-brightgreen.svg" alt="12-pages-beginner" align="top"> [Coarse-to-Fine Decoding for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04793.pdf) - Li Dong, Mirella Lapata, ACL 2018
 * <img src="badges/12-pages-beginner-brightgreen.svg" alt="12-pages-beginner" align="top"> [Semantic Parsing with Syntax- and Table-Aware SQL Generation](https://arxiv.org/pdf/1804.08338.pdf) - Yibo Sun, Duyu Tang, Nan Duan, Jianshu Ji, Guihong Cao, Xiaocheng Feng, Bing Qin, Ting Liu, Ming Zhou, ACL 2018
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [DialSQL: Dialogue Based Structured Query Generation](http://cs.ucsb.edu/~ysu/papers/acl18_dialsql.pdf) - Izzeddin Gur, Semih Yavuz, Yu Su, Xifeng Yan, ACL 2018
