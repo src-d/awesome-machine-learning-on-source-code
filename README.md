@@ -182,7 +182,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516) - Miltiadis Allamanis, Earl T. Barr, René Just, Charles Sutton, 2016.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Automatically assessing vulnerabilities discovered by compositional analysis](https://dl.acm.org/citation.cfm?id=3243130) - Saahil Ognawala, Ricardo Nales Amato, Alexander Pretschner and Pooja Kulkarni, MASES 2018.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [An Empirical Investigation into Learning Bug-Fixing Patches in the Wild via Neural Machine Translation](http://www.cs.wm.edu/~denys/pubs/ASE%2718-Learning-Bug-Fixes-NMT.pdf) - Michele Tufano, Cody Watson, Gabriele Bavota, Massimiliano Di Penta, Martin White, Denys Poshyvanyk, ASE 2018.
-* <img src="badges/23-pages-gray.svg" alt="31-pages" align="top"> [DeepBugs: A Learning Approach to Name-based Bug Detection](https://arxiv.org/abs/1805.11683) - Michael Pradel, Koushik Sen, 2018.
+* <img src="badges/23-pages-gray.svg" alt="23-pages" align="top"> [DeepBugs: A Learning Approach to Name-based Bug Detection](https://arxiv.org/pdf/1805.11683.pdf) - Michael Pradel, Koushik Sen, 2018.
 
 #### APIs and Code Mining
 
