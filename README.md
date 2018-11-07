@@ -53,10 +53,10 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [SysML](http://www.sysml.cc/)
     * [Talks](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/)
 * <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [Mining Software Repositories](http://www.msrconf.org/)
-* <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [AIFORSE](aiforse.org)
+* <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [AIFORSE](https://aiforse.org/)
 * <img src="badges/origin-industry-green.svg" alt="origin-industry" align="top"> [source{d} tech talks](https://talks.sourced.tech/machine-learning-2017/)
     * [Talks](https://www.youtube.com/playlist?list=PL5Ld68ole7j3iQFUSB3fR9122dHCUWXsy)
-* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [NIPS Neural Abstract Machines and Program Induction workshop](ucmlr.github.io/nampi)
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [NIPS Neural Abstract Machines and Program Induction workshop](https://uclmr.github.io/nampi/)
     * [Talks](https://www.youtube.com/playlist?list=PLzTDea_cM27LVPSTdK9RypSyqBHZWPywt)
 * <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017)
     * [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q) - Alexander Gaunt.
@@ -103,6 +103,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Source Code Analysis and Language modeling
 
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Tree2Tree Neural Translation Model for Learning Source Code Changes](https://arxiv.org/pdf/1810.00314.pdf) - Saikat Chakraborty, Miltiadis Allamanis, Baishakhi Ray, 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [code2seq: Generating Sequences from Structured Representations of Code](https://arxiv.org/abs/1808.01400) - Uri Alon, Omer Levy, Eran Yahav, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Syntax and Sensibility: Using language models to detect and correct syntax errors](http://softwareprocess.es/pubs/santos2018SANER-syntax.pdf) - Eddie Antonio Santos, Joshua Charles Campbell, Dhvani Patel, Abram Hindle, and José Nelson Amaral, SANER 2018.
 * <img src="badges/25-pages-gray.svg" alt="25-pages" align="top"> [code2vec: Learning Distributed Representations of Code](https://arxiv.org/abs/1803.09473v2) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, 2018.
@@ -145,6 +146,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Combining Word2Vec with revised vector space model for better code retrieval](https://www.researchgate.net/publication/318123700_Combining_Word2Vec_with_Revised_Vector_Space_Model_for_Better_Code_Retrieval) - Thanh Van Nguyen, Anh Tuan Nguyen, Hung Dang Phan, Trong Duc Nguyen, Tien N. Nguyen, ICSE 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [From word embeddings to document similarities for improved information retrieval in software engineering](https://www.researchgate.net/publication/296526040_From_Word_Embeddings_To_Document_Similarities_for_Improved_Information_Retrieval_in_Software_Engineering) - Xin Ye, Hui Shen, Xiao Ma, Razvan Bunescu, Chang Liu, ICSE 2016.
 * <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [Mapping API Elements for Code Migration with Vector Representation](https://dl.acm.org/citation.cfm?id=2892661) - Trong Duc Nguyen, Anh Tuan Nguyen, Tien N. Nguyen, ICSE 2016.
+* <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [AST-Based Deep Learning for Detecting Malicious PowerShell](https://arxiv.org/pdf/1810.09230.pdf) - Gili Rusak, Abdullah Al-Dujaili, Una-May O'Reilly, 2018.
 
 #### Program Translation
 
@@ -180,6 +182,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Tailored Mutants Fit Bugs Better](https://arxiv.org/abs/1611.02516) - Miltiadis Allamanis, Earl T. Barr, René Just, Charles Sutton, 2016.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Automatically assessing vulnerabilities discovered by compositional analysis](https://dl.acm.org/citation.cfm?id=3243130) - Saahil Ognawala, Ricardo Nales Amato, Alexander Pretschner and Pooja Kulkarni, MASES 2018.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [An Empirical Investigation into Learning Bug-Fixing Patches in the Wild via Neural Machine Translation](http://www.cs.wm.edu/~denys/pubs/ASE%2718-Learning-Bug-Fixes-NMT.pdf) - Michele Tufano, Cody Watson, Gabriele Bavota, Massimiliano Di Penta, Martin White, Denys Poshyvanyk, ASE 2018.
+* <img src="badges/23-pages-gray.svg" alt="23-pages" align="top"> [DeepBugs: A Learning Approach to Name-based Bug Detection](https://arxiv.org/pdf/1805.11683.pdf) - Michael Pradel, Koushik Sen, 2018.
 
 #### APIs and Code Mining
 
@@ -273,7 +276,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * [Syntax-Directed Variational Autoencoder for Structured Data](https://mlatgt.blog/2018/02/08/syntax-directed-variational-autoencoder-for-structured-data/)
 * [Weighted MinHash on GPU helps to find duplicate GitHub repositories.](https://blog.sourced.tech//post/minhashcuda/)
 * [Source Code Identifier Embeddings](https://blog.sourced.tech/post/id2vec/)
-* [Using Recurrent Neural Netowrks to predict the next tokens in JAVA solutions](https://codeforces.com/blog/entry/52327)
+* [Using recurrent neural networks to predict next tokens in the java solutions](https://codeforces.com/blog/entry/52327)
 * [The half-life of code & the ship of Theseus](https://erikbern.com/2016/12/05/the-half-life-of-code.html)
 * [The eigenvector of "Why we moved from language X to language Y"](https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html)
 * [Analyzing Github, How Developers Change Programming Languages Over Time](https://blog.sourced.tech/post/language_migrations/)
@@ -354,7 +357,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 
 ## Contributions
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin). **Issues are disabled**
+See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin).
 
 ## License
 
