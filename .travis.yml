@@ -1,0 +1,8 @@
+
+language: ruby
+
+before_script:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot --allow-redirect --skip-save-results README.md
