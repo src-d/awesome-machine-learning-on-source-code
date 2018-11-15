@@ -46,7 +46,7 @@ The description should not start with "A" or "The". For papers, it should includ
 
 ### Format of the commit message
 
-The commit summary must start with "Add" and end with a dot.
+The commit summary must start with a verb (`Add …`, `Deprecate …`) and end __without__ a dot.
 
 ### Deprecation
 
