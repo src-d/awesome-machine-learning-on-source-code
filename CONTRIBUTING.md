@@ -47,7 +47,6 @@ The description should not start with "A" or "The". For papers, it should includ
 ### Format of the commit message
 
 The commit summary must start with "Add" and end with a dot.
-```
 
 ### Deprecation
 
@@ -57,4 +56,3 @@ A listed repository should be deprecated if:
 * Not committed for long time (2~3 years).
 
 To mark a repository as deprecated, put `[DEPRECATED]` before the title and move it at the bottom of the list.
-
