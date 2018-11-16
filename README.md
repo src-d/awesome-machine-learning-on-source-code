@@ -1,4 +1,4 @@
-# Awesome Machine Learning On Source Code [![Awesome Machine Learning On Source Code](badges/awesome.svg)](https://github.com/src-d/awesome-machine-learning-on-source-code)
+# Awesome Machine Learning On Source Code [![Awesome Machine Learning On Source Code](badges/awesome.svg)](https://github.com/src-d/awesome-machine-learning-on-source-code) [![CI Status](https://travis-ci.org/src-d/awesome-machine-learning-on-source-code.svg)](https://travis-ci.org/src-d/awesome-machine-learning-on-source-code)
 
 ![Awesome Machine Learning On Source Code](img/awesome-machine-learning-artwork.png)
 
