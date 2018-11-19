@@ -113,7 +113,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [A deep language model for software code](https://arxiv.org/abs/1608.02715v1) - Hoa Khanh Dam, Truyen Tran, Trang Pham, 2016.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Suggesting Accurate Method and Class Names](http://homepages.inf.ed.ac.uk/csutton/publications/accurate-method-and-class.pdf) - Miltiadis Allamanis, Earl T. Barr, Christian Bird, Charles Sutton, FSE 2015.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Mining Source Code Repositories at Massive Scale using Language Modeling](http://homepages.inf.ed.ac.uk/csutton/publications/msr2013.pdf) - Miltiadis Allamanis, Charles Sutton, MSR 2013.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Learning Type Inference](http://vhellendoorn.github.io/PDF/fse2018-j2t.pdf) - Vincent J. Hellendoorn, Christian Bird, Earl T. Barr and Miltiadis Allamanis, FSE 2018.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Learning Type Inference](http://vhellendoorn.github.io/PDF/fse2018-j2t.pdf) - Vincent J. Hellendoorn, Christian Bird, Earl T. Barr and Miltiadis Allamanis, FSE 2018. [Code](https://github.com/DeepTyper/DeepTyper).
 
 #### Neural Network Architectures and Algorithms
 
