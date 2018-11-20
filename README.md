@@ -99,6 +99,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Latent Predictor Networks for Code Generation](https://arxiv.org/abs/1603.06744) - Wang Ling, Edward Grefenstette, Karl Moritz Hermann, Tomáš Kočiský, Andrew Senior, Fumin Wang, Phil Blunsom, ACL 2016.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision (Short Version)](http://arxiv.org/abs/1612.01197) - Liang Chen, Jonathan Berant, Quoc Le, Kenneth D. Forbus, and Ni Lao, NIPS 2016.
 * <img src="badges/5-pages-gray.svg" alt="5-pages" align="top"> [Programs as Black-Box Explanations](http://arxiv.org/abs/1611.07579) - Singh, Sameer, Marco Tulio Ribeiro, and Carlos Guestrin, NIPS 2016.
+* <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Search-Based Generalization and Refinement of Code Templates](http://soft.vub.ac.be/Publications/2016/vub-soft-tr-16-06.pdf) - Tim Molderez, Coen De Roover, SSBSE 2016.
 * <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Structured Generative Models of Natural Source Code](https://arxiv.org/abs/1401.0514) - Chris J. Maddison, Daniel Tarlow, ICML 2014.
 
 #### Source Code Analysis and Language modeling
