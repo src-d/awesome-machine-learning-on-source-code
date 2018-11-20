@@ -188,6 +188,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Hierarchical Learning of Cross-Language Mappings through Distributed Vector Representations for Code](https://bdqnghi.github.io/files/icse-18-nier.pdf) - Nghi D. Q. Bui, Lingxiao Jiang, ICSE 2018.
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning](https://arxiv.org/abs/1704.07734v1) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, IJCAI 2017.
+* <img src="badges/9-pages-gray.svg" alt="9-pages" align="top"> [Mining Change Histories for Unknown Systematic Edits](http://soft.vub.ac.be/Publications/2017/vub-soft-tr-17-04.pdf) - Tim Molderez, Reinout Stevens, Coen De Roover, MSR 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep API Learning](https://arxiv.org/abs/1605.08535v3) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, FSE 2016.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Exploring API Embedding for API Usages and Applications](http://home.eng.iastate.edu/~trong/projects/jv2cs/) - Nguyen, Nguyen, Phan and Nguyen, Journal of Systems and Software 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [API usage pattern recommendation for software development](http://www.sciencedirect.com/science/article/pii/S0164121216301200) - Haoran Niu, Iman Keivanloo, Ying Zou, 2017.
