@@ -22,6 +22,7 @@ A curated list of awesome research papers, datasets and software projects devote
     - [Topic Modeling](#topic-modeling)
     - [Sentiment Analysis](#sentiment-analysis)
     - [Code Summarization](#code-summarization)
+    - [AST Differencing](#ast-differencing)
     - [Clone Detection](#clone-detection)
     - [Differentiable Interpreters](#differentiable-interpreters)
     - [Related research](#related-research)<details><summary>(links require "Related research" spoiler to be open)</summary>
@@ -230,6 +231,12 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [Summarizing Source Code with Transferred API Knowledge](https://xin-xia.github.io/publication/ijcai18.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin, IJCAI 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Code Comment Generation](https://xin-xia.github.io/publication/icpc182.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Zhi Jin, ICPC 2018.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [A Neural Framework for Retrieval and Summarization of Source Code](https://dl.acm.org/citation.cfm?id=3240471) - Qingying Chen, Minghui Zhou, ASE 2018.
+
+#### AST Differencing
+
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [ClDiff: Generating Concise Linked Code Differences](https://chenbihuan.github.io/paper/ase18-huang-diff.pdf) - Kaifeng Huang, Bihuan Chen, Xin Peng, Daihong Zhou, Ying Wang, Yang Liu, Wenyun Zhao, ASE 2018.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Generating Accurate and Compact Edit Scripts Using Tree Differencing](http://www.xifiggam.eu/wp-content/uploads/2018/08/GeneratingAccurateandCompactEditScriptsusingTreeDifferencing.pdf) - Veit Frick, Thomas Grassauer, Fabian Beck, Martin Pinzger, ICSME 2018.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Fine-grained and Accurate Source Code Differencing](https://hal.archives-ouvertes.fr/hal-01054552/document) - ean-Rémy Falleri, Floréal Morandat, Xavier Blanc, Matias Martinez, Martin Monperrus, ASE 2014.
 
 #### Clone Detection
 
