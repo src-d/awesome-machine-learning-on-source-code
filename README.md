@@ -27,6 +27,7 @@ A curated list of awesome research papers, datasets and software projects devote
     - [Related research](#related-research)<details><summary>(links require "Related research" spoiler to be open)</summary>
         - [Binary Data Modeling](#binary-data-modeling)
         - [Soft Clustering Using T-mixture Models](#soft-clustering-using-t-mixture-models)
+        - [Natural Language Parsing and Comprehension](#natural-language-parsing-and-comprehension)
         </details>
 - [Posts](#posts)
 - [Talks](#talks)
