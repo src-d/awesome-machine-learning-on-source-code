@@ -25,6 +25,7 @@ A curated list of awesome research papers, datasets and software projects devote
     - [Clone Detection](#clone-detection)
     - [Differentiable Interpreters](#differentiable-interpreters)
     - [Related research](#related-research)<details><summary>(links require "Related research" spoiler to be open)</summary>
+        - [AST Differencing](#ast-differencing)
         - [Binary Data Modeling](#binary-data-modeling)
         - [Soft Clustering Using T-mixture Models](#soft-clustering-using-t-mixture-models)
         - [Natural Language Parsing and Comprehension](#natural-language-parsing-and-comprehension)
@@ -254,6 +255,12 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 <details>
 <summary>Related research</summary>
 
+#### AST Differencing
+
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [ClDiff: Generating Concise Linked Code Differences](https://chenbihuan.github.io/paper/ase18-huang-diff.pdf) - Kaifeng Huang, Bihuan Chen, Xin Peng, Daihong Zhou, Ying Wang, Yang Liu, Wenyun Zhao, ASE 2018. [Code](https://github.com/FudanSELab/CLDIFF).
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Generating Accurate and Compact Edit Scripts Using Tree Differencing](http://www.xifiggam.eu/wp-content/uploads/2018/08/GeneratingAccurateandCompactEditScriptsusingTreeDifferencing.pdf) - Veit Frick, Thomas Grassauer, Fabian Beck, Martin Pinzger, ICSME 2018.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Fine-grained and Accurate Source Code Differencing](https://hal.archives-ouvertes.fr/hal-01054552/document) - Jean-Rémy Falleri, Floréal Morandat, Xavier Blanc, Matias Martinez, Martin Monperrus, ASE 2014.
+
 #### Binary Data Modeling
 
 * [Clustering Binary Data with Bernoulli Mixture Models](https://nsgrantham.com/documents/clustering-binary-data.pdf) - Neal S. Grantham.
@@ -268,6 +275,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 #### Natural Language Parsing and Comprehension
 
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A Fast Unified Model for Parsing and Sentence Understanding](https://arxiv.org/abs/1603.06021) - Samuel R. Bowman, Jon Gauthier, Abhinav Rastogi, Raghav Gupta, Christopher D. Manning, Christopher Potts, ACL 2016.
+
 </details>
 
 ## Posts
