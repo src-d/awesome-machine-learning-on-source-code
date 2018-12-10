@@ -232,6 +232,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [Summarizing Source Code with Transferred API Knowledge](https://xin-xia.github.io/publication/ijcai18.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin, IJCAI 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Code Comment Generation](https://xin-xia.github.io/publication/icpc182.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Zhi Jin, ICPC 2018.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [A Neural Framework for Retrieval and Summarization of Source Code](https://dl.acm.org/citation.cfm?id=3240471) - Qingying Chen, Minghui Zhou, ASE 2018.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Improving Automatic Source Code Summarization via Deep Reinforcement Learning](https://arxiv.org/abs/1811.07234) - Yao Wan, Zhou Zhao, Min Yang, Guandong Xu, Haochao Ying, Jian Wu and Philip S. Yu, ASE 2018.
 
 #### Clone Detection
 
