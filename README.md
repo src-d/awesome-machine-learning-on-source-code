@@ -342,6 +342,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * [kmcuda](https://github.com/src-d/kmcuda) - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
 * [wmd-relax](https://github.com/src-d/wmd-relax) - Python package which finds nearest neighbors at Word Mover's Distance.
 * [Tregex, Tsurgeon and Semgrex](https://nlp.stanford.edu/software/tregex.shtml) - Tregex is a utility for matching patterns in trees, based on tree relationships and regular expression matches on nodes (the name is short for "tree regular expressions").
+* [source{d} models](https://github.com/src-d/models) - Machine Learning models for MLonCode trained using the source{d} stack.
 
 #### Datasets
 
