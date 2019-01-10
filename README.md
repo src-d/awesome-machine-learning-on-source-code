@@ -242,7 +242,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A study of repetitiveness of code changes in software evolution](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1016&context=cs_conf) - HA Nguyen, AT Nguyen, TT Nguyen, TN Nguyen, H Rajan, ASE 2013.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [A Deep Learning Approach to Program Similarity](https://dl.acm.org/citation.cfm?id=3243131) - Niccolò Marastoni, Roberto Giacobazzi and Mila Dalla Preda, MASES 2018.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [Recurrent Neural Network for Code Clone Detection](https://seim-conf.org/media/materials/2018/proceedings/SEIM-2018_Short_Papers.pdf#page=48) - Arseny Zorin and Vladimir Itsykson, SEIM 2018.
-* <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [The Adverse Effects of Code Duplication in Machine Learning Models of Code](https://arxiv.org/abs/1812.06469) - Miltiadis Allamanis, 2019.
+* <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [The Adverse Effects of Code Duplication in Machine Learning Models of Code](https://arxiv.org/abs/1812.06469) - Miltiadis Allamanis, 2018.
 
 #### Differentiable Interpreters
 
