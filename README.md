@@ -367,6 +367,14 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * [NL2Bash](https://github.com/TellinaTool/nl2bash) - This dataset contains a set of ~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
 - [GitHub JavaScript Dump October 2016](https://archive.org/details/javascript-sources-oct2016.sqlite3) - Dataset consisting of 494,352 syntactically-valid JavaScript files obtained from the top ~10000 starred JavaScript repositories on GitHub, with licenses, and parsed ASTs.
 
+## Researchers
+* [Rishabh Singh](https://rishabhmit.bitbucket.io/)
+* [Marc Brockschmidt](https://www.microsoft.com/en-us/research/people/mabrocks/)
+* [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/)
+* [Martin C. Rinard](http://people.csail.mit.edu/rinard/)
+* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/)
+* [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/)
+
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
