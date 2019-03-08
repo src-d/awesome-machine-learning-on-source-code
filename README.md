@@ -103,6 +103,8 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/5-pages-gray.svg" alt="5-pages" align="top"> [Programs as Black-Box Explanations](https://arxiv.org/abs/1611.07579) - Singh, Sameer, Marco Tulio Ribeiro, and Carlos Guestrin, NIPS 2016.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Search-Based Generalization and Refinement of Code Templates](http://soft.vub.ac.be/Publications/2016/vub-soft-tr-16-06.pdf) - Tim Molderez, Coen De Roover, SSBSE 2016.
 * <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Structured Generative Models of Natural Source Code](https://arxiv.org/abs/1401.0514) - Chris J. Maddison, Daniel Tarlow, ICML 2014.
+* <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Synthetic Datasets for Neural Program Synthesis](https://openreview.net/forum?id=ryeOSnAqYm) - Richard Shin, Neel Kant, Kavi Gupta, Chris Bender, Brandon Trabucco, Rishabh Singh, Dawn Song, ICLR 2019.
+* <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Execution-Guided Neural Program Synthesis](https://openreview.net/forum?id=H1gfOiAqYm) - Xinyun Chen, Chang Liu, Dawn Song, ICLR 2019.
 
 #### Source Code Analysis and Language modeling
 
@@ -118,6 +120,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Suggesting Accurate Method and Class Names](http://homepages.inf.ed.ac.uk/csutton/publications/accurate-method-and-class.pdf) - Miltiadis Allamanis, Earl T. Barr, Christian Bird, Charles Sutton, FSE 2015.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Mining Source Code Repositories at Massive Scale using Language Modeling](http://homepages.inf.ed.ac.uk/csutton/publications/msr2013.pdf) - Miltiadis Allamanis, Charles Sutton, MSR 2013.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Learning Type Inference](http://vhellendoorn.github.io/PDF/fse2018-j2t.pdf) - Vincent J. Hellendoorn, Christian Bird, Earl T. Barr and Miltiadis Allamanis, FSE 2018. [Code](https://github.com/DeepTyper/DeepTyper).
+* <img src="badges/24-pages-gray.svg" alt="24-pages" align="top"> [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX) - Marc Brockschmidt, Miltiadis Allamanis, Alexander L. Gaunt, Oleksandr Polozov, ICLR 2019.
 
 #### Neural Network Architectures and Algorithms
 
@@ -188,6 +191,8 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [An Empirical Investigation into Learning Bug-Fixing Patches in the Wild via Neural Machine Translation](http://www.cs.wm.edu/~denys/pubs/ASE%2718-Learning-Bug-Fixes-NMT.pdf) - Michele Tufano, Cody Watson, Gabriele Bavota, Massimiliano Di Penta, Martin White, Denys Poshyvanyk, ASE 2018.
 * <img src="badges/23-pages-gray.svg" alt="23-pages" align="top"> [DeepBugs: A Learning Approach to Name-based Bug Detection](https://arxiv.org/pdf/1805.11683.pdf) - Michael Pradel, Koushik Sen, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Learning How to Mutate Source Code from Bug-Fixes](https://arxiv.org/abs/1812.10772) - Michele Tufano, Cody Watson, Gabriele Bavota, Massimiliano Di Penta, Martin White, Denys Poshyvanyk, 2018.
+* <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Maximal Divergence Sequential Autoencoder for Binary Software Vulnerability Detection](https://openreview.net/forum?id=ByloIiCqYQ) - Tue Le, Tuan Nguyen, Trung Le, Dinh Phung, Paul Montague, Olivier De Vel, Lizhen Qu, ICLR 2019.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Neural Program Repair by Jointly Learning to Localize and Repair](https://openreview.net/forum?id=ByloJ20qtm) - Marko Vasic, Aditya Kanade, Petros Maniatis, David Bieber, Rishabh Singh, ICLR 2019.
 
 #### APIs and Code Mining
 
