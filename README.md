@@ -339,7 +339,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * [DeepBugs](https://github.com/michaelpradel/DeepBugs) - Framework for learning bug detectors from an existing code corpus.
 * [DeepSim](https://github.com/parasol-aser/deepsim) - a deep learning-based approach to measure code functional similarity.
 * [rnn-autocomplete](https://github.com/ZeRoGerc/rnn-autocomplete) - Neural code autocompletion with RNN (bachelor's thesis).
-
+* [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning.
 
 #### Utilities
 
