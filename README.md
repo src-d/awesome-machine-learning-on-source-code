@@ -302,6 +302,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 * [The eigenvector of "Why we moved from language X to language Y"](https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html)
 * [Analyzing Github, How Developers Change Programming Languages Over Time](https://blog.sourced.tech/post/language_migrations/)
 * [Topic Modeling of GitHub Repositories](https://blog.sourced.tech//post/github_topic_modeling/)
+* [Aroma: Using machine learning for code recommendation](https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/)
 
 ## Talks
 
