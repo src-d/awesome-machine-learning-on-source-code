@@ -105,6 +105,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Structured Generative Models of Natural Source Code](https://arxiv.org/abs/1401.0514) - Chris J. Maddison, Daniel Tarlow, ICML 2014.
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Synthetic Datasets for Neural Program Synthesis](https://openreview.net/forum?id=ryeOSnAqYm) - Richard Shin, Neel Kant, Kavi Gupta, Chris Bender, Brandon Trabucco, Rishabh Singh, Dawn Song, ICLR 2019.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Execution-Guided Neural Program Synthesis](https://openreview.net/forum?id=H1gfOiAqYm) - Xinyun Chen, Chang Liu, Dawn Song, ICLR 2019.
+* <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing](https://faculty.ist.psu.edu/wu/papers/DeepFuzz.pdf) - Xiao Liu, Xiaoting Li, Rupesh Prajapati, Dinghao Wu, AAAI 2019.
 
 #### Source Code Analysis and Language modeling
 
