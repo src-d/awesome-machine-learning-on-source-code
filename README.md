@@ -270,7 +270,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 
 #### AST Differencing
 
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [ClDiff: Generating Concise Linked Code Differences](https://chenbihuan.github.io/paper/ase18-huang-diff.pdf) - Kaifeng Huang, Bihuan Chen, Xin Peng, Daihong Zhou, Ying Wang, Yang Liu, Wenyun Zhao, ASE 2018. [Code](https://github.com/FudanSELab/CLDIFF).
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [ClDiff: Generating Concise Linked Code Differences](https://chenbihuan.github.io/paper/ase18-huang-cldiff.pdf) - Kaifeng Huang, Bihuan Chen, Xin Peng, Daihong Zhou, Ying Wang, Yang Liu, Wenyun Zhao, ASE 2018. [Code](https://github.com/FudanSELab/CLDIFF).
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Generating Accurate and Compact Edit Scripts Using Tree Differencing](http://www.xifiggam.eu/wp-content/uploads/2018/08/GeneratingAccurateandCompactEditScriptsusingTreeDifferencing.pdf) - Veit Frick, Thomas Grassauer, Fabian Beck, Martin Pinzger, ICSME 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Fine-grained and Accurate Source Code Differencing](https://hal.archives-ouvertes.fr/hal-01054552/document) - Jean-Rémy Falleri, Floréal Morandat, Xavier Blanc, Matias Martinez, Martin Monperrus, ASE 2014.
 
