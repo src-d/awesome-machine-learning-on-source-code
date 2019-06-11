@@ -110,7 +110,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Source Code Analysis and Language modeling
 
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [NL2Type: Inferring JavaScript Function Types from Natural Language Information](http://software-lab.org/publications/icse2019_NL2Type.pdf) - Rabee Sohail Malik, Jibesh Patra, Michael Pradel, ICSE 2019
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [A Novel Neural Source Code Representation based on Abstract Syntax Tree](https://dl.acm.org/citation.cfm?id=3339604) - Jian Zhang, Xu Wang, Hongyu Zhang, Hailong Sun, Kaixuan Wang, Xudong Liu, ICSE 2019
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [A Novel Neural Source Code Representation based on Abstract Syntax Tree](http://xuwang.tech/paper/astnn_icse2019.pdf) - Jian Zhang, Xu Wang, Hongyu Zhang, Hailong Sun, Kaixuan Wang, Xudong Liu, ICSE 2019
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Tree2Tree Neural Translation Model for Learning Source Code Changes](https://arxiv.org/pdf/1810.00314.pdf) - Saikat Chakraborty, Miltiadis Allamanis, Baishakhi Ray, 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [code2seq: Generating Sequences from Structured Representations of Code](https://arxiv.org/abs/1808.01400) - Uri Alon, Omer Levy, Eran Yahav, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Syntax and Sensibility: Using language models to detect and correct syntax errors](http://softwareprocess.es/pubs/santos2018SANER-syntax.pdf) - Eddie Antonio Santos, Joshua Charles Campbell, Dhvani Patel, Abram Hindle, and José Nelson Amaral, SANER 2018.
