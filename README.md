@@ -109,6 +109,8 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Source Code Analysis and Language modeling
 
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [NL2Type: Inferring JavaScript Function Types from Natural Language Information](http://software-lab.org/publications/icse2019_NL2Type.pdf) - Rabee Sohail Malik, Jibesh Patra, Michael Pradel, ICSE 2019
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [A Novel Neural Source Code Representation based on Abstract Syntax Tree](http://xuwang.tech/paper/astnn_icse2019.pdf) - Jian Zhang, Xu Wang, Hongyu Zhang, Hailong Sun, Kaixuan Wang, Xudong Liu, ICSE 2019
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Tree2Tree Neural Translation Model for Learning Source Code Changes](https://arxiv.org/pdf/1810.00314.pdf) - Saikat Chakraborty, Miltiadis Allamanis, Baishakhi Ray, 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [code2seq: Generating Sequences from Structured Representations of Code](https://arxiv.org/abs/1808.01400) - Uri Alon, Omer Levy, Eran Yahav, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Syntax and Sensibility: Using language models to detect and correct syntax errors](http://softwareprocess.es/pubs/santos2018SANER-syntax.pdf) - Eddie Antonio Santos, Joshua Charles Campbell, Dhvani Patel, Abram Hindle, and José Nelson Amaral, SANER 2018.
@@ -128,6 +130,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/13-pages-gray.svg" alt="13-pages" align="top"> [Neural Code Comprehension: A Learnable Representation of Code Semantics](https://arxiv.org/abs/1806.07336) - Tal Ben-Nun, Alice Shoshana Jakobovits, Torsten Hoefler, NIPS 2018.
 * <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [A General Path-Based Representation for Predicting Program Properties](https://arxiv.org/abs/1803.09544) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, PLDI 2018.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Cross-Language Learning for Program Classification using Bilateral Tree-Based Convolutional Neural Networks](https://arxiv.org/abs/1710.06159v2) - Nghi D. Q. Bui, Lingxiao Jiang, Yijun Yu, AAAI 2018.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Bilateral Dependency Neural Networks for Cross-Language Algorithm Classification](https://bdqnghi.github.io/files/SANER_2019_bilateral_dependency.pdf) - Nghi D. Q. Bui, Yijun Yu, Lingxiao Jiang, SANER 2018.
 * <img src="badges/17-pages-gray.svg" alt="17-pages" align="top"> [Syntax-Directed Variational Autoencoder for Structured Data](https://openreview.net/pdf?id=SyqShMZRb) - Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song, ICLR 2018.
 * <img src="badges/19-pages-gray.svg" alt="19-pages" align="top"> [Divide and Conquer with Neural Networks](https://arxiv.org/abs/1611.02401) - Nowak, Alex, and Joan Bruna, ICLR 2018.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Learning Efficient Algorithms with Hierarchical Attentive Memory](https://arxiv.org/abs/1602.03218) - Andrychowicz, Marcin, and Karol Kurach, 2016.
@@ -200,6 +203,7 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 #### APIs and Code Mining
 
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Hierarchical Learning of Cross-Language Mappings through Distributed Vector Representations for Code](https://arxiv.org/abs/1803.04715) - Nghi D. Q. Bui, Lingxiao Jiang, ICSE 2018.
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [SAR: Learning Cross-Language API Mappings with Little Knowledge](https://bdqnghi.github.io/files/FSE_2019.pdf) - Nghi D. Q. Bui, Yijun Yu, Lingxiao Jiang, FSE 2019.
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning](https://arxiv.org/abs/1704.07734v1) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, IJCAI 2017.
 * <img src="badges/9-pages-gray.svg" alt="9-pages" align="top"> [Mining Change Histories for Unknown Systematic Edits](http://soft.vub.ac.be/Publications/2017/vub-soft-tr-17-04.pdf) - Tim Molderez, Reinout Stevens, Coen De Roover, MSR 2017.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep API Learning](https://arxiv.org/abs/1605.08535v3) - Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim, FSE 2016.
