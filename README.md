@@ -250,6 +250,10 @@ Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
 
 #### Clone Detection
 
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Neural Detection of Semantic Code Clones via
+Tree-Based Convolution](http://taoxie.cs.illinois.edu/publications/icpc19-clone.pdf) - Hao Yu, Wing Lam, Long Chen, Ge Li, Tao Xie and Qianxiang Wang, ICPC 2019.
+* <img src="badges/9-pages-gray.svg" alt="9-pages" align="top"> [Capturing Source Code Semantics via Tree-based Convolution
+over API-enhanced AST](https://dl.acm.org/citation.cfm?id=3321560) - Long Chen, Wei Ye, Shikun Zhang CF 2019.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Learning-Based Recursive Aggregation of Abstract Syntax Trees for Code Clone Detection](https://pvs.ifi.uni-heidelberg.de/fileadmin/papers/2019/Buech-Andrzejak-SANER2019.pdf) - Lutz Büch and Artur Andrzejak, SANER 2019.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [A Deep Learning Approach to Program Similarity](https://dl.acm.org/citation.cfm?id=3243131) - Niccolò Marastoni, Roberto Giacobazzi and Mila Dalla Preda, MASES 2018.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [Recurrent Neural Network for Code Clone Detection](https://seim-conf.org/media/materials/2018/proceedings/SEIM-2018_Short_Papers.pdf#page=48) - Arseny Zorin and Vladimir Itsykson, SEIM 2018.
