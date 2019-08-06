@@ -72,6 +72,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Program Synthesis and Induction
 
+- <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Program Synthesis and Semantic Parsing with Learned Code Idioms](https://arxiv.org/abs/1906.10816v2) - Richard Shin, Miltiadis Allamanis, Marc Brockschmidt, Oleksandr Polozov, 2019.
 - <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [Synthetic Datasets for Neural Program Synthesis](https://openreview.net/forum?id=ryeOSnAqYm) - Richard Shin, Neel Kant, Kavi Gupta, Chris Bender, Brandon Trabucco, Rishabh Singh, Dawn Song, ICLR 2019.
 - <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Execution-Guided Neural Program Synthesis](https://openreview.net/forum?id=H1gfOiAqYm) - Xinyun Chen, Chang Liu, Dawn Song, ICLR 2019.
 - <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing](https://faculty.ist.psu.edu/wu/papers/DeepFuzz.pdf) - Xiao Liu, Xiaoting Li, Rupesh Prajapati, Dinghao Wu, AAAI 2019.
@@ -107,6 +108,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Source Code Analysis and Language modeling
 
+- <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Modeling Vocabulary for Big Code Machine Learning](https://arxiv.org/abs/1904.01873v1) - Hlib Babii, Andrea Janes, Romain Robbes, 2019.
 - <img src="badges/24-pages-gray.svg" alt="24-pages" align="top"> [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX) - Marc Brockschmidt, Miltiadis Allamanis, Alexander L. Gaunt, Oleksandr Polozov, ICLR 2019.
 - <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [NL2Type: Inferring JavaScript Function Types from Natural Language Information](http://software-lab.org/publications/icse2019_NL2Type.pdf) - Rabee Sohail Malik, Jibesh Patra, Michael Pradel, ICSE 2019.
 - <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [A Novel Neural Source Code Representation based on Abstract Syntax Tree](http://xuwang.tech/paper/astnn_icse2019.pdf) - Jian Zhang, Xu Wang, Hongyu Zhang, Hailong Sun, Kaixuan Wang, Xudong Liu, ICSE 2019.
@@ -125,6 +127,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Neural Network Architectures and Algorithms
 
+- <img src="badges/19-pages-gray.svg" alt="19-pages" align="top"> [Learning Compositional Neural Programs with Recursive Tree Search and Planning](https://arxiv.org/abs/1905.12941v1) - Thomas Pierrot, Guillaume Ligner, Scott Reed, Olivier Sigaud, Nicolas Perrin, Alexandre Laterre, David Kas, Karim Beguir, Nando de Freitas, 2019.
 - <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [From Programs to Interpretable Deep Models and Back](https://link.springer.com/content/pdf/10.1007%2F978-3-319-96145-3_2.pdf) - Eran Yahav, ICCAV 2018.
 - <img src="badges/13-pages-gray.svg" alt="13-pages" align="top"> [Neural Code Comprehension: A Learnable Representation of Code Semantics](https://arxiv.org/abs/1806.07336) - Tal Ben-Nun, Alice Shoshana Jakobovits, Torsten Hoefler, NIPS 2018.
 - <img src="badges/16-pages-gray.svg" alt="16-pages" align="top"> [A General Path-Based Representation for Predicting Program Properties](https://arxiv.org/abs/1803.09544) - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav, PLDI 2018.
@@ -160,6 +163,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Program Translation
 
+- <img src="badges/18-pages-gray.svg" alt="18-pages" align="top"> [Towards Neural Decompilation](https://arxiv.org/abs/1905.08325v1) - Omer Katz, Yuval Olshaker, Yoav Goldberg, Eran Yahav, 2019.
 - <img src="badges/14-pages-gray.svg" alt="14-pages" align="top"> [Tree-to-tree Neural Networks for Program Translation](https://arxiv.org/abs/1802.03691v1) - Xinyun Chen, Chang Liu, Dawn Song, ICLR 2018.
 - <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Code Attention: Translating Code to Comments by Exploiting Domain Features](https://arxiv.org/abs/1709.07642v2) - Wenhao Zheng, Hong-Yu Zhou, Ming Li, Jianxin Wu, 2017.
 - <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Automatically Generating Commit Messages from Diffs using Neural Machine Translation](https://arxiv.org/abs/1708.09492v1) - Siyuan Jiang, Ameer Armaly, Collin McMillan, ASE 2017.
