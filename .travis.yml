@@ -5,7 +5,7 @@ before_script:
   - gem install awesome_bot
 
 script:
-  - awesome_bot --allow 429 --allow-redirect --skip-save-results README.md --white-list dl.acm.org
+  - awesome_bot --allow 429 --allow-redirect --skip-save-results README.md --white-list dl.acm.org,arxiv.org
 
 notifications:
   email: false
