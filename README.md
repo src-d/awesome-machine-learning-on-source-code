@@ -384,6 +384,7 @@ A curated list of awesome research papers, datasets and software projects devote
 - [card2code](https://github.com/deepmind/card2code) - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](#card2code).
 - [NL2Bash](https://github.com/TellinaTool/nl2bash) - This dataset contains a set of ~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
 - [GitHub JavaScript Dump October 2016](https://archive.org/details/javascript-sources-oct2016.sqlite3) - Dataset consisting of 494,352 syntactically-valid JavaScript files obtained from the top ~10000 starred JavaScript repositories on GitHub, with licenses, and parsed ASTs.
+- [BigCloneBench](https://jeffsvajlenko.weebly.com/bigcloneeval.html) - Clone detection benchmark of 8 million function clone pairs in the IJaDataset.
 
 ## Credits
 
