@@ -368,6 +368,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Datasets
 
+- [Neural-Code-Search-Evaluation-Dataset](https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset) - dataset contains links to 4.7M methods from 24k+ repositories with 287 StackOverflow questions and code snippet answers.
 - [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) - 3 TB of Git repositories from GitHub.
 - [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) - ~148K Python and ~120K SQL question-code pairs mined from StackOverflow.
 - [GitHub Issue Titles and Descriptions for NLP Analysis](https://www.kaggle.com/davidshinn/github-issues/) - ~8 million GitHub issue titles and descriptions from 2017.
