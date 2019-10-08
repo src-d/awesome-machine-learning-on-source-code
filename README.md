@@ -369,7 +369,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Datasets
 
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) -  collection of datasets and benchmarks for code retrieval using natural language. Contains 2M pairs of (`comment`, `code`).
-- [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) - 3 TB of Git repositories from GitHub.
+- [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) - 6 TB of Git repositories from GitHub.
 - [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) - ~148K Python and ~120K SQL question-code pairs mined from StackOverflow.
 - [GitHub Issue Titles and Descriptions for NLP Analysis](https://www.kaggle.com/davidshinn/github-issues/) - ~8 million GitHub issue titles and descriptions from 2017.
 - [GitHub repositories - languages distribution](https://data.world/source-d/github-repositories-languages-distribution) - Programming languages distribution in 14,000,000 repositories on GitHub (October 2016).
