@@ -354,6 +354,7 @@ A curated list of awesome research papers, datasets and software projects devote
 - [DeepBugs](https://github.com/michaelpradel/DeepBugs) - Framework for learning bug detectors from an existing code corpus.
 - [DeepSim](https://github.com/parasol-aser/deepsim) - a deep learning-based approach to measure code functional similarity.
 - [rnn-autocomplete](https://github.com/ZeRoGerc/rnn-autocomplete) - Neural code autocompletion with RNN (bachelor's thesis).
+- [Catalyst](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 
 #### Utilities
 
