@@ -67,6 +67,8 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Competitions
 
 - [CodRep](https://github.com/KTH/CodRep-competition) - competition on automatic program repair: given a source line, find the insertion point.
+-[Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) - Predicting who will survive in the titanic disaster
+-[Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles) - Can you advance the state of the art in 3D object detection?
 
 ## Papers
 
