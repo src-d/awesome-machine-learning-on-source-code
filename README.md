@@ -48,6 +48,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Conferences
 
 - <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [ACM International Conference on Software Engineering, ICSE](https://www.icse2018.org/)
+- <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [ACM International Conference on Automated Software Engineering, ASE](https://2019.aseconf.org)
 - <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2018)
 - <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [2018 IEEE 25th International Conference on Software Analysis, Evolution, and Reengineering (SANER)](https://www.conference-publishing.com/list.php?Event=SANER18MAIN)
 - <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [Machine Learning for Programming](https://ml4p.org/)
