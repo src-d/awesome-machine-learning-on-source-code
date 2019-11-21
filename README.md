@@ -258,6 +258,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Clone Detection
 
 - <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Learning-Based Recursive Aggregation of Abstract Syntax Trees for Code Clone Detection](https://pvs.ifi.uni-heidelberg.de/fileadmin/papers/2019/Buech-Andrzejak-SANER2019.pdf) - Lutz Büch and Artur Andrzejak, SANER 2019.
+- <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Oreo: detection of clones in the twilight zone](https://dl.acm.org/citation.cfm?id=3236026) - Vaibhav Saini, Farima Farmahinifarahani, Yadong Lu, Pierre Baldi, and Cristina V. Lopes, FSE 2018.
 - <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [A Deep Learning Approach to Program Similarity](https://dl.acm.org/citation.cfm?id=3243131) - Niccolò Marastoni, Roberto Giacobazzi and Mila Dalla Preda, MASES 2018.
 - <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [Recurrent Neural Network for Code Clone Detection](https://seim-conf.org/media/materials/2018/proceedings/SEIM-2018_Short_Papers.pdf#page=48) - Arseny Zorin and Vladimir Itsykson, SEIM 2018.
 - <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [The Adverse Effects of Code Duplication in Machine Learning Models of Code](https://arxiv.org/abs/1812.06469) - Miltiadis Allamanis, 2018.
