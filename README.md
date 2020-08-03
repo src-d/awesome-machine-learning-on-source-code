@@ -1,5 +1,8 @@
 # Awesome Machine Learning On Source Code [![Awesome Machine Learning On Source Code](badges/awesome.svg)](https://github.com/src-d/awesome-machine-learning-on-source-code) [![CI Status](https://travis-ci.org/src-d/awesome-machine-learning-on-source-code.svg)](https://travis-ci.org/src-d/awesome-machine-learning-on-source-code)
 
+
+**Warning:** This repository is no longer actively maintained. For a maintained repository, see [ml4code.github.io](https://ml4code.github.io/papers.html)
+
 ![Awesome Machine Learning On Source Code](img/awesome-machine-learning-artwork.png)
 
 A curated list of awesome research papers, datasets and software projects devoted to machine learning _and_ source code. [#MLonCode](https://twitter.com/hashtag/MLonCode)
