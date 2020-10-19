@@ -356,6 +356,7 @@ A curated list of awesome research papers, datasets and software projects devote
 - [DeepBugs](https://github.com/michaelpradel/DeepBugs) - Framework for learning bug detectors from an existing code corpus.
 - [DeepSim](https://github.com/parasol-aser/deepsim) - a deep learning-based approach to measure code functional similarity.
 - [rnn-autocomplete](https://github.com/ZeRoGerc/rnn-autocomplete) - Neural code autocompletion with RNN (bachelor's thesis).
+- [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 
 #### Utilities
 
